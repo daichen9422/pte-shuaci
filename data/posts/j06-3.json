@@ -1,0 +1,702 @@
+[
+ {
+  "w": "inbred",
+  "title": "为什么小种群容易 inbred？生物课讲透了",
+  "line": "基因池太小",
+  "stk": "🧬",
+  "body": "inbred = in（在内部）+ bred（breed 繁殖的过去分词）= 在内部繁殖的 → 近亲繁殖的；名词 inbreeding（近亲繁殖）。\n生物学里，一个孤立的小种群反复内部繁殖，遗传多样性（genetic diversity）就会下降，后代更容易出现遗传病。\nPTEGO 里的“天生的”是较旧的用法，现在表达“根深蒂固、与生俱来”更常用 ingrained、innate、deep-rooted。\n形近词：inbred（近亲繁殖的）vs inborn（天生的），只差几个字母，意思不同，阅读里要看清。",
+  "ex": "Small, isolated populations often become inbred, which reduces genetic diversity and increases the risk of disease.",
+  "exCn": "孤立的小种群往往会近亲繁殖，这会降低遗传多样性并增加患病风险。",
+  "pte": "形近 inbred vs inborn。名词 inbreeding。“天生的”可替换为 innate、ingrained。",
+  "tags": "#生物课 #形近词",
+  "cm": [
+   [
+    "生态学研一",
+    "保护区里最怕的就是种群太小",
+    "3420"
+   ],
+   [
+    "形近词受害者",
+    "inbred 和 inborn 我看成一个词",
+    "2876"
+   ],
+   [
+    "养猫人",
+    "纯种猫的遗传病就是这么来的",
+    "5103"
+   ]
+  ]
+ },
+ {
+  "w": "interrogate",
+  "title": "被移民局官员 interrogate 的十分钟，比考试还紧张",
+  "line": "一问一个准",
+  "stk": "🕵️",
+  "body": "interrogate 来自拉丁语 inter（在……之间）+ rogare（询问），意思是反复盘问 → 审问、质问。名词 interrogation，interrogator（审讯者）。同根词 prerogative（特权）。\n机场版：入境时被问“来干嘛、住哪里、带了什么吃的”，虽然只是例行 questioning，紧张得像被 interrogate。\n人文社科写作里还有个高级用法：interrogate assumptions / ideas = 审视、追问某个假设，比 question 更学术。\n同义替换：question、cross-examine、grill（口语：拷问）。",
+  "ex": "Police interrogated the suspect for several hours before releasing him without charge.",
+  "exCn": "警方审讯了这名嫌疑人几个小时，之后在未起诉的情况下将他释放。",
+  "pte": "重音在第二音节 -TER-。名词 interrogation。同义 question、cross-examine。",
+  "tags": "#入境经历 #学术动词",
+  "cm": [
+   [
+    "机场被查",
+    "我的老干妈被单独问了五分钟",
+    "1.2w"
+   ],
+   [
+    "社会学博士",
+    "论文里写 interrogate the assumption 很高级",
+    "3108"
+   ],
+   [
+    "刑侦剧爱好者",
+    "interrogation room 就是审讯室",
+    "2654"
+   ]
+  ]
+ },
+ {
+  "w": "luminosity",
+  "title": "恒星的 luminosity 和你看到的亮度，不是一回事",
+  "line": "真正的亮度",
+  "stk": "⭐",
+  "body": "luminosity 来自拉丁语 lumen（光），同根词 illuminate（照亮）、luminous（发光的）。意思是光度、亮度、光辉。\n天文学里要分清：luminosity 是恒星本身每秒释放的总能量（真实发光能力）；apparent brightness 是我们在地球上看到的亮度，会随距离变暗。\n所以一颗很亮的星可能只是离得近，一颗看着暗的星可能其实超级亮。比较这两者，天文学家就能估算距离。\n摄影和屏幕设置里，luminosity 也表示“明度、亮度”。",
+  "ex": "By comparing a star's luminosity with its apparent brightness, astronomers can estimate its distance from Earth.",
+  "exCn": "通过比较恒星的光度和视亮度，天文学家可以估算出它与地球的距离。",
+  "pte": "重音 -NOS-：/ˌluːmɪˈnɒsəti/。同根 luminous、illuminate。区分 apparent brightness。",
+  "tags": "#天文冷知识 #词根记忆",
+  "cm": [
+   [
+    "观星爱好者",
+    "澳洲内陆的星空真的绝",
+    "6720"
+   ],
+   [
+    "天体物理",
+    "luminosity 和 brightness 期中必考概念",
+    "2310"
+   ],
+   [
+    "修图师",
+    "Lightroom 里也有 luminosity 滑块",
+    "3902"
+   ]
+  ]
+ },
+ {
+  "w": "motivator",
+  "title": "考 PTE 最大的 motivator：签证截止日期",
+  "line": "截止日期最管用",
+  "stk": "⏰",
+  "body": "motivator = motivate（激励）+ -or（人或物）= 激励因素、动力来源，也可以指“激励别人的人”。\n词族：motive（动机）→ motivate（激励）→ motivation（动力）→ motivator（激励因素）。\n搭配：a powerful / strong motivator、the main motivator for sb to do sth。\n心理学里常区分 intrinsic motivation（内在动力，比如兴趣）和 extrinsic motivation（外在动力，比如奖金）。\n备考版：说是热爱英语，其实最强的 motivator 是签证到期日和那一张 Invitation。",
+  "ex": "For many employees, recognition from managers is a more powerful motivator than a pay rise.",
+  "exCn": "对许多员工来说，管理者的认可是比加薪更强大的激励因素。",
+  "pte": "词族 motive / motivate / motivation / motivator。拼写 -or 结尾。",
+  "tags": "#签证焦虑 #词族记忆",
+  "cm": [
+   [
+    "签证倒计时",
+    "离到期还有三个月，我突然很爱学习",
+    "1.5w"
+   ],
+   [
+    "HR 本人",
+    "表扬真的比奖金便宜",
+    "4210"
+   ],
+   [
+    "心理学",
+    "intrinsic vs extrinsic 期末重点",
+    "2865"
+   ]
+  ]
+ },
+ {
+  "w": "papyrus",
+  "title": "paper 这个词，祖宗是古埃及的 papyrus",
+  "line": "纸的老祖宗",
+  "stk": "📜",
+  "body": "papyrus = 纸莎草，也指古埃及人用纸莎草茎做成的书写材料（纸莎草纸），以及写在上面的文献。\n词源：来自希腊语 papyros，英语的 paper（纸）就是从它演变来的。\n复数有两种：papyri（学术常用）和 papyruses。\n做法：把尼罗河边纸莎草的茎切成薄条，纵横交叠压平晒干，就成了能写字的“纸”。博物馆里看到的古埃及文书，很多就是 papyrus。",
+  "ex": "Ancient Egyptians wrote on papyrus, a material made from the stems of a plant that grew along the Nile.",
+  "exCn": "古埃及人在纸莎草纸上书写，这种材料是用生长在尼罗河沿岸的一种植物的茎做成的。",
+  "pte": "发音 /pəˈpaɪrəs/，重音在第二音节。复数 papyri。词源与 paper 相关。",
+  "tags": "#古埃及 #词源故事",
+  "cm": [
+   [
+    "博物馆常客",
+    "澳洲博物馆的古埃及展我去了三次",
+    "3412"
+   ],
+   [
+    "历史系",
+    "papyri 才是学术圈的复数",
+    "2108"
+   ],
+   [
+    "纸张爱好者",
+    "原来 paper 有这么长的历史",
+    "4521"
+   ]
+  ]
+ },
+ {
+  "w": "pluralism",
+  "title": "一条街上有十种菜系，这就是 pluralism 的味道",
+  "line": "百花齐放",
+  "stk": "🌈",
+  "body": "pluralism = plural（复数的、多个的，来自拉丁语 plus / pluris：更多）+ -ism = 多元化、多元主义。形容词 pluralistic（多元的）。\n社会学里指不同文化、宗教、观点在一个社会里共存，并且被尊重；新闻学里有 media pluralism（媒体多元化），即信息来源不被少数机构垄断。\n生活版：墨尔本一条街，越南粉、印度咖喱、希腊烤肉、韩国炸鸡、四川火锅，舌尖上的 pluralism。\n易混：pluralism（多元化）≠ plurality（多数、相对多数）。",
+  "ex": "Media pluralism ensures that citizens have access to a wide range of viewpoints and sources of information.",
+  "exCn": "媒体多元化确保公民能够接触到广泛的观点和信息来源。",
+  "pte": "形容词 pluralistic。易混 pluralism（多元化）vs plurality（多数）。",
+  "tags": "#多元文化 #社科词汇",
+  "cm": [
+   [
+    "墨尔本吃货",
+    "Victoria Street 就是 pluralism 本街",
+    "6731"
+   ],
+   [
+    "传媒研一",
+    "media pluralism 是期末论文题",
+    "2390"
+   ],
+   [
+    "社会学小白",
+    "pluralistic society 写作好用",
+    "3108"
+   ]
+  ]
+ },
+ {
+  "w": "propagating",
+  "title": "阳台 propagating 绿萝，一根变十根",
+  "line": "一株变一盆",
+  "stk": "🪴",
+  "body": "propagate 来自拉丁语 propagare，原意就是“用插条、压条繁殖植物”。所以它最本源的意思是：繁殖（植物）。\n园艺版：剪一段绿萝插在水里，长根后再种进土里，这就是 propagating from cuttings（扦插繁殖）。\n引申义：propagate ideas / rumours（传播思想 / 谣言）；物理学里 sound waves propagate through the air（声波在空气中传播）。\n名词 propagation。同义替换：spread、disseminate、circulate（传播）；reproduce、breed（繁殖）。",
+  "ex": "Gardeners often save money by propagating new plants from cuttings taken in late spring.",
+  "exCn": "园丁们常通过用晚春剪下的插条繁殖新植株来省钱。",
+  "pte": "一词多义：繁殖植物 / 传播思想 / 波的传播。同义 spread、disseminate。",
+  "tags": "#阳台种菜 #一词多义",
+  "cm": [
+   [
+    "绿萝妈妈",
+    "现在全宿舍都是我的绿萝",
+    "5430"
+   ],
+   [
+    "物理系",
+    "wave propagation 是我的噩梦",
+    "2871"
+   ],
+   [
+    "植物杀手",
+    "我连仙人掌都能养死",
+    "8102"
+   ]
+  ]
+ },
+ {
+  "w": "spew",
+  "title": "澳洲人说 I'm spewing，不是真吐了",
+  "line": "气到想吐",
+  "stk": "🤮",
+  "body": "spew = 喷出、涌出；（口语）呕吐。\n正式用法：volcanoes spew ash and lava（火山喷出火山灰和熔岩）、factories spew smoke（工厂喷出浓烟）、spew out data（大量输出数据）。\n澳洲口语彩蛋：spew 在澳洲很常用于“吐”，而 I'm spewing / I'm spewin' 意思是“我气死了、我好失望”，比如没抢到演唱会门票。\n同义替换：emit、discharge、belch（喷出浓烟）。",
+  "ex": "The volcano continued to spew ash and lava for several days, forcing thousands of residents to evacuate.",
+  "exCn": "火山持续喷出火山灰和熔岩好几天，迫使数千名居民撤离。",
+  "pte": "发音 /spjuː/，与 few 同韵。搭配 spew out smoke / ash。同义 emit、discharge。",
+  "tags": "#澳洲口语 #火山",
+  "cm": [
+   [
+    "抢票失败",
+    "没抢到演唱会门票，我真的 spewing",
+    "1.2w"
+   ],
+   [
+    "澳洲同事",
+    "他说 spewing 的时候我以为要送医院",
+    "6301"
+   ],
+   [
+    "地理课",
+    "volcano spews lava，DI 描述图可用",
+    "2280"
+   ]
+  ]
+ },
+ {
+  "w": "squeak",
+  "title": "PTE 以 squeak through 的方式过了，一分不多",
+  "line": "险过也是过",
+  "stk": "🐭",
+  "body": "squeak = 吱吱叫（老鼠、门、鞋子）；短促的尖叫声。拟声词，读一遍就懂。\n重点口语用法：squeak through / squeak by = 勉强通过、险胜。比如 squeak through the exam（考试险过）、squeak into the final（险进决赛）。\n衍生：squeaky clean（干干净净的；形容人清白无污点）、The squeaky wheel gets the grease.（会哭的孩子有奶吃，美式谚语）。\n易混声音词：squeak（尖细的吱吱声）、squeal（更长更尖的尖叫）、creak（木门、地板的嘎吱声）。",
+  "ex": "The team squeaked into the finals after winning their last match by a single point.",
+  "exCn": "该队在最后一场比赛中以一分之差获胜，惊险地挤进了决赛。",
+  "pte": "短语 squeak through / squeak by（勉强通过）。易混 squeal、creak。",
+  "tags": "#险过 #拟声词",
+  "cm": [
+   [
+    "刚好65",
+    "每科都刚好，人生就是这么刺激",
+    "1.1w"
+   ],
+   [
+    "租房木地板",
+    "半夜上厕所全楼都知道",
+    "4320"
+   ],
+   [
+    "谚语收集",
+    "squeaky wheel 这句职场好用",
+    "2765"
+   ]
+  ]
+ },
+ {
+  "w": "telltale",
+  "title": "黑眼圈是熬夜的 telltale sign，粉底都盖不住",
+  "line": "出卖你的痕迹",
+  "stk": "🔍",
+  "body": "telltale = tell（说出）+ tale（故事），合起来是“把事情说出来的” → 暴露真相的、泄密的。\n最常见搭配：a telltale sign / signs of sth（某事的明显迹象）。比如叶子发黄是浇水过多的 telltale sign，黑眼圈是熬夜的 telltale sign。\n名词义：搬弄是非的人、打小报告的人（英式 telltale，美式 tattletale）。\n同义替换：revealing、giveaway（口语：露馅的东西）、indicative。",
+  "ex": "Yellowing leaves are often a telltale sign that a plant is receiving too much water.",
+  "exCn": "叶子发黄往往是植物浇水过多的明显迹象。",
+  "pte": "固定搭配 a telltale sign of。一个词也常写 tell-tale。同义 revealing。",
+  "tags": "#熬夜痕迹 #固定搭配",
+  "cm": [
+   [
+    "遮瑕膏重度用户",
+    "遮瑕也是 telltale，太厚了",
+    "5230"
+   ],
+   [
+    "植物新手",
+    "原来我是把它淹死的",
+    "3901"
+   ],
+   [
+    "小学告状王",
+    "telltale 原来是说我",
+    "4680"
+   ]
+  ]
+ },
+ {
+  "w": "annotation",
+  "title": "二手书里的 annotation，比正文还好看",
+  "line": "页边写满了",
+  "stk": "🖍️",
+  "body": "annotation 来自拉丁语 annotare：ad（向）+ notare（标记、记下），同根词 note、notation。意思是注释、批注、注解。动词 annotate。\n用法：make annotations in the margin（在页边做批注）、an annotated bibliography（带评注的参考文献列表，大学 assignment 里会遇到）。\nAI 时代新义：data annotation（数据标注），给图片、文本打标签，训练模型。\n二手书版：前任主人在页边画重点、写吐槽，偶尔还有“考点！”三个字，比正文还有意思。",
+  "ex": "The researcher's annotations in the margins reveal how her thinking about the problem developed over time.",
+  "exCn": "这位研究者在页边写下的批注揭示了她对这个问题的思考是如何随时间发展的。",
+  "pte": "拼写双 n：an-no-ta-tion。动词 annotate。搭配 annotated bibliography。",
+  "tags": "#二手书 #学术写作",
+  "cm": [
+   [
+    "二手书收藏家",
+    "我买到过一本全是笔记的教材，像开了外挂",
+    "4512"
+   ],
+   [
+    "数据标注员",
+    "annotation 就是我的工作内容",
+    "3108"
+   ],
+   [
+    "大一新生",
+    "annotated bibliography 写哭我了",
+    "6230"
+   ]
+  ]
+ },
+ {
+  "w": "barcode",
+  "title": "自助收银机对着 barcode 扫了十次都不响",
+  "line": "滴一声就好",
+  "stk": "🛒",
+  "body": "barcode = bar（条、杠）+ code（编码）= 条形码，由粗细不一的黑白条组成，机器扫描后读出商品信息。\n动词：scan a barcode（扫条形码）。QR code（二维码）其实也是一种二维条码（2D barcode）。\n超市自助收银版：barcode 对准扫描器，不响；换个角度，还不响；屏幕弹出 Unexpected item in the bagging area，店员走过来一扫就响了。\n拼写：barcode 写成一个词，也有人写作 bar code，两种都能见到。",
+  "ex": "Each sample is labelled with a unique barcode so that it can be tracked throughout the testing process.",
+  "exCn": "每个样本都贴有唯一的条形码，以便在整个检测过程中进行追踪。",
+  "pte": "合成词：barcode / bar code 都可。搭配 scan a barcode。",
+  "tags": "#超市日常 #合成词",
+  "cm": [
+   [
+    "自助收银受害者",
+    "unexpected item 这句我都会背了",
+    "1.3w"
+   ],
+   [
+    "Coles 员工",
+    "我一过去它就好了，我也不知道为啥",
+    "7820"
+   ],
+   [
+    "物流实习",
+    "每个包裹都要扫三遍 barcode",
+    "2304"
+   ]
+  ]
+ },
+ {
+  "w": "biosphere",
+  "title": "地球的 biosphere 其实只是薄薄一层",
+  "line": "生命的那一层",
+  "stk": "🌍",
+  "body": "biosphere = bio-（生命）+ sphere（球、层）= 生物圈，指地球上所有生命存在的区域，包括陆地、海洋和大气的下层。\n“圈层”家族一起记：atmosphere（大气圈）、hydrosphere（水圈）、lithosphere（岩石圈）、biosphere（生物圈）。\n相比地球的半径，生物圈非常薄，所以环境类文章常强调它的脆弱。\n同类 bio- 前缀词：biology、biodiversity（生物多样性）、biodegradable（可生物降解的）。",
+  "ex": "Human activity is placing unprecedented pressure on the biosphere, threatening countless species with extinction.",
+  "exCn": "人类活动正给生物圈带来前所未有的压力，使无数物种面临灭绝的威胁。",
+  "pte": "圈层词族：atmosphere、hydrosphere、lithosphere。重音在首音节 BI-。",
+  "tags": "#环境科学 #词族记忆",
+  "cm": [
+   [
+    "地理课代表",
+    "四个圈一起背，一次搞定",
+    "3302"
+   ],
+   [
+    "环保主义者",
+    "biosphere 真的很脆弱",
+    "2861"
+   ],
+   [
+    "前缀党",
+    "bio 开头的词我都不怕了",
+    "4105"
+   ]
+  ]
+ },
+ {
+  "w": "contemplative",
+  "title": "坐在海边一下午，我变成了 contemplative 的人",
+  "line": "望海发呆",
+  "stk": "🧘",
+  "body": "contemplative 来自 contemplate（沉思、凝视；考虑），意思是沉思的、冥想的、好静思的。\ncontemplate 源自拉丁语 contemplari，和 templum（古罗马占卜时划定的观察区域，后来指神庙）有关，原意是“专注地观察”。\n发音有两种：英式常读 /kənˈtemplətɪv/，重音在 -TEM-；也有人读 /ˈkɒntəmpleɪtɪv/。\n用法：a contemplative mood（沉思的心情）、a contemplative life（静修生活）。名词 contemplation。\n生活版：考完试去海边吹风，看着浪发呆，突然开始思考人生，这就是 contemplative moment。",
+  "ex": "The garden was designed as a quiet, contemplative space where visitors could escape the noise of the city.",
+  "exCn": "这座花园被设计成一个安静的、供人沉思的空间，游客可以在这里远离城市的喧嚣。",
+  "pte": "重音多在 -TEM-。名词 contemplation。搭配 a contemplative mood。",
+  "tags": "#海边发呆 #发音",
+  "cm": [
+   [
+    "Bondi 发呆人",
+    "看了一下午浪，什么也没想通",
+    "5640"
+   ],
+   [
+    "哲学系",
+    "contemplation 是我们的日常",
+    "2390"
+   ],
+   [
+    "考完试",
+    "现在只想 contemplate 晚饭",
+    "7102"
+   ]
+  ]
+ },
+ {
+  "w": "emigrate",
+  "title": "爷爷 emigrate，我 immigrate，方向别搞反",
+  "line": "离开故乡",
+  "stk": "✈️",
+  "body": "e-（向外）+ migrate（迁移）= 移出 → 移居国外。\n方向是关键：emigrate from 国家 A = 从 A 移民出去；immigrate to 国家 B = 移民到 B 来。站在原来国家角度用 emigrate，站在新国家角度用 immigrate。两者都可以 emigrate from A to B。\n名词：emigrant（移出者）、immigrant（移入者）、migrant（移民，中性）、emigration、immigration。\n拼写：emigrate 一个 m，immigrate 两个 m（im + migrate）。",
+  "ex": "Her grandparents emigrated from Italy to Australia in the 1950s in search of better opportunities.",
+  "exCn": "她的祖父母在二十世纪五十年代从意大利移居澳大利亚，寻找更好的机会。",
+  "pte": "易混 emigrate（移出）vs immigrate（移入）。拼写 emigrate 单 m，immigrate 双 m。",
+  "tags": "#移民话题 #易混词",
+  "cm": [
+   [
+    "墨尔本意大利街",
+    "Lygon Street 就是那代人留下的",
+    "4520"
+   ],
+   [
+    "拼写强迫",
+    "immigrate 双 m 我总写成一个",
+    "3902"
+   ],
+   [
+    "移民中介",
+    "客户问我 emigrate 和 immigrate 的区别",
+    "2108"
+   ]
+  ]
+ },
+ {
+  "w": "epistemology",
+  "title": "室友问我怎么知道自己知道，我推荐她读 epistemology",
+  "line": "你怎么知道的",
+  "stk": "🤔",
+  "body": "epistemology 来自希腊语 episteme（知识）+ -logy（学问）= 认识论，哲学中研究“知识是什么、我们怎样获得知识、怎样判断知识是否可靠”的分支。\n形容词 epistemological。\n哲学三件套：ontology（本体论，研究“存在是什么”）、epistemology（认识论）、methodology（方法论）。社科研究生写开题报告时经常同时遇到这三个词。\n发音：/ɪˌpɪstəˈmɒlədʒi/，重音在 -MOL-。",
+  "ex": "Epistemology examines how we come to know things and what counts as reliable evidence.",
+  "exCn": "认识论研究我们如何认识事物，以及什么才算可靠的证据。",
+  "pte": "重音 -MOL-。区分 ontology（本体论）、methodology（方法论）。",
+  "tags": "#哲学入门 #研究生日常",
+  "cm": [
+   [
+    "社科研一",
+    "开题报告第一页就是 ontology 和 epistemology",
+    "5302"
+   ],
+   [
+    "哲学系",
+    "我也不知道我知不知道",
+    "8901"
+   ],
+   [
+    "发音困难户",
+    "这个词我念了五遍才念顺",
+    "3210"
+   ]
+  ]
+ },
+ {
+  "w": "inflationary",
+  "title": "拉面涨到22刀，这就是 inflationary pressure",
+  "line": "钱包缩水",
+  "stk": "🍜",
+  "body": "inflationary = inflation（通货膨胀）+ -ary = 通货膨胀的、引起通胀的。\n最常见搭配：inflationary pressures（通胀压力）、an inflationary spiral（通胀螺旋）、inflationary effect（通胀效应）。\n词族：inflate（使膨胀）→ inflation（通胀）→ inflationary；反义 deflation（通货紧缩）→ deflationary。\n生活版：同一碗拉面、同一杯咖啡、同一份房租，一年后都悄悄涨价，工资却原地踏步，这就是 inflationary environment 下打工人的日常。",
+  "ex": "Economists warned that the large spending package could add to inflationary pressures in the economy.",
+  "exCn": "经济学家警告，这项大规模支出计划可能会加剧经济中的通胀压力。",
+  "pte": "固定搭配 inflationary pressures。反义 deflationary。重音在 -FLAY-。",
+  "tags": "#物价上涨 #经济词汇",
+  "cm": [
+   [
+    "拉面爱好者",
+    "一碗面22刀还不加蛋",
+    "9312"
+   ],
+   [
+    "经济学",
+    "inflationary pressures 新闻里天天出现",
+    "2876"
+   ],
+   [
+    "房租又涨",
+    "我的工资才是 deflationary",
+    "6102"
+   ]
+  ]
+ },
+ {
+  "w": "rework",
+  "title": "导师说 rework 一下，我听成了 rewrite all",
+  "line": "再改一版",
+  "stk": "🔄",
+  "body": "rework = re-（再、重新）+ work = 重做、修改、改编。名词也是 rework（修改稿、改编作品）。\n用法：rework a plan / a draft / a chapter（重新修改计划 / 草稿 / 章节）；rework a song（改编一首歌）。\n近义词辨析：revise（修订，偏文字）、redo（重做）、rewrite（重写）、modify（调整局部）。rework 介于修改和大改之间。\n论文版：导师批注里写着 please rework this section，你以为改几句，结果改完整整重写了一遍。",
+  "ex": "The authors were asked to rework the final chapter in response to the reviewers' comments.",
+  "exCn": "作者们被要求根据审稿人的意见修改最后一章。",
+  "pte": "前缀 re- 表示“重新”。同义替换 revise、redo、modify。",
+  "tags": "#论文修改 #前缀记忆",
+  "cm": [
+   [
+    "第五版终稿",
+    "final_final_v5.docx",
+    "1.4w"
+   ],
+   [
+    "审稿人",
+    "major revision 比 rework 更吓人",
+    "3201"
+   ],
+   [
+    "音乐人",
+    "rework 一首老歌也很常见",
+    "2678"
+   ]
+  ]
+ },
+ {
+  "w": "attuned",
+  "title": "和室友住久了，我已经 attuned 到她的开门声",
+  "line": "频道对上了",
+  "stk": "🎧",
+  "body": "attune = at（向）+ tune（调音）= 调到一个频道 → 使协调、使适应。attuned 是过去分词，常当形容词：协调的、敏感的、能理解的。\n固定搭配：be attuned to sth / sb（对……敏感、和……合拍）。比如 attuned to customers' needs（了解客户需求）、attuned to local culture（适应当地文化）。\n同义替换：in tune with、sensitive to、aware of。\n合租版：住久了，听脚步声就知道是哪个室友回来了，听冰箱门声就知道谁在偷吃。",
+  "ex": "Good teachers are closely attuned to the needs of students who may be struggling quietly.",
+  "exCn": "好的老师会敏锐地察觉那些可能在默默挣扎的学生的需要。",
+  "pte": "固定搭配 be attuned to。同义 in tune with、sensitive to。拼写双 t。",
+  "tags": "#合租日常 #固定搭配",
+  "cm": [
+   [
+    "冰箱守护者",
+    "听开门声就知道谁偷吃",
+    "7310"
+   ],
+   [
+    "小学老师",
+    "attuned to students' needs 写进教学反思",
+    "2540"
+   ],
+   [
+    "音乐系",
+    "tune 是调音，难怪",
+    "3102"
+   ]
+  ]
+ },
+ {
+  "w": "capillary",
+  "title": "capillary 原意是“像头发一样细”的血管",
+  "line": "细如发丝",
+  "stk": "🩸",
+  "body": "capillary 来自拉丁语 capillus（头发），意思是“像头发一样细的” → 毛细血管、毛细管。\n生理学：capillaries 连接动脉和静脉，管壁很薄，氧气和营养物质就是在这里进入身体组织的。\n物理学：capillary action（毛细作用）指液体在细管中自动上升或下降的现象，比如纸巾吸水、植物把水分往上运。\n发音：英式 /kəˈpɪləri/，重音在第二音节。",
+  "ex": "Oxygen passes from the blood into surrounding tissues through the thin walls of the capillaries.",
+  "exCn": "氧气通过毛细血管薄薄的管壁从血液进入周围组织。",
+  "pte": "重音 -PIL-。搭配 capillary action（毛细作用）。复数 capillaries。",
+  "tags": "#生理学 #词源故事",
+  "cm": [
+   [
+    "护理学生",
+    "动脉静脉毛细血管，三件套",
+    "3210"
+   ],
+   [
+    "纸巾吸水",
+    "原来这叫 capillary action",
+    "4512"
+   ],
+   [
+    "脱发人士",
+    "capillus 是头发，我没有了",
+    "9201"
+   ]
+  ]
+ },
+ {
+  "w": "humanistic",
+  "title": "马斯洛需求层次，属于 humanistic psychology",
+  "line": "以人为本",
+  "stk": "🫶",
+  "body": "humanistic = humanist（人文主义者）+ -ic = 人文主义的、人本主义的。来自 human（人）。\n心理学：humanistic psychology（人本主义心理学），代表人物有马斯洛（Maslow）和罗杰斯（Rogers），强调人的自我实现和个人成长。马斯洛需求层次理论就出自这一派。\n易混：humanistic（人文主义的）、humanitarian（人道主义的，如 humanitarian aid 人道主义援助）、humane（仁慈的、人道的）。\n教育学里 humanistic approach 强调尊重学生的感受和个性发展。",
+  "ex": "Humanistic approaches to education emphasise the personal growth and wellbeing of each individual learner.",
+  "exCn": "人本主义教育方法强调每个学习者的个人成长和身心健康。",
+  "pte": "易混 humanistic / humanitarian / humane。重音 -NIS-。",
+  "tags": "#心理学 #易混词",
+  "cm": [
+   [
+    "心理学大二",
+    "马斯洛金字塔考了三次",
+    "3801"
+   ],
+   [
+    "易混词受害者",
+    "humanitarian aid 我写成 humanistic aid",
+    "4210"
+   ],
+   [
+    "教育学研一",
+    "humanistic approach 是论文常客",
+    "2309"
+   ]
+  ]
+ },
+ {
+  "w": "intractable",
+  "title": "宿舍网速是我留学期间最 intractable 的问题",
+  "line": "怎么都搞不定",
+  "stk": "🧩",
+  "body": "in-（不）+ tractable（易处理的、驯服的）= 难以处理的 → 棘手的、难治的；形容人时是倔强的、难管的。\ntractable 来自拉丁语 tractare（处理、拉动），同根 trahere（拉），所以有 tractor（拖拉机）、attract（吸引）、extract（提取）。\n常见搭配：an intractable problem / conflict（棘手的问题 / 冲突）、intractable pain（顽固性疼痛）。\n同义替换：insoluble、unmanageable、stubborn。反义：manageable、solvable。",
+  "ex": "Homelessness has proved to be one of the most intractable social problems facing major cities.",
+  "exCn": "无家可归问题已被证明是大城市面临的最棘手的社会问题之一。",
+  "pte": "同义 insoluble、stubborn。搭配 an intractable problem。重音 -TRAC-。",
+  "tags": "#棘手难题 #词根记忆",
+  "cm": [
+   [
+    "路由器重启专家",
+    "重启了三十次，还是卡",
+    "8102"
+   ],
+   [
+    "拖拉机",
+    "我和 intractable 是亲戚？",
+    "4210"
+   ],
+   [
+    "阅读选项",
+    "intractable 和 insoluble 是一对",
+    "2876"
+   ]
+  ]
+ },
+ {
+  "w": "paradoxical",
+  "title": "REM 睡眠为什么被叫作 paradoxical sleep？",
+  "line": "看似矛盾",
+  "stk": "😴",
+  "body": "paradoxical = paradox（悖论）+ -ical = 矛盾的、似是而非的、反常的。\n睡眠冷知识：REM 睡眠（快速眼动睡眠）也叫 paradoxical sleep，因为此时人在熟睡，但大脑活跃程度却和清醒时相近，看起来很“矛盾”。我们做梦大多发生在这个阶段。\n用法：It may seem paradoxical, but...（看似矛盾，但……），引出反直觉结论。\n同义替换：contradictory、ironic、counterintuitive（反直觉的）。",
+  "ex": "It may seem paradoxical, but taking regular breaks can actually increase overall productivity.",
+  "exCn": "这看似矛盾，但定期休息实际上能够提高整体效率。",
+  "pte": "句型 It may seem paradoxical, but...。同义 counterintuitive、contradictory。",
+  "tags": "#睡眠冷知识 #写作句型",
+  "cm": [
+   [
+    "做梦专业户",
+    "原来我每晚都在 paradoxical sleep",
+    "4320"
+   ],
+   [
+    "效率博主",
+    "番茄工作法就是这个道理",
+    "3108"
+   ],
+   [
+    "写作救星",
+    "It may seem paradoxical 开头太好用",
+    "2671"
+   ]
+  ]
+ },
+ {
+  "w": "pertain",
+  "title": "招聘邮件里的 pertaining to，原来就是 about",
+  "line": "与之相关",
+  "stk": "📎",
+  "body": "pertain 来自拉丁语 pertinere：per（贯穿）+ tenere（持有）= 一直连在一起 → 关于、适用、从属。同根词 pertinent（相关的、切题的）。\n它是不及物动词，后面必须接 to：pertain to sth。最常见的是现在分词短语 pertaining to = relating to / concerning（关于……的），在正式文件、法律文本里非常多见。\n比如：documents pertaining to the case（与此案有关的文件）。\n同义替换：relate to、concern、apply to。写作里用 pertaining to 比 about 正式很多。",
+  "ex": "The committee requested all documents pertaining to the construction of the new hospital.",
+  "exCn": "委员会要求提供与新医院建设有关的所有文件。",
+  "pte": "固定搭配 pertain to / pertaining to。同根 pertinent。同义 relate to、concern。",
+  "tags": "#正式英语 #固定搭配",
+  "cm": [
+   [
+    "法律硕士",
+    "合同里一页能出现五次",
+    "3920"
+   ],
+   [
+    "求职中",
+    "pertaining to 读起来很专业",
+    "2817"
+   ],
+   [
+    "词根控",
+    "tenere 家族：contain、retain、sustain",
+    "4102"
+   ]
+  ]
+ },
+ {
+  "w": "primacy",
+  "title": "第一印象很重要？心理学叫它 primacy effect",
+  "line": "先入为主",
+  "stk": "🥇",
+  "body": "primacy 来自拉丁语 primus（第一），同根 prime、primary、primitive。意思是首位、首要地位、最重要。\n心理学：primacy effect（首因效应）指人更容易记住一串信息里最先出现的内容；对应的 recency effect（近因效应）是更容易记住最后出现的。所以背单词表，开头和结尾总是记得最牢。\n用法：the primacy of sth（某事的首要地位），比如 the primacy of human rights。\n形近词：privacy（隐私），一个 m 一个 v，听写时注意。",
+  "ex": "The study challenges the primacy of economic growth as the main measure of national success.",
+  "exCn": "这项研究质疑了把经济增长作为衡量国家成功主要标准的首要地位。",
+  "pte": "发音 /ˈpraɪməsi/。形近 privacy。搭配 the primacy of sth；primacy effect。",
+  "tags": "#心理学效应 #形近词",
+  "cm": [
+   [
+    "背单词",
+    "每次都只记得 abandon",
+    "1.6w"
+   ],
+   [
+    "心理学大一",
+    "primacy 和 recency 一起考",
+    "3102"
+   ],
+   [
+    "听写选手",
+    "primacy 写成 privacy 了",
+    "4720"
+   ]
+  ]
+ }
+]
