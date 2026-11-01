@@ -1,0 +1,702 @@
+[
+ {
+  "w": "concert",
+  "title": "抢到 concert 门票的那一刻，我比出分还激动",
+  "line": "全场大合唱",
+  "stk": "🎵",
+  "body": "concert = 音乐会、演唱会：go to a concert、a live concert、concert hall（音乐厅）。\n阅读里的第二义项“一致、协同”：in concert with sb = 与某人协同、一起：The government is working in concert with local councils.\n形容词 concerted 很好用：a concerted effort（齐心协力的努力）。\n别和 concern（关心、担忧）混：拼写只差一点，意思完全不同。",
+  "ex": "Scientists say a concerted effort is needed to protect the reef from further damage.",
+  "exCn": "科学家表示，需要齐心协力保护珊瑚礁免受进一步破坏。",
+  "pte": "搭配 in concert with、a concerted effort。易混 concern。",
+  "tags": "#追星日常 #一词多义",
+  "cm": [
+   [
+    "抢票失败",
+    "concert 门票三秒售罄，手速不如人",
+    "1.6w"
+   ],
+   [
+    "写作7分",
+    "a concerted effort 写环保作文太好用了",
+    "3456"
+   ],
+   [
+    "歌剧院志愿者",
+    "悉尼歌剧院的 Concert Hall 真的值得去一次",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "crash",
+  "title": "电脑 crash 了，我的论文没保存",
+  "line": "崩了",
+  "stk": "💥",
+  "body": "crash 的核心是“猛烈撞击、崩溃”：car crash（车祸）、plane crash（坠机）、the computer crashed（电脑死机）。\n经济新闻：stock market crash（股市崩盘）。\n两个口语好用法：crash course = 速成课程；crash at sb's place = 在某人家临时借宿：Can I crash at yours tonight?\n易混：clash（冲突、撞期）。两节课时间冲突是 clash，不是 crash。",
+  "ex": "The number of road crashes has fallen since the speed limit was reduced in the city centre.",
+  "exCn": "自从市中心降低限速以来，交通事故的数量有所下降。",
+  "pte": "搭配 crash course、market crash。易混 crash / clash。",
+  "tags": "#论文崩溃 #易混词",
+  "cm": [
+   [
+    "没按 Ctrl+S",
+    "crash 那一刻我的灵魂也 crash 了",
+    "2.1w"
+   ],
+   [
+    "选课困难户",
+    "两门课 clash 了，不是 crash",
+    "3456"
+   ],
+   [
+    "沙发客",
+    "crash at my mate's place 一周，感恩",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "deliver",
+  "title": "外卖 deliver 到门口，演讲也要 deliver 到位",
+  "line": "使命必达",
+  "stk": "📦",
+  "body": "deliver 最常用的意思是“递送、交付”：deliver a parcel、food delivery（外卖）。\n还有几个高级用法：deliver a speech / lecture（发表演讲）、deliver a baby（接生）、deliver on a promise（兑现承诺）。\n单独用 deliver 也能表示“兑现、达到预期”：The new system failed to deliver.（新系统没能达到预期。）\n名词 delivery，演讲里 delivery 也指“表达、讲话方式”。",
+  "ex": "The government has been criticised for failing to deliver on its promise to build more hospitals.",
+  "exCn": "政府因未能兑现兴建更多医院的承诺而受到批评。",
+  "pte": "搭配 deliver a speech、deliver on a promise。名词 delivery。",
+  "tags": "#外卖人生 #一词多义",
+  "cm": [
+   [
+    "外卖骑手",
+    "我 deliver 了一千单，没 deliver 一个承诺",
+    "8765"
+   ],
+   [
+    "产科护士",
+    "deliver a baby 是我们的 deliver",
+    "3456"
+   ],
+   [
+    "演讲社社长",
+    "delivery 比内容还重要",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "depth",
+  "title": "deep 变 depth，wide 变 width：一组规律记住",
+  "line": "有多深",
+  "stk": "🌊",
+  "body": "depth = 深度：the depth of the river（河的深度）、at a depth of 200 metres。\n构词规律：deep → depth，wide → width，long → length，strong → strength。形容词变名词，常带 th。\n搭配：in depth = 深入地、详细地：discuss sth in depth；out of one's depth = 力不从心、超出能力范围。\n发音：/depθ/，结尾 pθ 连读，舌尖要咬一下。",
+  "ex": "The report examines the causes of the crisis in depth and offers several recommendations.",
+  "exCn": "报告深入分析了危机的原因，并提出了若干建议。",
+  "pte": "构词 deep → depth。搭配 in depth、out of one's depth。发音 /depθ/。",
+  "tags": "#构词法 #发音避坑",
+  "cm": [
+   [
+    "潜水爱好者",
+    "大堡礁 depth 18 米，美到窒息",
+    "6543"
+   ],
+   [
+    "研一新生",
+    "第一周就 out of my depth",
+    "4567"
+   ],
+   [
+    "发音纠察队",
+    "depth 结尾的 th 很难读，多练",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "electronic",
+  "title": "electronic 和 electric 傻傻分不清？",
+  "line": "带电三兄弟",
+  "stk": "🔌",
+  "body": "electronic = 电子的，强调电子电路、芯片：electronic devices（电子设备）、electronic payment（电子支付）。\nelectric = 用电驱动的：electric car、electric guitar。electrical = 与电有关的（更泛）：electrical engineer、electrical fault。\nelectronics = 电子学；电子产品：consumer electronics（消费电子产品）。\n很多 e- 开头的词就是 electronic 的缩写：e-mail、e-commerce、e-book。",
+  "ex": "Students are not allowed to bring electronic devices into the examination room.",
+  "exCn": "学生不得将电子设备带入考场。",
+  "pte": "易混 electronic / electric / electrical。名词 electronics。",
+  "tags": "#易混词 #科技英语",
+  "cm": [
+   [
+    "电气工程大三",
+    "electrical 和 electronic 我们专业名字就分开",
+    "4567"
+   ],
+   [
+    "考场监考",
+    "electronic devices 包括智能手表，别带",
+    "3456"
+   ],
+   [
+    "电车车主",
+    "electric car 而不是 electronic car",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "error",
+  "title": "trial and error：我的人生就是这么试错过来的",
+  "line": "错了再来",
+  "stk": "❌",
+  "body": "error = 错误、误差。比 mistake 更正式，常用于技术、科学：human error（人为失误）、a spelling error、error message（报错信息）。\n统计义：margin of error（误差范围）。\n习语 trial and error = 反复试验、试错：learn by trial and error。\n动词 err（犯错）：To err is human.（人非圣贤，孰能无过。）形容词 erroneous（错误的）。",
+  "ex": "Investigators believe the accident was caused by human error rather than a mechanical fault.",
+  "exCn": "调查人员认为，这起事故是人为失误而不是机械故障造成的。",
+  "pte": "搭配 human error、trial and error、margin of error。",
+  "tags": "#试错人生 #学术词汇",
+  "cm": [
+   [
+    "码农",
+    "error message 比我女朋友的消息还多",
+    "1.2w"
+   ],
+   [
+    "统计学大二",
+    "margin of error 一定要在报告里写",
+    "3456"
+   ],
+   [
+    "厨房实验家",
+    "trial and error 做了二十次蛋糕",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "existence",
+  "title": "existence 拼成 existance？你不是一个人",
+  "line": "我存在",
+  "stk": "🌌",
+  "body": "existence = 存在、生存、生活方式。动词 exist（存在），形容词 existent / existing（现有的）。\n拼写重点：结尾 -ence，不是 -ance。可以记：exist 里有 i，existence 后面全是 e。\n搭配：come into existence（产生、开始存在）、the existence of life on Mars（火星上生命的存在）、a peaceful existence（平静的生活）。\n形容词 existential（存在的；关于存在意义的）：existential crisis，就是半夜突然怀疑人生。",
+  "ex": "Scientists are still searching for evidence of the existence of life beyond Earth.",
+  "exCn": "科学家仍在寻找地球以外存在生命的证据。",
+  "pte": "拼写 -ence 不是 -ance。搭配 come into existence。",
+  "tags": "#拼写陷阱 #深夜emo",
+  "cm": [
+   [
+    "拼写困难户",
+    "existance 我错了不下十次",
+    "8765"
+   ],
+   [
+    "哲学系路过",
+    "existential crisis 每周三次",
+    "4567"
+   ],
+   [
+    "天文爱好者",
+    "existence of aliens 我一直相信",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "experiences",
+  "title": "experience 加 s 之后，意思就变了",
+  "line": "经验和经历",
+  "stk": "🧳",
+  "body": "experience 作“经验”时不可数：work experience（工作经验）、I have no experience in teaching.\n作“经历、体验”时可数，所以有复数 experiences：Studying abroad was one of the best experiences of my life.\n动词 experience = 经历、体验，三单就是 experiences：Many students experience homesickness.\n形容词 experienced（有经验的）：an experienced teacher。",
+  "ex": "Many international students describe their experiences abroad as challenging but rewarding.",
+  "exCn": "许多国际学生把他们在海外的经历描述为充满挑战但收获颇丰。",
+  "pte": "经验（不可数）vs 经历（可数，experiences）。",
+  "tags": "#留学经历 #语法避坑",
+  "cm": [
+   [
+    "留学第三年",
+    "experiences 一大堆，experience 还是不够",
+    "9876"
+   ],
+   [
+    "语法较真",
+    "work experiences 加 s 在简历里是常见错误",
+    "3456"
+   ],
+   [
+    "HR 小姐姐",
+    "简历上写 work experience，不要加 s",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "expression",
+  "title": "看到账单时我的 facial expression",
+  "line": "表情说明一切",
+  "stk": "😶",
+  "body": "expression 主要三个义项：①表达：freedom of expression（言论自由）；②表情：a facial expression（面部表情）；③说法、措辞：an idiomatic expression（习惯说法）。\n数学里 expression 是“表达式”：algebraic expression（代数式）。\n动词 express（表达），形容词 expressive（富有表现力的）。\n写作建议：多用地道 expressions 替换简单词，但别堆砌生僻词。",
+  "ex": "Freedom of expression is considered a basic human right in most democratic societies.",
+  "exCn": "在大多数民主社会，言论自由被视为一项基本人权。",
+  "pte": "搭配 freedom of expression、facial expression。拼写双 s：expression。",
+  "tags": "#表情包 #一词多义",
+  "cm": [
+   [
+    "看账单的人",
+    "我的 facial expression 已经不需要说话了",
+    "1.3w"
+   ],
+   [
+    "英语老师Amy",
+    "learn expressions in context，别背孤立单词",
+    "3456"
+   ],
+   [
+    "数学系路过",
+    "algebraic expression 也是这个词",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "factory",
+  "title": "factory reset 之后，我的手机和我都干净了",
+  "line": "出厂设置",
+  "stk": "🏭",
+  "body": "factory = 工厂。词源和 fact、manufacture 一样，来自拉丁语 facere（做）。\n生活里最常见的可能是 factory reset（恢复出厂设置），手机卡到不行的时候用。\n其他搭配：factory floor（车间）、factory worker（工厂工人）、factory-made（工厂制造的）。\n同义：plant（工厂，多用于大型工业设施，如 power plant 发电厂）、mill（磨坊；纺织厂）。",
+  "ex": "The factory was forced to close after failing to meet new environmental standards.",
+  "exCn": "这家工厂因未能达到新的环保标准而被迫关闭。",
+  "pte": "同义 plant、mill。搭配 factory worker、factory reset。",
+  "tags": "#手机卡顿 #同义替换",
+  "cm": [
+   [
+    "手机卡成PPT",
+    "factory reset 之后照片全没了，哭",
+    "1.1w"
+   ],
+   [
+    "词根控",
+    "fac 做：factory、manufacture、facility",
+    "3456"
+   ],
+   [
+    "工厂打工",
+    "factory floor 夏天真的热",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "in-depth",
+  "title": "老师要 in-depth analysis，我只交了个表面",
+  "line": "往深里挖",
+  "stk": "🔬",
+  "body": "in-depth = 深入的、详尽的，放在名词前做定语，中间有连字符：an in-depth analysis（深入分析）、an in-depth interview（深度访谈）、in-depth knowledge。\n副词用法写成 in depth，不加连字符：discuss the issue in depth。\n同义替换：thorough、detailed、comprehensive。\n反义 superficial（肤浅的）：老师批改时写 too superficial，就是嫌你没写深。",
+  "ex": "The documentary offers an in-depth look at the challenges facing remote communities.",
+  "exCn": "这部纪录片深入探讨了偏远社区面临的挑战。",
+  "pte": "定语 in-depth（有连字符），副词 in depth（无连字符）。同义 thorough。",
+  "tags": "#论文写作 #拼写陷阱",
+  "cm": [
+   [
+    "改稿第五版",
+    "导师每次都写 more in-depth please",
+    "8765"
+   ],
+   [
+    "新闻系学生",
+    "in-depth interview 我们做了三个小时",
+    "2345"
+   ],
+   [
+    "语法较真",
+    "连字符的规则讲清楚了，感谢",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "interior",
+  "title": "澳洲的 interior，不是室内是沙漠",
+  "line": "里面的世界",
+  "stk": "🛋️",
+  "body": "interior 形容词“内部的”，名词“内部”：interior design（室内设计）、the interior of the car（车内）。反义 exterior（外部）。\n地理义项：the interior 指一个国家或大陆的“内陆、腹地”。Australia's interior 大部分是干旱地区，也就是常说的 outback。\n政府义项：Ministry of the Interior（内政部）。\n拼写：in-te-ri-or，结尾 -ior，和 superior、inferior 一样。",
+  "ex": "Much of Australia's interior receives very little rainfall throughout the year.",
+  "exCn": "澳大利亚内陆的大部分地区全年降雨量都很少。",
+  "pte": "反义 exterior。一词多义：内部 / 内陆。拼写 -ior。",
+  "tags": "#澳洲地理 #一词多义",
+  "cm": [
+   [
+    "自驾去乌鲁鲁",
+    "interior 开了一天都是红土",
+    "6543"
+   ],
+   [
+    "室内设计系",
+    "interior design 改图改到凌晨",
+    "3456"
+   ],
+   [
+    "地理老师",
+    "superior、inferior、interior 一起记拼写",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "legislation",
+  "title": "legislation 不能加 s，这条“法律”请记住",
+  "line": "立法定规矩",
+  "stk": "🏛️",
+  "body": "legislation = 立法；（统称）法律、法规。词根 legis 来自拉丁语 lex（法律），和 legal、legitimate 同源。\n语法坑：legislation 一般不可数，不说 a legislation 或 legislations，要说 a piece of legislation（一项法律）或 new legislation。\n搭配：introduce / pass legislation（提出 / 通过立法）。\n词族：legislate（立法）、legislative（立法的）、legislature（立法机构）。",
+  "ex": "The government plans to introduce new legislation to protect workers in the gig economy.",
+  "exCn": "政府计划出台新的立法，以保护零工经济中的劳动者。",
+  "pte": "不可数：a piece of legislation。词族 legislate、legislative。",
+  "tags": "#语法避坑 #新闻英语",
+  "cm": [
+   [
+    "法学院在读",
+    "legislation 加 s 会被导师圈出来",
+    "4567"
+   ],
+   [
+    "新闻系学生",
+    "pass legislation 是议会新闻的标配",
+    "2345"
+   ],
+   [
+    "词根控",
+    "leg 法律：legal、legitimate、legislation",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "manner",
+  "title": "manner 加个 s，就从“方式”变成“礼貌”",
+  "line": "礼貌加分",
+  "stk": "🎩",
+  "body": "manner 单数是“方式、态度”：in a professional manner（以专业的方式）、in a similar manner。\n加 s 变成 manners 是“礼貌、规矩”：good manners、table manners（餐桌礼仪）。It's bad manners to... = 做……不礼貌。\n高级搭配：all manner of = 各种各样的：all manner of problems。\n易混：manor（庄园），发音一样，拼写不同。",
+  "ex": "The staff dealt with the complaint in a calm and professional manner.",
+  "exCn": "员工以冷静而专业的方式处理了这起投诉。",
+  "pte": "manner（方式）vs manners（礼貌）。搭配 in a ... manner。易混 manor。",
+  "tags": "#礼仪常识 #易混词",
+  "cm": [
+   [
+    "餐厅服务员",
+    "table manners 好的客人，小费都给得大方",
+    "6543"
+   ],
+   [
+    "写作7分",
+    "in a timely manner 写邮件很专业",
+    "3456"
+   ],
+   [
+    "英剧迷",
+    "Manners maketh man，金士曼台词",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "mate",
+  "title": "澳洲人叫你 mate，不代表他记得你名字",
+  "line": "哥们儿",
+  "stk": "🍻",
+  "body": "在澳洲，mate 是“朋友、伙计”，几乎对谁都能说：G'day, mate! / Thanks, mate.\n合成词很多：flatmate / housemate（室友）、classmate、teammate、workmate。\n其他义项：动物的“配偶”，动词 mate 是“交配”；船上的 first mate 是“大副”。\n国际象棋的 checkmate（将死）也是这个词，常简称 mate。",
+  "ex": "Young people are increasingly sharing houses with flatmates because of high rental costs.",
+  "exCn": "由于租金高昂，越来越多的年轻人和室友合租。",
+  "pte": "合成词 flatmate、classmate、teammate。澳洲口语 mate = 朋友。",
+  "tags": "#澳洲俚语 #合租日常",
+  "cm": [
+   [
+    "悉尼本地人",
+    "mate 是因为名字太难记了，真的",
+    "1.5w"
+   ],
+   [
+    "刚落地珀斯",
+    "收银员叫我 mate，我以为认识我",
+    "6543"
+   ],
+   [
+    "棋社社员",
+    "checkmate 是从波斯语来的，挺有意思",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "nearby",
+  "title": "nearby 能放名词前，也能放后面，就是不能拆开",
+  "line": "就在附近",
+  "stk": "📍",
+  "body": "nearby 可以作形容词：a nearby café（附近的咖啡馆）；也可以放在名词后：a café nearby。\n还可以作副词：They live nearby.（他们住在附近。）\n注意它是一个词，不要拆成 near by。\n和 near 的区别：near 是介词，后面要接地点：near the station；nearby 后面不再接宾语。",
+  "ex": "Residents of nearby towns were told to stay indoors because of the bushfire smoke.",
+  "exCn": "由于山火烟雾，附近城镇的居民被告知待在室内。",
+  "pte": "一个词 nearby。区别：near + 地点；nearby 单用。",
+  "tags": "#语法避坑 #生活英语",
+  "cm": [
+   [
+    "租房找房中",
+    "nearby 有超市和车站，房租就贵一百",
+    "8765"
+   ],
+   [
+    "语法较真",
+    "near by 拆开写会被扣分",
+    "3456"
+   ],
+   [
+    "山火季",
+    "nearby towns 的烟呛了一个月",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "noise",
+  "title": "楼上的 noise 又开始了，凌晨一点在搬家？",
+  "line": "安静是奢侈品",
+  "stk": "🔊",
+  "body": "noise = 噪音、声响。可数和不可数都有：a strange noise（一个奇怪的声音）、too much noise（太吵了）。\n搭配：make (a) noise（制造噪音）、noise pollution（噪音污染）、background noise（背景噪音）、noise-cancelling headphones（降噪耳机）。\n形容词 noisy（吵闹的），副词 noisily。\n引申义：数据分析里 noise 指“干扰数据”，和 signal 相对。",
+  "ex": "Long-term exposure to traffic noise has been linked to sleep problems and high blood pressure.",
+  "exCn": "长期暴露在交通噪音中与睡眠问题和高血压有关。",
+  "pte": "搭配 noise pollution、background noise。形容词 noisy。",
+  "tags": "#合租噪音 #环境话题",
+  "cm": [
+   [
+    "楼下受害者",
+    "楼上每晚 make noise，我已经练成冥想",
+    "1.3w"
+   ],
+   [
+    "降噪耳机",
+    "noise-cancelling 是我最好的投资",
+    "4567"
+   ],
+   [
+    "数据分析搬砖",
+    "signal 和 noise，生活也是",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "origin",
+  "title": "被问 Where's your origin，我愣了三秒",
+  "line": "从哪里来",
+  "stk": "🌱",
+  "body": "origin = 起源、来源；出身。常用复数 origins：the origins of the universe（宇宙的起源）。\n搭配：country of origin（原产国，商品标签上常见）、of Chinese origin（华裔的）、have its origins in（起源于）。\n词族：original（原来的；原创的）、originate（起源、发源）、originality（独创性）。\n口语里问别人来自哪里，一般说 Where are you from?，直接问 origin 比较少见，也略显生硬。",
+  "ex": "The origin of the disease remains unclear, but researchers are investigating several theories.",
+  "exCn": "这种疾病的起源尚不清楚，但研究人员正在调查几种理论。",
+  "pte": "搭配 country of origin、have its origins in。词族 original、originate。",
+  "tags": "#自我介绍 #词族记忆",
+  "cm": [
+   [
+    "澳洲华人",
+    "of Chinese origin 是官方表格上的说法",
+    "4567"
+   ],
+   [
+    "超市购物",
+    "country of origin 看了才买",
+    "3456"
+   ],
+   [
+    "历史系学生",
+    "origins of the war 写了一万字",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "panel",
+  "title": "屋顶装满 solar panel，电费单终于不吓人了",
+  "line": "一块板一群人",
+  "stk": "☀️",
+  "body": "panel 是“一块板”：solar panels（太阳能电池板）、control panel（控制面板）、a wooden panel（木板）。澳洲很多房子屋顶都装了 solar panels。\n第二个意思是“专家小组、评审团”：a panel of experts（专家组）、panel discussion（小组讨论）、interview panel（面试官小组）。\n还能指“陪审团名单”。\n名词 panellist / panelist = 小组成员、讨论嘉宾。",
+  "ex": "A panel of experts was appointed to review the safety of the new building.",
+  "exCn": "政府任命了一个专家小组来审查这座新建筑的安全性。",
+  "pte": "两义：板 / 专家组。搭配 solar panels、a panel of experts。",
+  "tags": "#澳洲生活 #一词多义",
+  "cm": [
+   [
+    "阿德莱德房东",
+    "装了 solar panels 夏天开空调不心疼",
+    "8765"
+   ],
+   [
+    "面试三轮",
+    "interview panel 坐了五个人，我腿都软了",
+    "4567"
+   ],
+   [
+    "会议主持",
+    "panel discussion 最怕嘉宾抢话筒",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "personality",
+  "title": "MBTI 测了五次，我的 personality 换了五种",
+  "line": "我就是我",
+  "stk": "🎭",
+  "body": "personality = 个性、性格：a strong personality（个性鲜明）、personality traits（性格特征）。\n第二义项：名人、知名人物：a TV personality（电视名人）、a media personality。\n易混：personal（个人的）、personnel（员工）、personality（个性）。\n同义：character（性格；品格），但 character 更强调道德品质。",
+  "ex": "Researchers found that certain personality traits are linked to a higher risk of burnout.",
+  "exCn": "研究人员发现，某些性格特征与更高的职业倦怠风险有关。",
+  "pte": "搭配 personality traits。易混 personal / personnel / personality。",
+  "tags": "#MBTI #易混词",
+  "cm": [
+   [
+    "MBTI 爱好者",
+    "测了五次，I 和 E 来回跳",
+    "1.4w"
+   ],
+   [
+    "心理学研一",
+    "Big Five personality 比 MBTI 更学术",
+    "4567"
+   ],
+   [
+    "电视台实习",
+    "TV personality 也是这个词，学到了",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "plate",
+  "title": "澳洲聚会说 bring a plate，不是让你带个空盘子",
+  "line": "带一道菜来",
+  "stk": "🍽️",
+  "body": "plate = 盘子、碟子：a plate of pasta（一盘意面）。\n澳洲特色：bring a plate = 带一道菜去聚会分享，不是带一个空盘子。\n习语 have a lot on one's plate = 手头事情很多、忙不过来。\n其他义项：number plate（车牌，美式 license plate）、tectonic plates（构造板块），地理讲座里会讲到。",
+  "ex": "Earthquakes often occur along the boundaries where tectonic plates meet.",
+  "exCn": "地震常常发生在构造板块交界的地方。",
+  "pte": "习语 have a lot on one's plate。搭配 tectonic plates、number plate。",
+  "tags": "#澳洲聚会 #地道习语",
+  "cm": [
+   [
+    "第一次参加 BBQ",
+    "我真的带了个空盘子去，全场沉默",
+    "2.3w"
+   ],
+   [
+    "期末四门课",
+    "I have a lot on my plate 是我的签名",
+    "6543"
+   ],
+   [
+    "地理老师",
+    "板块学说讲到 tectonic plates，我就想到 bring a plate",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "prepare",
+  "title": "be prepared to 不是“准备好了”，是“愿意”",
+  "line": "做好准备",
+  "stk": "🎒",
+  "body": "prepare = 准备：prepare for an exam（备考）、prepare dinner（做晚饭）、prepare sb for sth（让某人为某事做好准备）。\n坑来了：be prepared to do sth 常表示“愿意做某事”：I'm not prepared to wait any longer.（我不愿意再等了。）\n而 be prepared for sth 才是“为……做好准备”。\n名词 preparation（准备），形容词 preparatory（预备的）。",
+  "ex": "Many employers say they are prepared to offer flexible hours to attract skilled staff.",
+  "exCn": "许多雇主表示愿意提供弹性工作时间来吸引技术人才。",
+  "pte": "be prepared to do（愿意）vs be prepared for（为……做好准备）。",
+  "tags": "#备考日常 #语法避坑",
+  "cm": [
+   [
+    "备考第三个月",
+    "prepare 了三个月，考前一晚还是慌",
+    "1.1w"
+   ],
+   [
+    "阅读7分",
+    "prepared to 是愿意，这个我真错过",
+    "4567"
+   ],
+   [
+    "童子军",
+    "Be prepared 是我们的口号",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "relief",
+  "title": "出分那一刻的 relief，比放假还爽",
+  "line": "终于松口气",
+  "stk": "😮‍💨",
+  "body": "relief 最常见的意思是“如释重负、宽慰”：What a relief!（总算松了口气！）、to my relief（令我欣慰的是）。\n还有“减轻、缓解”：pain relief（止痛）、stress relief（减压）。\n“救济”：disaster relief（灾难救援）、relief supplies（救援物资）。\n艺术义项“浮雕”。动词是 relieve（拼写 -ve），名词 relief（拼写 -f）。",
+  "ex": "Aid agencies are delivering relief supplies to communities affected by the floods.",
+  "exCn": "援助机构正在向受洪灾影响的社区运送救援物资。",
+  "pte": "名词 relief / 动词 relieve。搭配 pain relief、disaster relief。",
+  "tags": "#出分时刻 #一词多义",
+  "cm": [
+   [
+    "二战上岸",
+    "看到 79 那一刻的 relief 我会记一辈子",
+    "1.7w"
+   ],
+   [
+    "药房实习",
+    "pain relief 货架天天补货",
+    "3456"
+   ],
+   [
+    "拼写困难户",
+    "relief 和 relieve 一个 f 一个 ve，记住了",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "resistance",
+  "title": "我对奶茶毫无 resistance",
+  "line": "抵抗失败",
+  "stk": "🛡️",
+  "body": "resistance = 抵抗、反抗；阻力；抵抗力。动词 resist（抵抗、忍住），形容词 resistant（有抵抗力的）。\n医学热点：antibiotic resistance（抗生素耐药性），医学讲座会讲细菌如何对药物产生耐药性。\n物理：electrical resistance（电阻）、air resistance（空气阻力）。\n拼写：结尾是 -ance，不是 -ence；和 existence 正好相反，可以对比记。",
+  "ex": "The overuse of antibiotics has contributed to the rise of drug resistance in bacteria.",
+  "exCn": "抗生素的过度使用导致了细菌耐药性的上升。",
+  "pte": "拼写 -ance。搭配 antibiotic resistance、resistance to。",
+  "tags": "#自律失败 #拼写陷阱",
+  "cm": [
+   [
+    "一天三杯",
+    "对奶茶的 resistance 为零",
+    "1.3w"
+   ],
+   [
+    "微生物研一",
+    "antibiotic resistance 是我的论文题目",
+    "2345"
+   ],
+   [
+    "拼写困难户",
+    "resistance 和 existence 一个 a 一个 e，终于分清",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "retail",
+  "title": "期末结束来一场 retail therapy，钱包先崩了",
+  "line": "买买买疗法",
+  "stk": "🛍️",
+  "body": "retail = 零售：the retail industry（零售业）、retail price（零售价）。对应 wholesale（批发）。\n澳洲商品标签上常见 RRP = recommended retail price（建议零售价）。\nretailer = 零售商；retail therapy = “购物疗法”，心情不好时买东西让自己开心，带点调侃。\n很多留学生的第一份兼职就在 retail：收银、理货、站柜台。",
+  "ex": "Retail sales fell for the third month in a row as households cut back on spending.",
+  "exCn": "由于家庭削减开支，零售额连续第三个月下降。",
+  "pte": "反义 wholesale。搭配 retail sales、retail price。名词 retailer。",
+  "tags": "#购物疗法 #澳洲兼职",
+  "cm": [
+   [
+    "期末刚结束",
+    "retail therapy 之后需要 financial therapy",
+    "1.2w"
+   ],
+   [
+    "零售店员",
+    "retail 打工三年，最怕圣诞节",
+    "4567"
+   ],
+   [
+    "商科大二",
+    "RRP 是建议零售价，不一定是成交价",
+    "2109"
+   ]
+  ]
+ }
+]
