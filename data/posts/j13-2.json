@@ -1,27 +1,702 @@
 [
-{"w": "meanwhile", "title": "我在图书馆苦读，meanwhile 室友在海边晒太阳", "line": "与此同时", "stk": "⏳", "body": "mean + while = meanwhile，副词“同时、在此期间”，也可以说 in the meantime、in the meanwhile。\n写作里它是好用的过渡词，常放句首加逗号：Meanwhile, prices continued to rise.\n注意：meanwhile 是副词，不能像 while 那样直接连接两个句子。错误：I studied meanwhile he slept。正确：I studied. Meanwhile, he slept. 或者 I studied while he slept。\n我在图书馆和 essay 搏斗，meanwhile 室友发了九宫格：Bondi 的阳光真好。", "ex": "Unemployment fell slightly last month; meanwhile, wages continued to grow at a slow pace.", "exCn": "上个月失业率略有下降；与此同时，工资继续缓慢增长。", "pte": "meanwhile 是副词，不能当连词；连接句子用 while。同义 in the meantime。", "tags": "#图书馆日常 #过渡词", "cm": [["图书馆钉子户", "室友的九宫格我都没点赞", "1.6w"], ["语法老师", "meanwhile 前面用分号或句号", "3890"], ["Bondi 常客", "阳光确实好，下次带你", "2134"]]},
-{"w": "naturally", "title": "有些人说英语 naturally 就很地道，我只能靠背", "line": "天生的", "stk": "🌿", "body": "nature（天性、自然）+ al + ly = naturally，有三层意思。\n一是“自然地、不做作地”：speak naturally；二是“天生地”：She is naturally talented；三是“当然、理所当然”，可以单独回答问题，相当于 of course。\n短语 come naturally to sb：对某人来说很容易、天生就会。\n发音常读成三个音节 /ˈnætʃrəli/，中间的 u 弱化。", "ex": "Some people find public speaking comes naturally, while others need years of practice.", "exCn": "有些人天生擅长当众演讲，而另一些人则需要多年练习。", "pte": "发音常为三音节 NATCH-ruh-lee。短语 come naturally to sb。", "tags": "#口语提升 #一词多义", "cm": [["口语焦虑症", "我连 naturally 都读不 naturally", "1.2w"], ["发音细节", "原来中间的音是吞掉的", "2789"], ["学霸本霸", "naturally 回答问题好高级", "1654"]]},
-{"w": "necessarily", "title": "贵的东西不 necessarily 好，比如我那门选修课", "line": "不一定哦", "stk": "🤷", "body": "necessary（必要的）+ ly = necessarily，“必然地、必定地”。最常见的用法是否定：not necessarily = 不一定、未必。\n拼写记法：necessary 一个 c 两个 s，像衬衫“one collar, two sleeves”（一个领子两个袖子）。\n重音有两种读法：NE-ce-ssa-ri-ly 和 ne-ce-SSER-i-ly，都是对的，听到哪种都别慌。\n学费最贵的那门课，不 necessarily 最有用；最便宜的二手教材，倒是真的有用。", "ex": "A higher price does not necessarily mean better quality, according to the consumer survey.", "exCn": "根据这项消费者调查，价格更高并不一定意味着质量更好。", "pte": "not necessarily = 不一定。拼写：一个 c 两个 s，necessarily 结尾 -arily。", "tags": "#拼写陷阱 #选课踩坑", "cm": [["选课踩雷", "最贵的那门课老师照念 PPT", "1.5w"], ["拼写口诀", "one collar two sleeves 好记", "4890"], ["听力困难户", "两种读法我都听晕过", "2345"]]},
-{"w": "partnership", "title": "和室友的 partnership：你做饭，我洗碗", "line": "合作愉快", "stk": "🤝", "body": "partner（伙伴、合伙人）+ ship（表示状态、关系的后缀）= partnership，合作关系、合伙企业。\n同类后缀词：friendship、relationship、membership。\n搭配：in partnership with（与……合作）；form a partnership（建立合作关系）；a business partnership（商业合伙）。\n好的 partnership 要分工明确。室友做饭，我洗碗，一个学期都没吵过架，堪称模范。", "ex": "The university has formed a partnership with local hospitals to train more nurses.", "exCn": "这所大学已与当地医院建立合作关系，以培训更多护士。", "pte": "搭配 in partnership with、form a partnership。同义 collaboration。", "tags": "#室友相处 #词根词缀", "cm": [["洗碗担当", "我负责洗碗，他负责把锅烧糊", "1.1w"], ["商科学生", "partnership 也是一种企业形式", "2345"], ["和平室友", "分工明确才是长久之计", "3456"]]},
-{"w": "percentage", "title": "体脂 percentage 比我的 PTE 分数涨得还快", "line": "比例有点高", "stk": "📊", "body": "per（每）+ cent（百）= percent，百分之……；percentage 是“百分比、百分率”。\npercent 前面一般有具体数字：20 percent；percentage 用来说比例本身：a high percentage of students（很大比例的学生）。\n易混：percentage point 是“百分点”。利率从 3% 涨到 4%，涨了 1 个 percentage point，但涨幅是约 33 percent。\n读图题的好搭配：the percentage of... rose sharply（……的比例急剧上升）。", "ex": "The percentage of people working from home has risen sharply over the past five years.", "exCn": "过去五年中，在家办公的人所占比例大幅上升。", "pte": "易混：percent（接数字）vs percentage（比例）。percentage point 百分点。", "tags": "#图表描述 #减肥失败", "cm": [["健身打卡失败", "体脂率才是真正的上升趋势", "1.3w"], ["数学课代表", "percentage point 这个太关键了", "3456"], ["读图党", "rose sharply 我背熟了", "2109"]]},
-{"w": "practical", "title": "实习了才发现，课堂学的都不够 practical", "line": "实践出真知", "stk": "🛠️", "body": "practice（实践）+ al = practical，实际的、实用的。\n搭配：practical experience（实践经验）、practical skills（实用技能）、a practical solution（可行的方案）。\npractical joke 是“恶作剧”，不是“实用的笑话”。\n易混：practically 除了“实际上”，口语里常表示“几乎”：practically everyone = almost everyone，阅读里别看错。\n实习第一天：老板让我整理 Excel，课上学的理论一个没用上。", "ex": "Employers increasingly value graduates who have gained practical experience through internships.", "exCn": "雇主越来越看重通过实习获得实践经验的毕业生。", "pte": "practically 常表示“几乎”。易混 practicable（可行的）。反义 impractical。", "tags": "#实习日常 #一词多义", "cm": [["实习生小李", "第一周全在复印", "1.4w"], ["阅读党", "practically 等于 almost 我才知道", "4567"], ["恶作剧大王", "practical joke 是我的强项", "1876"]]},
-{"w": "primarily", "title": "我来澳洲 primarily 是为了读书，其次是为了海鲜", "line": "主要是为了", "stk": "🦞", "body": "primary（首要的、主要的）+ ly = primarily，主要地、首先。来自拉丁语 primus（第一）。\n同源词：prime（最主要的）、primary school（小学）、primitive（原始的）。\n发音两种都对：英式常读 PRI-ma-ri-ly，美式常读 pri-MER-i-ly。\n同义替换：primarily = mainly = chiefly = largely。\n妈妈问我来澳洲干嘛，我说 primarily 读书；朋友圈里却全是生蚝和龙虾。", "ex": "The decline in fish numbers is primarily caused by rising ocean temperatures.", "exCn": "鱼类数量下降主要是由海洋温度上升造成的。", "pte": "同义替换：primarily = mainly = chiefly。两种重音读法都要能听懂。", "tags": "#留学动机 #同义替换", "cm": [["悉尼海鲜市场", "生蚝一打 20 刀，真香", "1.2w"], ["词根控", "primus 第一，prime 也是它", "2890"], ["妈妈的眼线", "你朋友圈出卖了你", "3567"]]},
-{"w": "regardless", "title": "regardless 下不下雨，我都要去 Bunnings 吃香肠", "line": "无论如何", "stk": "🌭", "body": "regard（关注、考虑）+ less（没有）= regardless，不管、不顾。\n最常用的结构是 regardless of + 名词：regardless of age（无论年龄）、regardless of the cost（不顾代价）。\n也可以单独放句末当副词：It was raining, but we went regardless.（照样去了）\n注意：irregardless 在很多词典里被视为不规范，写作里别用。\n澳洲周末传统：regardless of the weather，Bunnings 门口的香肠摊都得去。", "ex": "All residents are entitled to emergency medical treatment, regardless of their income.", "exCn": "所有居民都有权获得紧急医疗救治，无论收入如何。", "pte": "搭配 regardless of。irregardless 不规范，避免使用。", "tags": "#澳洲日常 #固定搭配", "cm": [["Bunnings 香肠党", "几块钱的快乐谁懂", "1.7w"], ["语法洁癖", "irregardless 真的有人写", "2345"], ["新来的", "第一次知道五金店卖香肠", "3456"]]},
-{"w": "relative", "title": "过年回国，每个 relative 都在问我工资多少", "line": "亲戚盘问中", "stk": "👨‍👩‍👧", "body": "relative 有两大义项。名词：亲戚，a close relative（近亲）、a distant relative（远亲）。\n形容词：相对的、比较而言的。relative to（相对于）、relative poverty（相对贫困）。\n副词 relatively 很实用：relatively cheap（比较便宜）。名词 relativity：爱因斯坦的相对论 the theory of relativity。\n过年的 relative 三连：在哪工作？挣多少？有对象了吗？每个问题都让人想回澳洲。", "ex": "The cost of living in regional towns is relatively low compared with major cities.", "exCn": "与大城市相比，地方城镇的生活成本相对较低。", "pte": "一词多义：亲戚 / 相对的。搭配 relative to。副词 relatively。", "tags": "#过年回家 #一词多义", "cm": [["春节受害者", "三姑六婆轮番上阵", "2.3w"], ["物理系", "relativity 才是终极版", "2345"], ["写作小技巧", "relatively 用来避免绝对化", "3890"]]},
-{"w": "represents", "title": "这张截图 represents 了我每天的状态：在学，但没完全在学", "line": "代表了一切", "stk": "🖼️", "body": "represent = re + present（呈现）→ 代表、表示、描绘，三单形式是 represents。\n几个常用义：代表某人或组织（represent the country）；表示、相当于（This represents a 10% increase）；描绘、表现（The painting represents a storm）。\n名词：representative（代表）、representation（代表、表现）。\n读图题里很好用：The blue bar represents sales in 2020.", "ex": "The new policy represents a significant shift in the government's approach to climate change.", "exCn": "这项新政策代表着政府在应对气候变化方面的重大转变。", "pte": "主语单数要加 s：represents。名词 representative、representation。", "tags": "#读图描述 #主谓一致", "cm": [["学习博主", "桌上书是摆拍用的", "1.2w"], ["读图练习中", "the blue bar represents 背熟了", "3456"], ["语法纠错", "三单的 s 我老是漏", "2109"]]},
-{"w": "rush", "title": "早上八点的 rush hour，火车挤得像沙丁鱼罐头", "line": "冲冲冲", "stk": "🏃", "body": "rush 作动词是“冲、急忙做”，作名词是“匆忙、高峰、热潮”。\n搭配：rush hour（高峰时段）、in a rush（匆忙中）、rush into sth（仓促做决定）、sugar rush（吃糖后的亢奋）。\n历史阅读里常见 gold rush（淘金热）。19 世纪 50 年代维多利亚州的淘金热吸引了大批移民，包括很多中国人。\n别 rush into 一段感情，也别 rush into 报名考试。准备好了再冲。", "ex": "The discovery of gold in the 1850s triggered a rush of migrants to the colony of Victoria.", "exCn": "19 世纪 50 年代发现金矿后，大批移民涌入维多利亚殖民地。", "pte": "搭配 rush hour、in a rush、rush into、gold rush。", "tags": "#通勤日常 #澳洲历史", "cm": [["火车通勤人", "八点那班我从来挤不上", "1.3w"], ["历史爱好者", "Ballarat 现在还能体验淘金", "2876"], ["冲动报名", "rush into 报名，结果没过", "4567"]]},
-{"w": "sharp", "title": "老板说三点 sharp 开会，我两点五十九分冲进门", "line": "准点到", "stk": "🔪", "body": "sharp 本义是“锋利的”：a sharp knife。引申义特别多。\n一是“急剧的”：a sharp rise / decline（急剧上升 / 下降），描述图表时很好用；二是“敏锐的、聪明的”：a sharp mind；三是“尖锐的、刺耳的”：a sharp pain（剧痛）。\n副词 sharp 放在时间后面表示“整点、准时”：at three o'clock sharp。\n音乐里 sharp 是升号 #，反义 flat 是降号。", "ex": "The figures show a sharp decline in the number of international students after 2020.", "exCn": "数据显示，2020 年后国际学生人数急剧下降。", "pte": "搭配 a sharp rise / decline。副词 sharply。at 3 o'clock sharp = 准时。", "tags": "#职场日常 #图表描述", "cm": [["踩点王", "两点五十九也算准时", "1.4w"], ["读图练习", "sharp increase 和 sharply 我都会用了", "3210"], ["音乐生", "升号降号原来是 sharp 和 flat", "1987"]]},
-{"w": "stable", "title": "我对 stable 工作的执念，和对稳定 Wi-Fi 一样深", "line": "稳住别慌", "stk": "⚖️", "body": "stable 来自拉丁语 stabilis（站得稳的），和 stand 是远亲。形容词：稳定的、牢固的、沉稳的。\n搭配：a stable job（稳定的工作）、a stable economy、in a stable condition（医院说病人“情况稳定”）。\n名词 stability（稳定性）、动词 stabilise（英式）/ stabilize（美式）。\n冷门第二义：stable 作名词是“马厩”。阅读里看到 horses in the stable，别翻成“稳定的马”。", "ex": "The patient was taken to hospital and is now in a stable condition.", "exCn": "病人被送往医院，目前情况稳定。", "pte": "一词多义：稳定的 / 马厩。名词 stability，动词 stabilise。", "tags": "#求职日常 #一词多义", "cm": [["找工焦虑", "stable job 是我的梦想", "1.1w"], ["马术爱好者", "stable 是马厩，第一次知道", "2345"], ["网速受害者", "Wi-Fi 才是最不 stable 的", "3456"]]},
-{"w": "structures", "title": "学建筑的室友，一看到奇怪的 structures 就两眼放光", "line": "结构控", "stk": "🏗️", "body": "structure 来自拉丁语 struere（建造）。同根词：construct（建造）、destruction（毁坏）、instruct（指导）。\nstructures 可以是名词复数：建筑物、结构；也可以是动词三单：组织、安排。\n名词搭配：social structures（社会结构）、sentence structures（句子结构）。\n形容词 structural（结构上的），structured（有条理的）：a well-structured essay。\n室友去悉尼歌剧院，别人拍风景，他拍屋顶的钢筋。", "ex": "Engineers inspected the bridges and other structures damaged during the earthquake.", "exCn": "工程师检查了在地震中受损的桥梁和其他建筑物。", "pte": "词根 struct = 建造。形容词 structural、well-structured。", "tags": "#建筑系 #词根词缀", "cm": [["建筑系苦主", "我们眼里只有承重墙", "1.2w"], ["词根控", "construct instruct 都是一家", "2876"], ["写作 7 分", "well-structured essay 是老师最爱的评语", "3456"]]},
-{"w": "temporary", "title": "以为是 temporary 的出租屋，一住就住了三年", "line": "临时的永久", "stk": "⛺", "body": "tempor（时间，来自拉丁语 tempus）+ ary = temporary，暂时的、临时的。\n同源：contemporary（当代的、同时代的）、tempo（节奏）。\n搭配：a temporary job（临时工作）、temporary accommodation（临时住所）、a temporary visa（临时签证）。口语 temp 就是临时工。\n发音常读三个音节 /ˈtemprəri/，第二个 o 吞掉；拼写别忘了这个 o。反义词 permanent。", "ex": "Thousands of workers on temporary visas help fill labour shortages in the agricultural sector.", "exCn": "数千名持临时签证的工人帮助填补了农业部门的劳动力缺口。", "pte": "拼写：tempo-rary 有 o；发音常吞音。反义 permanent。", "tags": "#租房日常 #拼写陷阱", "cm": [["老租客", "临时住处住出了感情", "1.5w"], ["签证焦虑", "temporary visa 是我们共同的痛", "4567"], ["拼写失误", "我总写成 tempory", "2109"]]},
-{"w": "trick", "title": "万圣节小孩来敲门：trick or treat？我只有一包泡面", "line": "不给糖就捣蛋", "stk": "🎃", "body": "trick 作名词：诡计、恶作剧、窍门、戏法；作动词：欺骗、哄骗。\n搭配：play a trick on sb（捉弄某人）、a magic trick（魔术）、trick sb into doing sth（骗某人做某事）、a trick question（陷阱题）。\n口语 do the trick：起作用、奏效。比如：A cup of coffee should do the trick.\n形容词 tricky：棘手的、难办的。阅读选项里看到 tricky，多半是“难”的意思。", "ex": "Scammers often trick people into revealing their bank details by posing as government officials.", "exCn": "诈骗者常冒充政府官员，骗取人们的银行账户信息。", "pte": "搭配 trick sb into doing、do the trick。形容词 tricky。", "tags": "#万圣节 #防骗指南", "cm": [["独居女孩", "那天我关灯假装不在家", "1.2w"], ["防骗达人", "冒充移民局的电话我接过三次", "5678"], ["口语党", "do the trick 好地道", "2345"]]},
-{"w": "bone", "title": "考前三天 bone up on 单词，效果出奇地好", "line": "临时抱佛脚", "stk": "🦴", "body": "bone = 骨头。形容词 bony（骨瘦如柴的）、skeleton（骨架）。\n俗语不少：bone dry（干透了）；a bone of contention（争论的焦点）；have a bone to pick with sb（有事要和某人理论）。\n口语 bone up on sth：突击学习、恶补，比如 bone up on grammar before the test。\nfunny bone 不是“搞笑的骨头”，而是肘部一碰就发麻的那个位置。", "ex": "Calcium and vitamin D are essential for maintaining strong bones as people age.", "exCn": "随着年龄增长，钙和维生素 D 对保持骨骼强健至关重要。", "pte": "习语 bone up on（恶补）、a bone of contention。形容词 bony。", "tags": "#考前冲刺 #英语俗语", "cm": [["临时抱佛脚", "三天背了 500 个，忘了 400 个", "1.4w"], ["撞到麻筋", "funny bone 一点也不 funny", "6789"], ["习语收集者", "a bone of contention 写作可以用", "2345"]]},
-{"w": "chamber", "title": "宿舍小到像 chamber，转个身都能撞到衣柜", "line": "斗室一间", "stk": "🚪", "body": "chamber 指房间或封闭的空间，比 room 更正式、更书面。\n常见搭配：the chambers of the heart（心室、心房）、a chamber of commerce（商会）、chamber music（室内乐）。\n议会的“议院”也叫 chamber：the upper chamber（上议院）、the lower chamber（下议院）。\n第一次看学生宿舍：一张床、一张桌子、一个窗户，chamber 的味道扑面而来。", "ex": "The human heart is divided into four chambers that work together to pump blood.", "exCn": "人类的心脏分为四个腔室，它们协同工作以泵出血液。", "pte": "搭配 chamber of commerce、chamber music。发音 /ˈtʃeɪmbə/，a 读 /eɪ/。", "tags": "#宿舍日常 #一词多义", "cm": [["学生公寓住户", "我的房间连行李箱都打不开", "1.1w"], ["医学生", "four chambers 解剖课必背", "2345"], ["古典乐迷", "chamber music 好听又小众", "1543"]]},
-{"w": "chart", "title": "我的心情像股票 chart，一天三次大起大落", "line": "起起落落", "stk": "📈", "body": "chart = 图表。常见类型：bar chart（柱状图）、pie chart（饼图）、flow chart（流程图）、line graph（线图）。\n描述图表的开头：The chart shows / illustrates / compares...\nchart 还有“排行榜”：top the charts（登上榜首）；作动词是“记录、追踪”：chart the progress（记录进展）。\n备考的心情 chart：早上自信满满，中午被听写打击，晚上看到别人出分又开始焦虑。", "ex": "The chart illustrates how household spending on energy has changed over the past decade.", "exCn": "这张图表展示了过去十年家庭能源支出的变化。", "pte": "搭配 bar chart、pie chart、flow chart。动词 chart = 记录、追踪。", "tags": "#图表描述 #备考心态", "cm": [["情绪过山车", "我的心情是 line graph", "1.2w"], ["读图练习", "illustrates 比 shows 高级一点", "3456"], ["音乐迷", "top the charts 原来是这个 chart", "1876"]]},
-{"w": "circuit", "title": "健身房的 circuit training，做完一圈直接躺平", "line": "一圈又一圈", "stk": "🔌", "body": "circuit 来自拉丁语 circuitus：circum（绕圈）+ ire（走）= 绕一圈。\n发音：/ˈsɜːkɪt/，中间的 u 不发音，拼写别漏掉。\n义项：电路（an electric circuit、a short circuit 短路）；环形跑道（F1 赛道，墨尔本的 Albert Park 就是一条 circuit）；巡回（the lecture circuit 巡回演讲）。\ncircuit training：循环训练，几个动作轮流做一圈。教练说再来一圈的时候，我真的想短路。", "ex": "A faulty electrical circuit is believed to have caused the fire in the apartment building.", "exCn": "据信公寓楼的火灾是由一条故障电路引起的。", "pte": "拼写有 u 但不发音：CIR-kit。搭配 short circuit。", "tags": "#健身日常 #拼写陷阱", "cm": [["健身房钉子户", "第三圈我已经灵魂出窍", "1.3w"], ["电子工程", "short circuit 课上天天见", "2345"], ["F1 粉丝", "Albert Park 赛道每年都去", "1987"]]},
-{"w": "clothing", "title": "冬天来澳洲才发现，带的 clothing 全是夏装", "line": "衣柜不够用", "stk": "🧥", "body": "clothing 是衣服的总称，不可数名词，不能说 a clothing 或 clothings。要表示一件，说 an item of clothing / a piece of clothing。\n区分三兄弟：cloth（布料，可数时指抹布）、clothes（衣服，复数形式）、clothing（服装总称，更正式）。\n发音：clothes /kləʊðz/，th 是浊音；clothing /ˈkləʊðɪŋ/ 也是浊音。\n来之前以为澳洲一年四季都是夏天，结果墨尔本的冬天教我重新认识了 clothing。", "ex": "The charity collects donated clothing and distributes it to families in need.", "exCn": "这个慈善机构收集捐赠的衣物，并分发给有需要的家庭。", "pte": "clothing 不可数。易混：cloth（布）/ clothes（衣服）/ clothing（服装）。", "tags": "#澳洲冬天 #易混词", "cm": [["墨尔本冻成狗", "谁说澳洲冬天不冷的", "1.5w"], ["语法课代表", "clothing 不能加 s 记住了", "3456"], ["Kmart 常客", "全靠 Kmart 续命", "2345"]]},
-{"w": "defend", "title": "论文答辩时 defend 自己的观点，手心全是汗", "line": "据理力争", "stk": "🛡️", "body": "de（离开）+ fend（打击）= 把攻击挡开 → 保卫、防守、辩护。\n名词 defence（英式、澳洲）/ defense（美式）；形容词 defensive（防御的、戒备的）；法律上的“被告”是 defendant。\n搭配：defend sb against / from sth（保护某人免受……）；defend a thesis（论文答辩）。\n答辩现场：导师问了一个我完全没想到的问题，我只能 defend 到底，越说越心虚。", "ex": "The minister defended the decision to cut funding, saying it would improve efficiency.", "exCn": "部长为削减经费的决定辩护，称这将提高效率。", "pte": "拼写：defence（英）/ defense（美）。名词 defendant 被告。", "tags": "#论文答辩 #英美拼写", "cm": [["研究生在读", "答辩完腿是软的", "1.4w"], ["法律系", "defendant 和 plaintiff 一起背", "2345"], ["足球迷", "defender 就是后卫", "1876"]]},
-{"w": "everyday", "title": "everyday 和 every day，我错了整整一个学期", "line": "差一个空格", "stk": "📅", "body": "everyday（连写）是形容词，意思是“日常的、平常的”，放在名词前：everyday life（日常生活）、everyday tasks（日常事务）。\nevery day（分开写）是副词短语，意思是“每天”：I study every day.\n判断方法：能换成 each day 的，就分开写。\n写作里写成 I go to the gym everyday 是常见错误，正确的是 every day。可惜我没去健身房，这个句子本身也是错的。", "ex": "Smartphones have become an essential part of everyday life for people of all ages.", "exCn": "智能手机已经成为各个年龄段人们日常生活中不可或缺的一部分。", "pte": "易混：everyday（形容词，日常的）vs every day（副词短语，每天）。", "tags": "#拼写陷阱 #写作纠错", "cm": [["改作文老师", "这个错我一天改十遍", "2.1w"], ["每天健身的人", "能换成 each day 就分开写，学到了", "4567"], ["空格杀手", "一个空格扣我分", "3210"]]},
-{"w": "extent", "title": "我对拖延症的了解，已经到了专家的 extent", "line": "到什么程度", "stk": "📐", "body": "extent = 程度、范围。动词 extend（延伸），名词 extension（延长），形容词 extensive（广泛的），拼写注意：extent 是 t 结尾。\n高级写作短语：to some extent（在某种程度上）、to a large extent（在很大程度上）、to what extent（到什么程度）。\n也可以指范围：the full extent of the damage（损失的全部范围）。\n写议论文时，to some extent 可以让观点更客观、更有分寸。", "ex": "It is still unclear to what extent the new policy will reduce traffic congestion.", "exCn": "目前尚不清楚这项新政策能在多大程度上缓解交通拥堵。", "pte": "拼写：extent（t）≠ extend（d）。搭配 to some extent、to what extent。", "tags": "#写作好词 #拼写陷阱", "cm": [["拖延症晚期", "我能拖延到最后一秒", "1.2w"], ["写作 8 分", "to some extent 写作万能", "4321"], ["拼写党", "extent 和 extend 一个 t 一个 d", "2345"]]},
-{"w": "fishing", "title": "周末去码头 fishing，钓了一下午只钓到一只鞋", "line": "空军也快乐", "stk": "🎣", "body": "fish + ing = fishing，捕鱼、钓鱼、渔业。\n搭配：go fishing（去钓鱼）、a fishing boat（渔船）、the fishing industry（渔业）。\n比喻：fishing for compliments（钓夸奖）。比如朋友发自拍问：我是不是胖了？\n易混：phishing（网络钓鱼诈骗）读音和 fishing 一样，拼写不同，指冒充银行或机构骗取个人信息。\n澳洲钓鱼要注意：很多州要求办 fishing licence，还有尺寸和数量限制。", "ex": "Overfishing has led to a sharp decline in fish populations, threatening the fishing industry.", "exCn": "过度捕捞导致鱼类数量急剧下降，威胁到渔业的发展。", "pte": "同音易混：fishing（钓鱼）vs phishing（网络钓鱼诈骗）。", "tags": "#周末钓鱼 #同音易混", "cm": [["码头空军", "钓了三小时，喂饱了海鸥", "1.3w"], ["网络安全", "phishing 邮件每天都有", "3456"], ["自拍达人", "我不是 fishing for compliments", "2345"]]}
+ {
+  "w": "meanwhile",
+  "title": "我在图书馆苦读，meanwhile 室友在海边晒太阳",
+  "line": "与此同时",
+  "stk": "⏳",
+  "body": "mean + while = meanwhile，副词“同时、在此期间”，也可以说 in the meantime、in the meanwhile。\n写作里它是好用的过渡词，常放句首加逗号：Meanwhile, prices continued to rise.\n注意：meanwhile 是副词，不能像 while 那样直接连接两个句子。错误：I studied meanwhile he slept。正确：I studied. Meanwhile, he slept. 或者 I studied while he slept。\n我在图书馆和 essay 搏斗，meanwhile 室友发了九宫格：Bondi 的阳光真好。",
+  "ex": "Unemployment fell slightly last month; meanwhile, wages continued to grow at a slow pace.",
+  "exCn": "上个月失业率略有下降；与此同时，工资继续缓慢增长。",
+  "pte": "meanwhile 是副词，不能当连词；连接句子用 while。同义 in the meantime。",
+  "tags": "#图书馆日常 #过渡词",
+  "cm": [
+   [
+    "图书馆钉子户",
+    "室友的九宫格我都没点赞",
+    "1.6w"
+   ],
+   [
+    "语法老师",
+    "meanwhile 前面用分号或句号",
+    "3890"
+   ],
+   [
+    "Bondi 常客",
+    "阳光确实好，下次带你",
+    "2134"
+   ]
+  ]
+ },
+ {
+  "w": "naturally",
+  "title": "有些人说英语 naturally 就很地道，我只能靠背",
+  "line": "天生的",
+  "stk": "🌿",
+  "body": "nature（天性、自然）+ al + ly = naturally，有三层意思。\n一是“自然地、不做作地”：speak naturally；二是“天生地”：She is naturally talented；三是“当然、理所当然”，可以单独回答问题，相当于 of course。\n短语 come naturally to sb：对某人来说很容易、天生就会。\n发音常读成三个音节 /ˈnætʃrəli/，中间的 u 弱化。",
+  "ex": "Some people find public speaking comes naturally, while others need years of practice.",
+  "exCn": "有些人天生擅长当众演讲，而另一些人则需要多年练习。",
+  "pte": "发音常为三音节 NATCH-ruh-lee。短语 come naturally to sb。",
+  "tags": "#口语提升 #一词多义",
+  "cm": [
+   [
+    "口语焦虑症",
+    "我连 naturally 都读不 naturally",
+    "1.2w"
+   ],
+   [
+    "发音细节",
+    "原来中间的音是吞掉的",
+    "2789"
+   ],
+   [
+    "学霸本霸",
+    "naturally 回答问题好高级",
+    "1654"
+   ]
+  ]
+ },
+ {
+  "w": "necessarily",
+  "title": "贵的东西不 necessarily 好，比如我那门选修课",
+  "line": "不一定哦",
+  "stk": "🤷",
+  "body": "necessary（必要的）+ ly = necessarily，“必然地、必定地”。最常见的用法是否定：not necessarily = 不一定、未必。\n拼写记法：necessary 一个 c 两个 s，像衬衫“one collar, two sleeves”（一个领子两个袖子）。\n重音有两种读法：NE-ce-ssa-ri-ly 和 ne-ce-SSER-i-ly，都是对的，听到哪种都别慌。\n学费最贵的那门课，不 necessarily 最有用；最便宜的二手教材，倒是真的有用。",
+  "ex": "A higher price does not necessarily mean better quality, according to the consumer survey.",
+  "exCn": "根据这项消费者调查，价格更高并不一定意味着质量更好。",
+  "pte": "not necessarily = 不一定。拼写：一个 c 两个 s，necessarily 结尾 -arily。",
+  "tags": "#拼写陷阱 #选课踩坑",
+  "cm": [
+   [
+    "选课踩雷",
+    "最贵的那门课老师照念 PPT",
+    "1.5w"
+   ],
+   [
+    "拼写口诀",
+    "one collar two sleeves 好记",
+    "4890"
+   ],
+   [
+    "听力困难户",
+    "两种读法我都听晕过",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "partnership",
+  "title": "和室友的 partnership：你做饭，我洗碗",
+  "line": "合作愉快",
+  "stk": "🤝",
+  "body": "partner（伙伴、合伙人）+ ship（表示状态、关系的后缀）= partnership，合作关系、合伙企业。\n同类后缀词：friendship、relationship、membership。\n搭配：in partnership with（与……合作）；form a partnership（建立合作关系）；a business partnership（商业合伙）。\n好的 partnership 要分工明确。室友做饭，我洗碗，一个学期都没吵过架，堪称模范。",
+  "ex": "The university has formed a partnership with local hospitals to train more nurses.",
+  "exCn": "这所大学已与当地医院建立合作关系，以培训更多护士。",
+  "pte": "搭配 in partnership with、form a partnership。同义 collaboration。",
+  "tags": "#室友相处 #词根词缀",
+  "cm": [
+   [
+    "洗碗担当",
+    "我负责洗碗，他负责把锅烧糊",
+    "1.1w"
+   ],
+   [
+    "商科学生",
+    "partnership 也是一种企业形式",
+    "2345"
+   ],
+   [
+    "和平室友",
+    "分工明确才是长久之计",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "percentage",
+  "title": "体脂 percentage 比我的 PTE 分数涨得还快",
+  "line": "比例有点高",
+  "stk": "📊",
+  "body": "per（每）+ cent（百）= percent，百分之……；percentage 是“百分比、百分率”。\npercent 前面一般有具体数字：20 percent；percentage 用来说比例本身：a high percentage of students（很大比例的学生）。\n易混：percentage point 是“百分点”。利率从 3% 涨到 4%，涨了 1 个 percentage point，但涨幅是约 33 percent。\n读图题的好搭配：the percentage of... rose sharply（……的比例急剧上升）。",
+  "ex": "The percentage of people working from home has risen sharply over the past five years.",
+  "exCn": "过去五年中，在家办公的人所占比例大幅上升。",
+  "pte": "易混：percent（接数字）vs percentage（比例）。percentage point 百分点。",
+  "tags": "#图表描述 #减肥失败",
+  "cm": [
+   [
+    "健身打卡失败",
+    "体脂率才是真正的上升趋势",
+    "1.3w"
+   ],
+   [
+    "数学课代表",
+    "percentage point 这个太关键了",
+    "3456"
+   ],
+   [
+    "读图党",
+    "rose sharply 我背熟了",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "practical",
+  "title": "实习了才发现，课堂学的都不够 practical",
+  "line": "实践出真知",
+  "stk": "🛠️",
+  "body": "practice（实践）+ al = practical，实际的、实用的。\n搭配：practical experience（实践经验）、practical skills（实用技能）、a practical solution（可行的方案）。\npractical joke 是“恶作剧”，不是“实用的笑话”。\n易混：practically 除了“实际上”，口语里常表示“几乎”：practically everyone = almost everyone，阅读里别看错。\n实习第一天：老板让我整理 Excel，课上学的理论一个没用上。",
+  "ex": "Employers increasingly value graduates who have gained practical experience through internships and part-time work.",
+  "exCn": "雇主越来越看重通过实习和兼职获得实践经验的毕业生。",
+  "pte": "practically 常表示“几乎”。易混 practicable（可行的）。反义 impractical。",
+  "tags": "#实习日常 #一词多义",
+  "cm": [
+   [
+    "实习生小李",
+    "第一周全在复印",
+    "1.4w"
+   ],
+   [
+    "阅读党",
+    "practically 等于 almost 我才知道",
+    "4567"
+   ],
+   [
+    "恶作剧大王",
+    "practical joke 是我的强项",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "primarily",
+  "title": "我来澳洲 primarily 是为了读书，其次是为了海鲜",
+  "line": "主要是为了",
+  "stk": "🦞",
+  "body": "primary（首要的、主要的）+ ly = primarily，主要地、首先。来自拉丁语 primus（第一）。\n同源词：prime（最主要的）、primary school（小学）、primitive（原始的）。\n发音两种都对：英式常读 PRI-ma-ri-ly，美式常读 pri-MER-i-ly。\n同义替换：primarily = mainly = chiefly = largely。\n妈妈问我来澳洲干嘛，我说 primarily 读书；朋友圈里却全是生蚝和龙虾。",
+  "ex": "The decline in fish numbers is primarily caused by rising ocean temperatures.",
+  "exCn": "鱼类数量下降主要是由海洋温度上升造成的。",
+  "pte": "同义替换：primarily = mainly = chiefly。两种重音读法都要能听懂。",
+  "tags": "#留学动机 #同义替换",
+  "cm": [
+   [
+    "悉尼海鲜市场",
+    "生蚝一打 20 刀，真香",
+    "1.2w"
+   ],
+   [
+    "词根控",
+    "primus 第一，prime 也是它",
+    "2890"
+   ],
+   [
+    "妈妈的眼线",
+    "你朋友圈出卖了你",
+    "3567"
+   ]
+  ]
+ },
+ {
+  "w": "regardless",
+  "title": "regardless 下不下雨，我都要去 Bunnings 吃香肠",
+  "line": "无论如何",
+  "stk": "🌭",
+  "body": "regard（关注、考虑）+ less（没有）= regardless，不管、不顾。\n最常用的结构是 regardless of + 名词：regardless of age（无论年龄）、regardless of the cost（不顾代价）。\n也可以单独放句末当副词：It was raining, but we went regardless.（照样去了）\n注意：irregardless 在很多词典里被视为不规范，写作里别用。\n澳洲周末传统：regardless of the weather，Bunnings 门口的香肠摊都得去。",
+  "ex": "All residents are entitled to emergency medical treatment, regardless of their income.",
+  "exCn": "所有居民都有权获得紧急医疗救治，无论收入如何。",
+  "pte": "搭配 regardless of。irregardless 不规范，避免使用。",
+  "tags": "#澳洲日常 #固定搭配",
+  "cm": [
+   [
+    "Bunnings 香肠党",
+    "几块钱的快乐谁懂",
+    "1.7w"
+   ],
+   [
+    "语法洁癖",
+    "irregardless 真的有人写",
+    "2345"
+   ],
+   [
+    "新来的",
+    "第一次知道五金店卖香肠",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "relative",
+  "title": "过年回国，每个 relative 都在问我工资多少",
+  "line": "亲戚盘问中",
+  "stk": "👨‍👩‍👧",
+  "body": "relative 有两大义项。名词：亲戚，a close relative（近亲）、a distant relative（远亲）。\n形容词：相对的、比较而言的。relative to（相对于）、relative poverty（相对贫困）。\n副词 relatively 很实用：relatively cheap（比较便宜）。名词 relativity：爱因斯坦的相对论 the theory of relativity。\n过年的 relative 三连：在哪工作？挣多少？有对象了吗？每个问题都让人想回澳洲。",
+  "ex": "The cost of living in regional towns is relatively low compared with major cities.",
+  "exCn": "与大城市相比，地方城镇的生活成本相对较低。",
+  "pte": "一词多义：亲戚 / 相对的。搭配 relative to。副词 relatively。",
+  "tags": "#过年回家 #一词多义",
+  "cm": [
+   [
+    "春节受害者",
+    "三姑六婆轮番上阵",
+    "2.3w"
+   ],
+   [
+    "物理系",
+    "relativity 才是终极版",
+    "2345"
+   ],
+   [
+    "写作小技巧",
+    "relatively 用来避免绝对化",
+    "3890"
+   ]
+  ]
+ },
+ {
+  "w": "represents",
+  "title": "这张截图 represents 了我每天的状态：在学，但没完全在学",
+  "line": "代表了一切",
+  "stk": "🖼️",
+  "body": "represent = re + present（呈现）→ 代表、表示、描绘，三单形式是 represents。\n几个常用义：代表某人或组织（represent the country）；表示、相当于（This represents a 10% increase）；描绘、表现（The painting represents a storm）。\n名词：representative（代表）、representation（代表、表现）。\n读图题里很好用：The blue bar represents sales in 2020.",
+  "ex": "The new policy represents a significant shift in the government's approach to climate change.",
+  "exCn": "这项新政策代表着政府在应对气候变化方面的重大转变。",
+  "pte": "主语单数要加 s：represents。名词 representative、representation。",
+  "tags": "#读图描述 #主谓一致",
+  "cm": [
+   [
+    "学习博主",
+    "桌上书是摆拍用的",
+    "1.2w"
+   ],
+   [
+    "读图练习中",
+    "the blue bar represents 背熟了",
+    "3456"
+   ],
+   [
+    "语法纠错",
+    "三单的 s 我老是漏",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "rush",
+  "title": "早上八点的 rush hour，火车挤得像沙丁鱼罐头",
+  "line": "冲冲冲",
+  "stk": "🏃",
+  "body": "rush 作动词是“冲、急忙做”，作名词是“匆忙、高峰、热潮”。\n搭配：rush hour（高峰时段）、in a rush（匆忙中）、rush into sth（仓促做决定）、sugar rush（吃糖后的亢奋）。\n历史阅读里常见 gold rush（淘金热）。19 世纪 50 年代维多利亚州的淘金热吸引了大批移民，包括很多中国人。\n别 rush into 一段感情，也别 rush into 报名考试。准备好了再冲。",
+  "ex": "The discovery of gold in the 1850s triggered a rush of migrants to the colony of Victoria.",
+  "exCn": "19 世纪 50 年代发现金矿后，大批移民涌入维多利亚殖民地。",
+  "pte": "搭配 rush hour、in a rush、rush into、gold rush。",
+  "tags": "#通勤日常 #澳洲历史",
+  "cm": [
+   [
+    "火车通勤人",
+    "八点那班我从来挤不上",
+    "1.3w"
+   ],
+   [
+    "历史爱好者",
+    "Ballarat 现在还能体验淘金",
+    "2876"
+   ],
+   [
+    "冲动报名",
+    "rush into 报名，结果没过",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "sharp",
+  "title": "老板说三点 sharp 开会，我两点五十九分冲进门",
+  "line": "准点到",
+  "stk": "🔪",
+  "body": "sharp 本义是“锋利的”：a sharp knife。引申义特别多。\n一是“急剧的”：a sharp rise / decline（急剧上升 / 下降），描述图表时很好用；二是“敏锐的、聪明的”：a sharp mind；三是“尖锐的、刺耳的”：a sharp pain（剧痛）。\n副词 sharp 放在时间后面表示“整点、准时”：at three o'clock sharp。\n音乐里 sharp 是升号 #，反义 flat 是降号。",
+  "ex": "The figures show a sharp decline in the number of international students after 2020.",
+  "exCn": "数据显示，2020 年后国际学生人数急剧下降。",
+  "pte": "搭配 a sharp rise / decline；副词 sharply。at 3 sharp = 三点整。",
+  "tags": "#职场日常 #图表描述",
+  "cm": [
+   [
+    "踩点王",
+    "两点五十九也算准时",
+    "1.4w"
+   ],
+   [
+    "读图练习",
+    "sharp increase 和 sharply 我都会用了",
+    "3210"
+   ],
+   [
+    "音乐生",
+    "升号降号原来是 sharp 和 flat",
+    "1987"
+   ]
+  ]
+ },
+ {
+  "w": "stable",
+  "title": "我对 stable 工作的执念，和对稳定 Wi-Fi 一样深",
+  "line": "稳住别慌",
+  "stk": "⚖️",
+  "body": "stable 来自拉丁语 stabilis（站得稳的），和 stand 是远亲。形容词：稳定的、牢固的、沉稳的。\n搭配：a stable job（稳定的工作）、a stable economy、in a stable condition（医院说病人“情况稳定”）。\n名词 stability（稳定性）、动词 stabilise（英式）/ stabilize（美式）。\n冷门第二义：stable 作名词是“马厩”。阅读里看到 horses in the stable，别翻成“稳定的马”。",
+  "ex": "The patient was taken to hospital and is now in a stable condition.",
+  "exCn": "病人被送往医院，目前情况稳定。",
+  "pte": "一词多义：稳定的 / 马厩。名词 stability，动词 stabilise。",
+  "tags": "#求职日常 #一词多义",
+  "cm": [
+   [
+    "找工焦虑",
+    "stable job 是我的梦想",
+    "1.1w"
+   ],
+   [
+    "马术爱好者",
+    "stable 是马厩，第一次知道",
+    "2345"
+   ],
+   [
+    "网速受害者",
+    "Wi-Fi 才是最不 stable 的",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "structures",
+  "title": "学建筑的室友，一看到奇怪的 structures 就两眼放光",
+  "line": "结构控",
+  "stk": "🏗️",
+  "body": "structure 来自拉丁语 struere（建造）。同根词：construct（建造）、destruction（毁坏）、instruct（指导）。\nstructures 可以是名词复数：建筑物、结构；也可以是动词三单：组织、安排。\n名词搭配：social structures（社会结构）、sentence structures（句子结构）。\n形容词 structural（结构上的），structured（有条理的）：a well-structured essay。\n室友去悉尼歌剧院，别人拍风景，他拍屋顶的钢筋。",
+  "ex": "Engineers inspected the bridges and other structures that were damaged during last month's earthquake.",
+  "exCn": "工程师检查了在上个月地震中受损的桥梁和其他建筑物。",
+  "pte": "词根 struct = 建造。形容词 structural、well-structured。",
+  "tags": "#建筑系 #词根词缀",
+  "cm": [
+   [
+    "建筑系苦主",
+    "我们眼里只有承重墙",
+    "1.2w"
+   ],
+   [
+    "词根控",
+    "construct instruct 都是一家",
+    "2876"
+   ],
+   [
+    "写作 7 分",
+    "well-structured essay 是老师最爱的评语",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "temporary",
+  "title": "以为是 temporary 的出租屋，一住就住了三年",
+  "line": "临时的永久",
+  "stk": "⛺",
+  "body": "tempor（时间，来自拉丁语 tempus）+ ary = temporary，暂时的、临时的。\n同源：contemporary（当代的、同时代的）、tempo（节奏）。\n搭配：a temporary job（临时工作）、temporary accommodation（临时住所）、a temporary visa（临时签证）。口语 temp 就是临时工。\n发音常读三个音节 /ˈtemprəri/，第二个 o 吞掉；拼写别忘了这个 o。反义词 permanent。",
+  "ex": "Thousands of workers on temporary visas help fill labour shortages in the agricultural sector.",
+  "exCn": "数千名持临时签证的工人帮助填补了农业部门的劳动力缺口。",
+  "pte": "拼写：tempo-rary 有 o；发音常吞音。反义 permanent。",
+  "tags": "#租房日常 #拼写陷阱",
+  "cm": [
+   [
+    "老租客",
+    "临时住处住出了感情",
+    "1.5w"
+   ],
+   [
+    "签证焦虑",
+    "temporary visa 是我们共同的痛",
+    "4567"
+   ],
+   [
+    "拼写失误",
+    "我总写成 tempory",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "trick",
+  "title": "万圣节小孩来敲门：trick or treat？我只有一包泡面",
+  "line": "不给糖就捣蛋",
+  "stk": "🎃",
+  "body": "trick 作名词：诡计、恶作剧、窍门、戏法；作动词：欺骗、哄骗。\n搭配：play a trick on sb（捉弄某人）、a magic trick（魔术）、trick sb into doing sth（骗某人做某事）、a trick question（陷阱题）。\n口语 do the trick：起作用、奏效。比如：A cup of coffee should do the trick.\n形容词 tricky：棘手的、难办的。阅读选项里看到 tricky，多半是“难”的意思。",
+  "ex": "Scammers often trick people into revealing their bank details by posing as government officials.",
+  "exCn": "诈骗者常冒充政府官员，骗取人们的银行账户信息。",
+  "pte": "搭配 trick sb into doing、do the trick。形容词 tricky。",
+  "tags": "#万圣节 #防骗指南",
+  "cm": [
+   [
+    "独居女孩",
+    "那天我关灯假装不在家",
+    "1.2w"
+   ],
+   [
+    "防骗达人",
+    "冒充移民局的电话我接过三次",
+    "5678"
+   ],
+   [
+    "口语党",
+    "do the trick 好地道",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "bone",
+  "title": "考前三天 bone up on 单词，效果出奇地好",
+  "line": "临时抱佛脚",
+  "stk": "🦴",
+  "body": "bone = 骨头。形容词 bony（骨瘦如柴的）、skeleton（骨架）。\n俗语不少：bone dry（干透了）；a bone of contention（争论的焦点）；have a bone to pick with sb（有事要和某人理论）。\n口语 bone up on sth：突击学习、恶补，比如 bone up on grammar before the test。\nfunny bone 不是“搞笑的骨头”，而是肘部一碰就发麻的那个位置。",
+  "ex": "Calcium and vitamin D are essential for maintaining strong bones as people age.",
+  "exCn": "随着年龄增长，钙和维生素 D 对保持骨骼强健至关重要。",
+  "pte": "习语 bone up on（恶补）、a bone of contention。形容词 bony。",
+  "tags": "#考前冲刺 #英语俗语",
+  "cm": [
+   [
+    "临时抱佛脚",
+    "三天背了 500 个，忘了 400 个",
+    "1.4w"
+   ],
+   [
+    "撞到麻筋",
+    "funny bone 一点也不 funny",
+    "6789"
+   ],
+   [
+    "习语收集者",
+    "a bone of contention 写作可以用",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "chamber",
+  "title": "宿舍小到像 chamber，转个身都能撞到衣柜",
+  "line": "斗室一间",
+  "stk": "🚪",
+  "body": "chamber 指房间或封闭的空间，比 room 更正式、更书面。\n常见搭配：the chambers of the heart（心室、心房）、a chamber of commerce（商会）、chamber music（室内乐）。\n议会的“议院”也叫 chamber：the upper chamber（上议院）、the lower chamber（下议院）。\n第一次看学生宿舍：一张床、一张桌子、一个窗户，chamber 的味道扑面而来。",
+  "ex": "The human heart is divided into four chambers that work together to pump blood.",
+  "exCn": "人类的心脏分为四个腔室，它们协同工作以泵出血液。",
+  "pte": "搭配 chamber of commerce、chamber music。a 读 /eɪ/。",
+  "tags": "#宿舍日常 #一词多义",
+  "cm": [
+   [
+    "学生公寓住户",
+    "我的房间连行李箱都打不开",
+    "1.1w"
+   ],
+   [
+    "医学生",
+    "four chambers 解剖课必背",
+    "2345"
+   ],
+   [
+    "古典乐迷",
+    "chamber music 好听又小众",
+    "1543"
+   ]
+  ]
+ },
+ {
+  "w": "chart",
+  "title": "我的心情像股票 chart，一天三次大起大落",
+  "line": "起起落落",
+  "stk": "📈",
+  "body": "chart = 图表。常见类型：bar chart（柱状图）、pie chart（饼图）、flow chart（流程图）、line graph（线图）。\n描述图表的开头：The chart shows / illustrates / compares...\nchart 还有“排行榜”：top the charts（登上榜首）；作动词是“记录、追踪”：chart the progress（记录进展）。\n备考的心情 chart：早上自信满满，中午被听写打击，晚上看到别人出分又开始焦虑。",
+  "ex": "The chart illustrates how household spending on energy has changed over the past decade.",
+  "exCn": "这张图表展示了过去十年家庭能源支出的变化。",
+  "pte": "搭配 bar chart、pie chart、flow chart。动词 chart = 记录、追踪。",
+  "tags": "#图表描述 #备考心态",
+  "cm": [
+   [
+    "情绪过山车",
+    "我的心情是 line graph",
+    "1.2w"
+   ],
+   [
+    "读图练习",
+    "illustrates 比 shows 高级一点",
+    "3456"
+   ],
+   [
+    "音乐迷",
+    "top the charts 原来是这个 chart",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "circuit",
+  "title": "健身房的 circuit training，做完一圈直接躺平",
+  "line": "一圈又一圈",
+  "stk": "🔌",
+  "body": "circuit 来自拉丁语 circuitus：circum（绕圈）+ ire（走）= 绕一圈。\n发音：/ˈsɜːkɪt/，中间的 u 不发音，拼写别漏掉。\n义项：电路（an electric circuit、a short circuit 短路）；环形跑道（F1 赛道，墨尔本的 Albert Park 就是一条 circuit）；巡回（the lecture circuit 巡回演讲）。\ncircuit training：循环训练，几个动作轮流做一圈。教练说再来一圈的时候，我真的想短路。",
+  "ex": "A faulty electrical circuit is believed to have caused the fire in the apartment building.",
+  "exCn": "据信公寓楼的火灾是由一条故障电路引起的。",
+  "pte": "拼写有 u 但不发音：CIR-kit。搭配 short circuit。",
+  "tags": "#健身日常 #拼写陷阱",
+  "cm": [
+   [
+    "健身房钉子户",
+    "第三圈我已经灵魂出窍",
+    "1.3w"
+   ],
+   [
+    "电子工程",
+    "short circuit 课上天天见",
+    "2345"
+   ],
+   [
+    "F1 粉丝",
+    "Albert Park 赛道每年都去",
+    "1987"
+   ]
+  ]
+ },
+ {
+  "w": "clothing",
+  "title": "冬天来澳洲才发现，带的 clothing 全是夏装",
+  "line": "衣柜不够用",
+  "stk": "🧥",
+  "body": "clothing 是衣服的总称，不可数名词，不能说 a clothing 或 clothings。要表示一件，说 an item of clothing / a piece of clothing。\n区分三兄弟：cloth（布料，可数时指抹布）、clothes（衣服，复数形式）、clothing（服装总称，更正式）。\n发音：clothes /kləʊðz/，th 是浊音；clothing /ˈkləʊðɪŋ/ 也是浊音。\n来之前以为澳洲一年四季都是夏天，结果墨尔本的冬天教我重新认识了 clothing。",
+  "ex": "The charity collects donated clothing and distributes it to families in need.",
+  "exCn": "这个慈善机构收集捐赠的衣物，并分发给有需要的家庭。",
+  "pte": "clothing 不可数。易混：cloth（布）/ clothes（衣服）/ clothing（服装）。",
+  "tags": "#澳洲冬天 #易混词",
+  "cm": [
+   [
+    "墨尔本冻成狗",
+    "谁说澳洲冬天不冷的",
+    "1.5w"
+   ],
+   [
+    "语法课代表",
+    "clothing 不能加 s 记住了",
+    "3456"
+   ],
+   [
+    "Kmart 常客",
+    "全靠 Kmart 续命",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "defend",
+  "title": "论文答辩时 defend 自己的观点，手心全是汗",
+  "line": "据理力争",
+  "stk": "🛡️",
+  "body": "de（离开）+ fend（打击）= 把攻击挡开 → 保卫、防守、辩护。\n名词 defence（英式、澳洲）/ defense（美式）；形容词 defensive（防御的、戒备的）；法律上的“被告”是 defendant。\n搭配：defend sb against / from sth（保护某人免受……）；defend a thesis（论文答辩）。\n答辩现场：导师问了一个我完全没想到的问题，我只能 defend 到底，越说越心虚。",
+  "ex": "The minister defended the decision to cut funding, saying it would improve efficiency.",
+  "exCn": "部长为削减经费的决定辩护，称这将提高效率。",
+  "pte": "拼写：defence（英）/ defense（美）。名词 defendant 被告。",
+  "tags": "#论文答辩 #英美拼写",
+  "cm": [
+   [
+    "研究生在读",
+    "答辩完腿是软的",
+    "1.4w"
+   ],
+   [
+    "法律系",
+    "defendant 和 plaintiff 一起背",
+    "2345"
+   ],
+   [
+    "足球迷",
+    "defender 就是后卫",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "everyday",
+  "title": "everyday 和 every day，我错了整整一个学期",
+  "line": "差一个空格",
+  "stk": "📅",
+  "body": "everyday（连写）是形容词，意思是“日常的、平常的”，放在名词前：everyday life（日常生活）、everyday tasks（日常事务）。\nevery day（分开写）是副词短语，意思是“每天”：I study every day.\n判断方法：能换成 each day 的，就分开写。\n写作里写成 I go to the gym everyday 是常见错误，正确的是 every day。可惜我没去健身房，这个句子本身也是错的。",
+  "ex": "Smartphones have become an essential part of everyday life for people of all ages.",
+  "exCn": "智能手机已经成为各个年龄段人们日常生活中不可或缺的一部分。",
+  "pte": "易混：everyday（形容词，日常的）vs every day（副词短语，每天）。",
+  "tags": "#拼写陷阱 #写作纠错",
+  "cm": [
+   [
+    "改作文老师",
+    "这个错我一天改十遍",
+    "2.1w"
+   ],
+   [
+    "每天健身的人",
+    "能换成 each day 就分开写，学到了",
+    "4567"
+   ],
+   [
+    "空格杀手",
+    "一个空格扣我分",
+    "3210"
+   ]
+  ]
+ },
+ {
+  "w": "extent",
+  "title": "我对拖延症的了解，已经到了专家的 extent",
+  "line": "到什么程度",
+  "stk": "📐",
+  "body": "extent = 程度、范围。动词 extend（延伸），名词 extension（延长），形容词 extensive（广泛的），拼写注意：extent 是 t 结尾。\n高级写作短语：to some extent（在某种程度上）、to a large extent（在很大程度上）、to what extent（到什么程度）。\n也可以指范围：the full extent of the damage（损失的全部范围）。\n写议论文时，to some extent 可以让观点更客观、更有分寸。",
+  "ex": "It is still unclear to what extent the new policy will reduce traffic congestion.",
+  "exCn": "目前尚不清楚这项新政策能在多大程度上缓解交通拥堵。",
+  "pte": "拼写：extent（t）≠ extend（d）。搭配 to some extent、to what extent。",
+  "tags": "#写作好词 #拼写陷阱",
+  "cm": [
+   [
+    "拖延症晚期",
+    "我能拖延到最后一秒",
+    "1.2w"
+   ],
+   [
+    "写作 8 分",
+    "to some extent 写作万能",
+    "4321"
+   ],
+   [
+    "拼写党",
+    "extent 和 extend 一个 t 一个 d",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "fishing",
+  "title": "周末去码头 fishing，钓了一下午只钓到一只鞋",
+  "line": "空军也快乐",
+  "stk": "🎣",
+  "body": "fish + ing = fishing，捕鱼、钓鱼、渔业。\n搭配：go fishing（去钓鱼）、a fishing boat（渔船）、the fishing industry（渔业）。\n比喻：fishing for compliments（钓夸奖）。比如朋友发自拍问：我是不是胖了？\n易混：phishing（网络钓鱼诈骗）读音和 fishing 一样，拼写不同，指冒充银行或机构骗取个人信息。\n澳洲钓鱼要注意：很多州要求办 fishing licence，还有尺寸和数量限制。",
+  "ex": "Overfishing has led to a sharp decline in fish populations, threatening the fishing industry.",
+  "exCn": "过度捕捞导致鱼类数量急剧下降，威胁到渔业的发展。",
+  "pte": "同音易混：fishing（钓鱼）vs phishing（网络钓鱼诈骗）。",
+  "tags": "#周末钓鱼 #同音易混",
+  "cm": [
+   [
+    "码头空军",
+    "钓了三小时，喂饱了海鸥",
+    "1.3w"
+   ],
+   [
+    "网络安全",
+    "phishing 邮件每天都有",
+    "3456"
+   ],
+   [
+    "自拍达人",
+    "我不是 fishing for compliments",
+    "2345"
+   ]
+  ]
+ }
 ]
