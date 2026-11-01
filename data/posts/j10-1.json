@@ -1,0 +1,402 @@
+[
+ {
+  "w": "alpha-synuclein",
+  "title": "帕金森研究绕不开的 alpha-synuclein，到底是什么",
+  "line": "蛋白质抱团了",
+  "stk": "🧠",
+  "body": "alpha-synuclein = α-突触核蛋白，神经元里的一种蛋白质，大量集中在突触前末梢。\n名字好拆：synuclein = synapse（突触）+ nucleus（核），因为最早是在突触和细胞核附近发现的。\n它出名是因为帕金森病：α-突触核蛋白错误折叠、聚集成团，形成所谓的路易小体（Lewy bodies）。\n读听力讲座时听到 alpha 别慌，就是希腊字母 α，后面那串才是重点。",
+  "ex": "Researchers found that clumps of alpha-synuclein accumulate in the brain cells of patients with Parkinson's disease.",
+  "exCn": "研究人员发现，帕金森病患者的脑细胞中会堆积 α-突触核蛋白团块。",
+  "pte": "拆分：alpha + syn-u-cle-in。搭配 Parkinson's disease、protein aggregation。",
+  "tags": "#医学英语 #神经科学",
+  "cm": [
+   ["神经科学博一", "实验室天天和它打交道，终于有人科普了", "2876"],
+   ["看纪录片学英语", "Lewy bodies 我一直以为是个人名", "1543"],
+   ["悉尼药学僧", "补充：beta 和 gamma 版本也有，只是 alpha 最有名", "967"]
+  ]
+ },
+ {
+  "w": "synuclein",
+  "title": "一个单词拆出两个器官：synuclein 的名字由来",
+  "line": "突触加细胞核",
+  "stk": "🔬",
+  "body": "synuclein = 突触核蛋白。拆开看：syn（来自 synapse 突触）+ nucle（来自 nucleus 核）+ in（蛋白质常见后缀，同 protein、insulin）。\n生物词很多都是这样“拼积木”造出来的，认得零件就不怕长词。\n家族有 alpha、beta、gamma 三种，其中 alpha-synuclein 和帕金森病关系最密切。\n读音提示：syn-NOO-klee-in，nucle 这部分和 nuclear 的开头一样。",
+  "ex": "The study examined how synuclein proteins interact with membranes at the nerve terminal.",
+  "exCn": "这项研究考察了突触核蛋白如何与神经末梢的细胞膜相互作用。",
+  "pte": "构词：synapse + nucleus + -in。-in 结尾常表示蛋白质或化学物质。",
+  "tags": "#拆词记单词 #生物英语",
+  "cm": [
+   ["生物课代表", "-in 结尾：insulin、keratin、melanin，一下全想起来了", "3210"],
+   ["墨尔本考鸭", "原来不是瞎起的名字，有被科普到", "1876"],
+   ["三战PTE", "我只希望听写别考这个", "5432"]
+  ]
+ },
+ {
+  "w": "ingrain",
+  "title": "熬夜这个习惯，已经 ingrain 进我的 DNA 了",
+  "line": "洗都洗不掉",
+  "stk": "🧶",
+  "body": "ingrain = 使根深蒂固。来历很有画面：老式染布叫 dye in grain，用的是一种很牢的红色染料（grain），染进去就洗不掉。\n现在最常见的是形容词 ingrained：deeply ingrained habits（根深蒂固的习惯）、ingrained attitudes（固有观念）。\n凌晨两点还在刷手机？这不是意志力问题，是 ingrained 了。\n同义替换：deep-rooted、entrenched、deep-seated。",
+  "ex": "Such attitudes are deeply ingrained in the culture and will take generations to change.",
+  "exCn": "这种观念在文化中根深蒂固，需要好几代人才能改变。",
+  "pte": "多用形容词 ingrained，常搭配 deeply。同义 entrenched、deep-rooted。",
+  "tags": "#熬夜冠军 #写作好词",
+  "cm": [
+   ["凌晨两点半", "我的作息是 deeply ingrained 的那种", "1.1w"],
+   ["纺织专业", "染布来历是真的，grain 以前指一种昆虫做的红染料", "2345"],
+   ["写作65+", "entrenched 和 ingrained 换着用，老师说我词汇丰富了", "3789"]
+  ]
+ },
+ {
+  "w": "cohesively",
+  "title": "小组作业能不能 cohesively 推进，全看有没有人摆烂",
+  "line": "拧成一股绳",
+  "stk": "🤝",
+  "body": "cohesively = 凝聚地、紧密结合地。词根：co（一起）+ haes（粘住）。和 adhesive（胶水）是同一个“粘”。\n小组作业版：四个人一起 work cohesively，实际是一个人写、两个人点赞、一个人失联。\n名词 cohesion，形容词 cohesive：a cohesive team（团结的团队）、social cohesion（社会凝聚力）。\n写作评分里的 coherence 和 cohesion 不一样：前者是逻辑连贯，后者偏向用连接词把句子粘在一起。",
+  "ex": "The new manager helped the department work more cohesively towards shared goals.",
+  "exCn": "新经理帮助部门更加团结地朝着共同目标努力。",
+  "pte": "词性：cohere / cohesion / cohesive / cohesively。易混 coherent（连贯的）。",
+  "tags": "#小组作业 #词根词缀",
+  "cm": [
+   ["组长本长", "我们组 cohesively 地把活全推给了我", "2.3w"],
+   ["阿德莱德读研", "social cohesion 写社会类作文超好用", "4567"],
+   ["英语老师Amy", "coherence 管逻辑，cohesion 管衔接，记住这句", "3456"]
+  ]
+ },
+ {
+  "w": "exult",
+  "title": "出分那一刻我 exult 到在图书馆跳起来",
+  "line": "高兴得蹦起来",
+  "stk": "🎉",
+  "body": "exult = 狂喜、欢欣鼓舞。拉丁词源 exsultare：ex（向外）+ saltare（跳），字面就是“高兴得跳起来”。\n用法：exult in / at / over sth。形容词 exultant（得意洋洋的），名词 exultation。\n易混词：exalt（赞扬；提拔），只差一个字母，意思完全不同。\n场景：查到 79 分的那一秒，室友以为你中了彩票。",
+  "ex": "Supporters exulted in the streets after the team secured its first championship in decades.",
+  "exCn": "球队夺得几十年来的首个冠军后，支持者们在街头欢欣鼓舞。",
+  "pte": "易混：exult（狂喜） vs exalt（赞扬）。搭配 exult in / over。",
+  "tags": "#出分时刻 #易混词",
+  "cm": [
+   ["终于79", "我那天 exult 到把咖啡打翻了", "1.5w"],
+   ["词源控", "saltare 跳，salient（突出的）也是“跳出来”的意思", "2109"],
+   ["拼写困难户", "exult exalt 我永远在猜", "3678"]
+  ]
+ },
+ {
+  "w": "centricity",
+  "title": "我对自己的生活很有 centricity：以奶猫为中心",
+  "line": "一切围着它转",
+  "stk": "🎯",
+  "body": "centricity = 中心性；以……为中心。由 centric（中心的）+ ity 构成。\n真实语境里多和前缀或复合词一起出现：customer-centricity（以客户为中心）、Eurocentricity（欧洲中心主义）。\n更常见的形容词形式：customer-centric、egocentric（自我中心的）、ethnocentric（民族中心主义的）。\n家里有猫的人都懂：我的作息、钱包、沙发，都是 cat-centric 的。",
+  "ex": "The company's renewed focus on customer centricity has reshaped how it designs its services.",
+  "exCn": "公司对以客户为中心的重新重视，改变了它设计服务的方式。",
+  "pte": "重音：cen-TRIC-i-ty。相关词 egocentric、ethnocentric。",
+  "tags": "#铲屎官日常 #商科英语",
+  "cm": [
+   ["猫奴本奴", "我家的 centricity 是猫，我是附属品", "8765"],
+   ["市场营销研二", "customer-centric 每份 report 都要写", "2345"],
+   ["社会学课代表", "ethnocentric 写文化类作文好用", "1234"]
+  ]
+ },
+ {
+  "w": "promisingly",
+  "title": "我的减肥计划开局很 promisingly，然后就没有然后了",
+  "line": "开局很好",
+  "stk": "🌱",
+  "body": "promisingly = 充满希望地、大有可为地。来自 promising（有前途的），promise 本身就有“预示”的意思。\n体育新闻里很爱用：The season began promisingly（赛季开局不错），通常暗示后面没那么顺。\n减肥版：周一沙拉，周二健身，周三火锅。begin promisingly 的典型案例。\n相关：a promising student（有前途的学生）、promising results（令人鼓舞的结果）。",
+  "ex": "The trial started promisingly, with early results suggesting the drug was both safe and effective.",
+  "exCn": "试验开局很顺利，早期结果表明这种药既安全又有效。",
+  "pte": "搭配 start / begin promisingly。形容词 promising 意为有前途的。",
+  "tags": "#减肥失败 #新闻英语",
+  "cm": [
+   ["周一型选手", "我的每件事都开始得很 promisingly", "1.8w"],
+   ["体育迷小王", "解说一说 started promisingly 我就知道要输", "4321"],
+   ["科研狗", "promising results 是我写摘要的保命词", "2678"]
+  ]
+ },
+ {
+  "w": "plainness",
+  "title": "极简风的本质是 plainness，还是穷？",
+  "line": "朴素也是美",
+  "stk": "🤍",
+  "body": "plainness = 朴素、简单；直白。来自 plain，注意拼写是 plain + ness，两个 n 都要留。\nplain 一词多义：plain English（平实易懂的英语）、plain white T-shirt（素色）、the plains（平原）。\n英式口语里 plain 形容人，还有“长相普通”的意思，夸人时小心用。\n租房党的极简风：墙是白的，桌子是房东的，plainness 拉满，钱包也很 plain。",
+  "ex": "Critics praised the plainness of her writing, which made complex ideas accessible to ordinary readers.",
+  "exCn": "评论家称赞她文风平实，让普通读者也能理解复杂的观点。",
+  "pte": "拼写：plain + ness，双 n。plain 还可指平原。",
+  "tags": "#极简生活 #一词多义",
+  "cm": [
+   ["租房十年", "我家的 plainness 是被迫的", "1.2w"],
+   ["拼写杀手", "plainess 我写错过三次", "3456"],
+   ["英语角", "plain English 是很多政府文件的写作要求", "2190"]
+  ]
+ },
+ {
+  "w": "sophisticate",
+  "title": "来澳三年，我从土包子变成了 sophisticate？",
+  "line": "见过世面的人",
+  "stk": "🍸",
+  "body": "sophisticate 作名词 = 老练世故、懂时尚文化的人；作动词 = 使变复杂、使世故。\n词源：希腊语 sophos（聪明），和 philosophy（爱智慧）同源。\n发音是坑：名词读 /səˈfɪstɪkət/，动词读 /səˈfɪstɪkeɪt/，结尾不一样。\n最常用的是形容词 sophisticated：sophisticated technology（先进技术）、a sophisticated woman（精致老练的女士）。",
+  "ex": "The gallery's new exhibition is aimed at urban sophisticates rather than casual tourists.",
+  "exCn": "美术馆的新展览面向的是都市里的精致人士，而不是普通游客。",
+  "pte": "发音：名词 -kət，动词 -keɪt。sophisticated 可指先进复杂的。",
+  "tags": "#留学变化 #发音陷阱",
+  "cm": [
+   ["墨尔本咖啡党", "会分辨 flat white 和 latte 算 sophisticate 吗", "9876"],
+   ["哲学系", "sophos 和 philosophy 同源，记住了", "2345"],
+   ["朗读困难", "名词动词读音不一样，又学到了", "1876"]
+  ]
+ },
+ {
+  "w": "cooperator",
+  "title": "小组作业里最稀缺的物种：靠谱的 cooperator",
+  "line": "队友难求",
+  "stk": "🧩",
+  "body": "cooperator = 合作者；合作社社员。co（一起）+ operate（运作）+ or（人）。\n拼写：美式常写 cooperate、cooperator；英式也会写成 co-operate、co-operator，带连字符。\n博弈论和经济学阅读里常和 defector（背叛者）成对出现，比如囚徒困境。\n合作社语境：co-op 就是 cooperative 的缩写，农业合作社的成员就是 cooperators。",
+  "ex": "In repeated games, cooperators can outperform selfish players if trust is maintained over time.",
+  "exCn": "在重复博弈中，只要长期保持信任，合作者的表现可以胜过自私的玩家。",
+  "pte": "拼写：cooperate / co-operate 均可，一篇保持统一。词尾 -or 不是 -er。",
+  "tags": "#小组作业 #经济学英语",
+  "cm": [
+   ["博弈论挂科", "cooperator vs defector，我室友是后者", "6543"],
+   ["布里斯班打工", "我们那有个农场 co-op，原来是这个词", "1234"],
+   ["拼写党", "-or 结尾一定要记牢，我总写成 -er", "2345"]
+  ]
+ },
+ {
+  "w": "ovule",
+  "title": "生物课冷知识：你吃的每颗豆子，曾经都是一个 ovule",
+  "line": "种子的前身",
+  "stk": "🌸",
+  "body": "ovule = 胚珠，植物子房里将来发育成种子的结构。\n词源：ov（拉丁语 ovum，卵）+ ule（小）= 小小的卵。ovary（子房；卵巢）、oval（椭圆的）都是这个家族。\n受精后的对应关系很好记：ovule → seed（种子），ovary → fruit（果实）。\n后缀 -ule 表示“小”，同类还有 molecule（分子）、capsule（胶囊）、granule（颗粒）。",
+  "ex": "After pollination, each fertilised ovule develops into a seed inside the fruit.",
+  "exCn": "授粉后，每个受精的胚珠都会在果实内发育成一颗种子。",
+  "pte": "相关词：ovary（子房）、ovum（卵子）。后缀 -ule 表示小。",
+  "tags": "#生物冷知识 #词根词缀",
+  "cm": [
+   ["植物学渣", "ovule 变 seed，ovary 变 fruit，终于分清了", "4321"],
+   ["吃货本货", "所以我吃的花生米都是胚珠的后代", "6789"],
+   ["词根爱好者", "-ule 是小，molecule 就是小块块", "2345"]
+  ]
+ },
+ {
+  "w": "circumscribe",
+  "title": "我的周末被作业 circumscribe 在书桌一米以内",
+  "line": "画个圈圈",
+  "stk": "⭕",
+  "body": "circumscribe = 限制；在……周围画线；（几何）外切、外接。\n拆词：circum（周围，同 circle、circumference）+ scribe（写，同 describe、script）= 在周围画一圈 → 限定范围。\n两个语境：几何里 a circumscribed circle 是外接圆；社科阅读里 rights are circumscribed by law 是权利受法律限制。\n重音在第一音节：CIR-cum-scribe。",
+  "ex": "The powers of the committee are tightly circumscribed by the organisation's constitution.",
+  "exCn": "该委员会的权力受到组织章程的严格限制。",
+  "pte": "重音在第一音节。同义 restrict、limit、confine。形容词 circumscribed。",
+  "tags": "#作业地狱 #学术词汇",
+  "cm": [
+   ["deadline战士", "我的人生被 due date circumscribe 了", "1.3w"],
+   ["数学系", "外接圆就是 circumscribed circle，内切圆是 inscribed", "3456"],
+   ["法学院", "rights are circumscribed 是案例里的常客", "1987"]
+  ]
+ },
+ {
+  "w": "puffery",
+  "title": "“全城最好吃的拉面”，在英文里叫 puffery",
+  "line": "吹得有点大",
+  "stk": "🎈",
+  "body": "puffery = 夸大的宣传、吹捧。来自 puff（吹气、膨胀），把东西吹得鼓鼓的。\n在广告法里 puffery 是个专门概念：像“世界上最好的咖啡”这种明显主观的夸张，一般不当成可以核实的虚假承诺。\n但如果说“比竞品快 50%”，这是具体事实，就不能乱写了。\n逛街时看到 the best pizza in Melbourne，你知道这就是 puffery。",
+  "ex": "Consumers have learned to ignore the puffery that fills most advertisements for beauty products.",
+  "exCn": "消费者已经学会无视大多数美容产品广告中的夸大宣传。",
+  "pte": "puff（吹）+ ery。近义 hype、exaggeration、overstatement。",
+  "tags": "#广告套路 #商科英语",
+  "cm": [
+   ["墨尔本吃货", "每家店都是 best in town，我信了十家", "1.4w"],
+   ["法学院在读", "puffery 是消费者法的一个知识点，没错", "2345"],
+   ["市场部打工人", "我的工作就是生产 puffery", "5678"]
+  ]
+ },
+ {
+  "w": "leafhopper",
+  "title": "后院那只会弹跳的小绿虫，名字叫 leafhopper",
+  "line": "叶子上的跳跳虫",
+  "stk": "🦗",
+  "body": "leafhopper = 叶蝉。拆开就是 leaf（叶子）+ hopper（跳的东西），名字自带说明书。\n它们吸食植物汁液，受惊就猛地一弹跳走。有些种类还能传播植物病害，是农业害虫。\n同类构词：grasshopper（蚱蜢）、treehopper（角蝉）。hop = 单脚跳、蹦。\nhop 还常见于 hop on a bus（跳上公交）、island hopping（跳岛游）。",
+  "ex": "Some species of leafhopper can spread plant diseases that cause serious crop losses.",
+  "exCn": "某些种类的叶蝉能传播植物病害，造成严重的作物损失。",
+  "pte": "复合词：leaf + hopper。复数 leafhoppers。同类 grasshopper。",
+  "tags": "#澳洲后院 #复合词",
+  "cm": [
+   ["后院种菜", "我的番茄就是被它们霍霍的", "3456"],
+   ["昆虫爱好者", "leafhopper 和 grasshopper 不是一类，前者更小", "1234"],
+   ["跳岛游玩家", "island hopping 原来也是这个 hop", "2109"]
+  ]
+ },
+ {
+  "w": "rockslide",
+  "title": "徒步路线因 rockslide 封了，我精心计划的周末泡汤",
+  "line": "山上掉石头",
+  "stk": "🪨",
+  "body": "rockslide = 岩崩、岩石滑落。rock（岩石）+ slide（滑动）。\n一组好记的灾害词：landslide（山体滑坡）、mudslide（泥石流）、rockslide（岩崩）、avalanche（雪崩）。\nlandslide 还有个政治义项：a landslide victory（压倒性胜利）。\n去蓝山徒步前，记得查一下步道有没有因为 rockfall 或 rockslide 关闭。",
+  "ex": "Heavy rain triggered a rockslide that blocked the only road into the mountain village.",
+  "exCn": "暴雨引发了岩崩，堵住了通往山村的唯一道路。",
+  "pte": "灾害词：landslide、mudslide、rockslide、avalanche。搭配 trigger a rockslide。",
+  "tags": "#徒步爱好者 #地理词汇",
+  "cm": [
+   ["蓝山徒步党", "步道关闭通知真的会写 rockfall", "2345"],
+   ["地理老师", "landslide victory 这个义项阅读会出现", "3456"],
+   ["周末宅家", "这就是我不出门的理由", "6789"]
+  ]
+ },
+ {
+  "w": "tamarin",
+  "title": "这只叫 tamarin 的小猴子，爸爸负责背娃",
+  "line": "猴界好爸爸",
+  "stk": "🐒",
+  "body": "tamarin = 绢毛猴，一类生活在中美洲和南美洲森林里的小型猴子，体型和松鼠差不多。\n最出名的是金狮狨（golden lion tamarin），产自巴西大西洋沿岸森林，是著名的保护物种。\n它们常生双胞胎，雄性和其他家庭成员会帮忙背幼崽，家庭分工非常明确。\n易混：tamarind（罗望子、酸角）是一种水果，多一个 d，完全是两回事。",
+  "ex": "Conservation programmes have helped the golden lion tamarin recover from the brink of extinction.",
+  "exCn": "保护项目帮助金狮狨从灭绝边缘恢复过来。",
+  "pte": "易混：tamarin（绢毛猴） vs tamarind（罗望子）。重音在第一音节。",
+  "tags": "#动物冷知识 #易混词",
+  "cm": [
+   ["奶爸日记", "我和 tamarin 爸爸是同行", "1.1w"],
+   ["动物园年卡", "金狮狨真的是金色的，像个小狮子", "3456"],
+   ["东南亚菜爱好者", "tamarind 做酸汤好吃，别和猴子搞混", "2345"]
+  ]
+ },
+ {
+  "w": "cowpox",
+  "title": "一头奶牛救了全人类：cowpox 和疫苗的故事",
+  "line": "感谢奶牛",
+  "stk": "🐄",
+  "body": "cowpox = 牛痘，一种症状较轻的病毒感染，可以从牛传给人。\n1796 年，英国医生爱德华·詹纳注意到挤奶女工得过牛痘后不怎么得天花，于是用牛痘接种来预防天花。\n这就是 vaccine 这个词的来源：拉丁语 vacca 就是“牛”。\n-pox 家族：smallpox（天花）、chickenpox（水痘）、cowpox（牛痘）。",
+  "ex": "Jenner observed that milkmaids who had caught cowpox appeared to be protected from smallpox.",
+  "exCn": "詹纳观察到，感染过牛痘的挤奶女工似乎不会患上天花。",
+  "pte": "-pox 家族：smallpox、chickenpox。vaccine 源自拉丁语 vacca（牛）。",
+  "tags": "#医学史 #词源故事",
+  "cm": [
+   ["公卫研一", "vaccine 来自 vacca，这个考点我记一辈子", "8765"],
+   ["奶牛粉丝", "奶牛：我才是幕后英雄", "1.2w"],
+   ["历史爱好者", "詹纳的故事在 PTE 阅读材料里很适合当背景", "2345"]
+  ]
+ },
+ {
+  "w": "undereducated",
+  "title": "我觉得自己在做饭这方面严重 undereducated",
+  "line": "这课没上过",
+  "stk": "📚",
+  "body": "undereducated = 受教育不足的。under（不足）+ educated。\nunder- 表示“不够”的一大家族：underpaid（报酬过低）、understaffed（人手不足）、underfunded（资金不足）。\n社科阅读里常见：undereducated workers、the undereducated population，讨论教育不平等和就业。\n留学党自嘲：会写 2000 字 essay，却不会煮米饭，生活技能 undereducated。",
+  "ex": "Undereducated workers are often the first to lose their jobs when industries become automated.",
+  "exCn": "当行业实现自动化时，受教育不足的工人往往最先失业。",
+  "pte": "前缀 under- 表示不足：underpaid、understaffed、underfunded。",
+  "tags": "#留学生存 #前缀记忆",
+  "cm": [
+   ["厨房杀手", "煮面都能糊锅的我", "1.5w"],
+   ["教育学研究生", "underfunded schools 也是写作好素材", "2345"],
+   ["打工人老李", "underpaid 和 overworked 是一对", "6789"]
+  ]
+ },
+ {
+  "w": "vaguer",
+  "title": "我问导师论文怎么改，他的回答一次比一次 vaguer",
+  "line": "越说越模糊",
+  "stk": "🌫️",
+  "body": "vaguer = 更模糊的，是 vague 的比较级。拼写规则：以 e 结尾直接加 r，vague → vaguer → vaguest。\n词源：拉丁语 vagus（游荡的），和 vagabond（流浪者）同源，想法四处游荡，所以模糊。\n发音：vague 读 /veɪɡ/，ue 不发音；vaguer 读 /ˈveɪɡə/。\n导师经典语录：Maybe make it a bit more critical. 至于怎么 critical，不说。",
+  "ex": "The minister's answers became vaguer as journalists pressed him for specific figures.",
+  "exCn": "记者追问具体数字时，部长的回答变得更加含糊。",
+  "pte": "比较级拼写：vague → vaguer → vaguest。ue 不发音。",
+  "tags": "#导师语录 #拼写规则",
+  "cm": [
+   ["论文改到第八稿", "be more critical 是我听过最 vague 的建议", "2.1w"],
+   ["词源控", "vagus 神经也是这个词，游走神经", "3456"],
+   ["拼写困难", "我一直写成 vagueer", "1234"]
+  ]
+ },
+ {
+  "w": "ventrolateral",
+  "title": "看脑科学讲座，ventrolateral 这个词拆开就秒懂",
+  "line": "腹侧加外侧",
+  "stk": "🧭",
+  "body": "ventrolateral = 腹外侧的。ventro（腹侧，来自 ventral）+ lateral（侧面的）。\n解剖方位词一组：dorsal（背侧）vs ventral（腹侧）；medial（内侧）vs lateral（外侧）；anterior（前）vs posterior（后）。\n神经科学里常见 ventrolateral prefrontal cortex（腹外侧前额叶皮层），和认知控制、语言等功能有关。\nlateral 平时也常用：lateral thinking（横向思维）。",
+  "ex": "Activity in the ventrolateral prefrontal cortex increased when participants tried to suppress their responses.",
+  "exCn": "当参与者试图抑制自己的反应时，腹外侧前额叶皮层的活动增强了。",
+  "pte": "方位词：dorsal / ventral、medial / lateral。组合词 dorsolateral 同理。",
+  "tags": "#脑科学 #拆词记单词",
+  "cm": [
+   ["心理学博后", "dorsolateral 和 ventrolateral 是一对", "2345"],
+   ["医学生", "解剖方位词背熟了能省很多事", "1876"],
+   ["听力苦手", "讲座里一串术语，拆开就没那么吓人了", "1234"]
+  ]
+ },
+ {
+  "w": "saleslady",
+  "title": "商场里叫人 saleslady，可能已经有点过时了",
+  "line": "说法会变老",
+  "stk": "🛍️",
+  "body": "saleslady = 女售货员。sales + lady，属于比较老派的说法。\n现在更常用中性词：salesperson、sales assistant，英式和澳式日常多说 shop assistant。\n类似的变化：chairman → chair / chairperson，fireman → firefighter，policeman → police officer。\n写作里如果要表达职业，优先选中性词，显得更规范。",
+  "ex": "The saleslady explained that the store would match any lower price offered by a competitor.",
+  "exCn": "女售货员解释说，如果竞争对手报价更低，这家店会按同样的价格出售。",
+  "pte": "中性替换：salesperson、sales assistant、shop assistant。",
+  "tags": "#零售打工 #性别中性词",
+  "cm": [
+   ["商场兼职", "我们工牌上写的是 sales assistant", "3456"],
+   ["语言学专业", "职业名中性化是很好的写作例子", "2109"],
+   ["悉尼搬砖人", "澳洲一般说 shop assistant，没毛病", "1876"]
+  ]
+ },
+ {
+  "w": "creditably",
+  "title": "第一次上台展示，导师说我表现得 creditably",
+  "line": "还不错哦",
+  "stk": "👏",
+  "body": "creditably = 值得称赞地、表现得体地。来自 creditable（值得赞扬的），强调“做得像样、不丢人”，但不一定是顶尖。\n体育报道常见：The team performed creditably（球队表现可圈可点）。\n易混三兄弟：creditable（值得称赞的）、credible（可信的）、credulous（轻信的）。\n导师说 creditably，大概是“及格以上，惊艳未满”。",
+  "ex": "Despite the injury, she performed creditably and finished in the top ten.",
+  "exCn": "尽管受了伤，她仍然表现得可圈可点，跻身前十。",
+  "pte": "易混：creditable（值得称赞的）、credible（可信的）、credulous（轻信的）。",
+  "tags": "#课堂展示 #易混词",
+  "cm": [
+   ["presentation恐惧症", "能得到 creditably 我已经满足了", "6543"],
+   ["词汇党", "credible 和 creditable 我混了好多年", "2345"],
+   ["体育解说迷", "performed creditably 听起来就是虽败犹荣", "1876"]
+  ]
+ },
+ {
+  "w": "emboss",
+  "title": "想要高级感？名片上 emboss 一下就有了",
+  "line": "摸得到的字",
+  "stk": "💳",
+  "body": "emboss = 压印浮凸图案，让图案从表面凸起来。\n拆词：em（使）+ boss。这里的 boss 不是老板，而是一个老义：凸起的饰钮，比如盾牌中间凸起的那块。\n常见场景：embossed business cards（凸字名片）、embossed leather（压花皮革）、银行卡上的凸字号码。\n反义概念：deboss（压凹）；engrave（雕刻）是刻进去，不是压出来。",
+  "ex": "The certificate was embossed with the university's official seal.",
+  "exCn": "证书上压印着大学的官方印章。",
+  "pte": "常用 embossed with sth。易混 engrave（雕刻）。boss 有凸饰之义。",
+  "tags": "#设计感 #一词多义",
+  "cm": [
+   ["平面设计师", "emboss 和 deboss 一凸一凹，印刷厂天天说", "3456"],
+   ["毕业生", "我的毕业证上就有 embossed seal，摸着很爽", "2345"],
+   ["打工人", "原来 boss 还能是凸起来的东西", "7890"]
+  ]
+ },
+ {
+  "w": "novocain",
+  "title": "拔智齿前，牙医说要给我打 novocain",
+  "line": "打完不疼了",
+  "stk": "🦷",
+  "body": "novocain = 奴佛卡因，一种局部麻醉剂。它原本是商品名，通用名叫 procaine（普鲁卡因），也常拼作 novocaine。\n名字来历：novo（新的）+ caine（来自 cocaine），意思是“新的可卡因替代品”，20 世纪初被合成出来。\n-caine 后缀很多都是局麻药：lidocaine（利多卡因）、benzocaine。如今牙科更常用的是利多卡因等药物。\n拔智齿前听到这个词，你知道接下来半张脸会麻好几个小时。",
+  "ex": "Before the procedure, the dentist injected novocain to numb the patient's gum.",
+  "exCn": "手术前，牙医注射了奴佛卡因来麻醉病人的牙龈。",
+  "pte": "也拼作 novocaine。-caine 后缀多为局部麻醉药，如 lidocaine。",
+  "tags": "#拔智齿 #医学英语",
+  "cm": [
+   ["智齿受害者", "打完半张脸麻了，喝水漏了一身", "1.3w"],
+   ["牙科学生", "现在主要用 lidocaine，补充得对", "2345"],
+   ["澳洲看牙好贵", "麻药不贵，账单才让人麻", "9876"]
+  ]
+ },
+ {
+  "w": "petrify",
+  "title": "听到老板说“来我办公室一下”，我当场 petrify",
+  "line": "吓成石头",
+  "stk": "🗿",
+  "body": "petrify = 使石化；使惊呆。词根 petr（石头，来自希腊语 petra），petroleum 就是 petr + oleum（油）= 石头里的油。\n本义：木头经过漫长时间变成石头，the Petrified Forest（石化森林）。\n引申：吓得像石头一样动不了。be petrified of sth = 极度害怕某事。\n社恐版：老板发来一句“有空吗”，整个人瞬间 petrified。",
+  "ex": "Many people are petrified of public speaking, even when addressing a small group.",
+  "exCn": "很多人害怕当众讲话，即使只是面对一小群人。",
+  "pte": "搭配 be petrified of。词根 petr = 石头，同 petroleum。",
+  "tags": "#社恐日常 #词根词缀",
+  "cm": [
+   ["社恐本恐", "被点名回答问题的我：petrified", "1.6w"],
+   ["石油工程", "petroleum 是石头油，终于懂了", "3456"],
+   ["打工人小陈", "有空吗三个字比鬼片还可怕", "8765"]
+  ]
+ }
+]
