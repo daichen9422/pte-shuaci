@@ -138,7 +138,7 @@ function moreCards() {
   const n = Math.min(list.length, shown + 24);
   $("#feed").insertAdjacentHTML("beforeend", list.slice(shown, n).map((w, k) => cardHTML(w, shown + k)).join(""));
   shown = n;
-  $("#more").textContent = shown < list.length ? "继续往下刷…" : "刷到底了，共 " + list.length + " 篇。更多帖子正在写，去复习里练练吧。";
+  $("#more").textContent = shown < list.length ? "继续往下刷…" : "刷到底了，共 " + list.length + " 篇。去复习里巩固一下吧。";
 }
 new IntersectionObserver(es => { if (es[0].isIntersecting && shown && shown < list.length) moreCards(); }, { root: $("#main"), rootMargin: "600px" }).observe($("#more"));
 $("#feed").addEventListener("click", e => { const c = e.target.closest(".card"); if (c) openPost(+c.dataset.i); });
@@ -174,7 +174,7 @@ function renderPost(w) {
         '<div class="box"><div class="lab">例句<button class="say" id="pSayEx">' + ICON.speaker + '听句子</button></div><div class="en">' + esc(p.ex) + "</div><div>" + esc(p.exCn) + "</div></div>" +
         '<div class="box pte"><div class="lab">PTE 考点</div><div>' + esc(p.pte) + "</div></div>" +
         '<div class="tags">' + esc(p.tags) + "</div>"
-        : '<div class="note">这个词还没写成帖子。' + (x.lvl === 0 ? "基础词主要在复习里练拼写和词义。" : "正在排队写。") + "</div>") +
+        : '<div class="note">这个词还没写成帖子。' + (x.lvl === 0 ? "基础词主要在复习里练拼写和词义。" : "人名、地名、缩写这类词没有写帖子，可以在复习里练。") + "</div>") +
     "</div>" +
     (p && p.cm && p.cm.length ? '<div class="cm"><h3>共 ' + p.cm.length + " 条评论</h3>" + p.cm.map(c => '<div class="c">' + avHTML(c[0] || "?") + '<div><div class="who">' + esc(c[0]) + '</div><div class="say2">' + esc(c[1]) + '</div></div><div class="clk">' + ICON.heart + esc(c[2]) + "</div></div>").join("") + "</div>" : "") +
     "</div>" +
@@ -328,7 +328,7 @@ function renderMe() {
     '<div class="stats"><div class="stat"><div class="n">' + seen + '</div><div class="l">刷过</div></div><div class="stat"><div class="n">' + known + '</div><div class="l">斩了</div></div><div class="stat"><div class="n">' + mast + '</div><div class="l">彻底掌握</div></div><div class="stat"><div class="n">' + streak() + '</div><div class="l">连续天数</div></div></div>' +
     '<div class="panel"><h3>每日目标：每天新刷几篇</h3><div class="stepper">' + [10, 20, 30, 50, 80, 120].map(n => '<button data-g="' + n + '" aria-pressed="' + (S.goal === n) + '">' + n + "</button>").join("") + "</div></div>" +
     '<div class="panel"><h3>词库进度（斩了 / 总数）</h3>' + lv.map(r => '<div class="lv"><span>' + LVL[r[0]] + '</span><span class="barw"><i style="width:' + (r[1] / Math.max(r[2], 1) * 100).toFixed(1) + '%"></i></span><span class="num">' + r[1] + " / " + r[2] + "</span></div>").join("") +
-      '<div class="note">帖子已写 ' + POSTS.size + " / " + postTarget + " 篇（难词和中等词），持续更新中</div></div>" +
+      '<div class="note">帖子已写 ' + POSTS.size + " / " + postTarget + " 篇（难词和中等词；没写的主要是人名、地名、缩写）</div></div>" +
     '<div class="panel"><h3>我的收藏 · ' + favs.length + "</h3>" + (favs.length ? favs.slice(0, 200).map(w => { const x = WMAP.get(w); return x ? '<button class="li" data-w="' + esc(w) + '"><b>' + esc(x.w) + "</b><span>" + esc(x.cn) + "</span></button>" : ""; }).join("") : '<div class="note">还没有收藏。答错的词也会自动进来。</div>') + "</div>" +
     '<div class="panel"><h3>备份与恢复</h3><div class="note">进度只存在这台手机的浏览器里。换手机或清理浏览器数据前，先导出备份。</div>' +
       '<div class="row"><button class="btn ghost sm" id="bkDl">下载备份文件</button><button class="btn ghost sm" id="bkCopy">复制备份码</button><button class="btn ghost sm" id="bkIn">导入备份</button></div>' +
