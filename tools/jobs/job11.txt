@@ -1,0 +1,150 @@
+frame | /freɪm/ | n. 框架；结构；眼镜框；[电影] 画面 vt. 给 (图画或照片) 配框；设计；建造；陷害；使…适合；制订；拟订 vi. 有成功希望 adj. 有木架的；有构架的 n. (Frame)人名；(英)弗雷姆
+guest | /ɡest/ | n. 客人，宾客；顾客 vt. 款待，招待 vi. 作客，寄宿 adj. 客人的；特邀的，客座的 n. (Guest)人名；(英)格斯特
+heaven | /ˈhevn/ | n. 天堂；天空；极乐 n. (Heaven)人名；(英)希文
+independence | /ˌɪndɪˈpendəns/ | n. 独立性，自立性；自主
+kiss | /kɪs/ | v. 亲吻，接吻；轻拂，轻触；用唇轻触（以示敬意）；（球）轻轻擦过（另一球） n. 吻，接吻；（一球与另一球的）轻擦 【名】 （Kiss）（美、匈牙利、罗马尼亚）基什（人名）
+life-cycle | /ˈlaɪf saɪkl/ | n. 生命周期
+load | /ləʊd/ | n. 负载，负荷；工作量；装载量 vi. [力] 加载；装载；装货 vt. 使担负；装填
+non-scientific | /ˌnɒn ˌsaɪənˈtɪfɪk/ | 非科学的
+plot | /plɒt/ | n. 阴谋，密谋；情节；（专用的）小块地；（表现两个变量关系的）图表；<美>图表，地图；<美>底层平面图 v. 密谋，暗中策划；（在地图上）画出，标出；构思（情节）；绘制（曲线）；绘制（图表）；在图表上标记，布置；用图表说明；计划，制订 【名】 （Plot）（捷、法）普洛特，普洛（人名）
+possibility | /ˌpɒsəˈbɪləti/ | n. 可能性；可能发生的事物
+pre-digital |  | adj. 数字技术出现之前的
+random | /ˈrændəm/ | adj. [数] 随机的；任意的；胡乱的 n. 随意 adv. 胡乱地
+recovery | /rɪˈkʌvəri/ | n. 恢复，复原；痊愈；重获
+rent | /rent/ | n. 租金 vt. 出租；租用；租借 vi. 租；出租 n. (Rent)人名；(瑞典)伦特
+replace | /rɪˈpleɪs/ | vt. 取代，代替；替换，更换；归还，偿还；把…放回原处
+represent | /ˌreprɪˈzent/ | vt. 代表；表现；描绘；回忆；再赠送 vi. 代表；提出异议
+seeking | /si:kɪŋ/ | v. 寻找；谋求（seek的ing形式）
+self-selected | /ˌself sɪˈlektɪd/ | adj. 自我选择的
+self-taught | /ˌself ˈtɔːt/ | adj. 自学的；自修的
+sentence | /ˈsentəns/ | n. [语][计] 句子，命题；宣判，判决 vt. 判决，宣判
+teeth | /tiːθ/ | n. 牙齿
+understood | /ˌʌndəˈstʊd/ | adj. 被充分理解的；心照不宣的 v. 明白；懂得（understand的过去分词）；熟悉
+academic | /ˌækəˈdemɪk/ | adj. 学术的；理论的；学院的 n. 大学生，大学教师；学者
+academy | /əˈkædəmi/ | n. 学院；研究院；学会；专科院校
+accurate | /ˈækjərət/ | adj. 精确的
+achieve | /ə'tʃiːv/ | vt. 取得；获得；实现；成功 vi. 达到预期的目的，实现预期的结果，如愿以偿
+afford | /əˈfɔːd/ | vt. 买得起；给予，提供 n. (Afford) （英、美）阿福德（人名）
+assume | /əˈsjuːm/ | vi. 假定；设想；承担；采取 vt. 僭取；篡夺；夺取；擅用；侵占
+bbc | /ˌbiː biː ˈsiː/ | abbr. 英国广播公司（British Broadcasting Corporation）
+bottle | /ˈbɒt(ə)l/ | n. 瓶子；一瓶（的量）；酒；奶瓶，乳饮品；<英，非正式>信心，勇气；<非正式>酒癖，嗜酒 v. 装瓶；<非正式>用玻璃瓶砸；<英，非正式>丧失勇气，泄气
+bunch | /bʌntʃ/ | n. 群；串；突出物 vi. 隆起；打褶；形成一串 vt. 使成一串；使打褶 n. (Bunch)人名；(英)邦奇
+category | /ˈkætəɡəri/ | n. 种类，分类；[数] 范畴
+chat | /tʃæt/ | v. 闲聊，聊天 n. 闲聊，聊天；鸣禽 【名】 （Chat）（英、美、泰）沙（人名）
+chemical | /ˈkemɪkl/ | n. 化学制品，化学药品 adj. 化学的
+competitive | /kəmˈpetətɪv/ | adj. 竞争的；比赛的；求胜心切的
+detail | /ˈdiːteɪl/ | n. 细节，琐事；具体信息；次要部分；分队，支队 vt. 详述；选派 vi. 画详图
+diet | /ˈdaɪət/ | n. 饮食；食物；规定饮食 vi. 节食 vt. [医] 照规定饮食 n. (Diet)人名；(法)迪耶
+favourite | /ˈfeɪvərɪt/ | adj. 特别受喜爱的 n. 特别喜爱的人（或物）
+fruit | /fruːt/ | n. 水果；（植物的）果实；成果，结果，后果；（自然的）产物，物产；<古>子孙，后代；<美，非正式>男同性恋者 v. （使）结果实 【名】 （Fruit）（英）弗鲁特，（法）弗吕（人名）
+hang-around | /hæŋ əˈraʊnd/ | 闲荡；徘徊
+harder | /hɑ:də(r)/ | adj. 更难的；更努力的；更坚固的（hard的比较级） n. (Harder)人名；(英、德、瑞典)哈德
+index | /ˈɪndeks/ | n. 指标；指数；索引；指针 vi. 做索引 vt. 指出；编入索引中
+item | /ˈaɪtəm/ | n. 条款，项目；一则；一件商品（或物品） adv. 又，同上 v. 记下；逐条列出
+normally | /ˈnɔːməli/ | adv. 正常地；通常地，一般地
+parent | /ˈpeərənt/ | n. 父亲（或母亲）；父母亲；根源 n. (Parent)人名；(法)帕朗；(英、西)帕伦特
+permanent | /ˈpɜːmənənt/ | adj. 永久的，永恒的；不变的 n. 烫发（等于permanent wave）
+personally | /ˈpɜːsənəli/ | adv. 亲自地；当面；个别地；就自己而言
+pleasure | /ˈpleʒə(r)/ | n. 快乐；希望；娱乐；令人高兴的事 vt. 使高兴；使满意 vi. 高兴；寻欢作乐
+prefer | /prɪˈfɜː(r)/ | vt. 更喜欢；宁愿；提出；提升 vi. 喜欢；愿意
+representative | /ˌreprɪˈzentətɪv/ | adj. 典型的，有代表性的；代议制的；表现的，体现的；与表象有关的 n. 代表；典型；众议员；销售代表
+scheme | /skiːm/ | n. 计划；组合；体制；诡计 vi. 搞阴谋；拟订计划 vt. 计划；策划 n. (Scheme)人名；(瑞典)谢默
+shift | /ʃɪft/ | v. 转移；快速移动；变换；改变观点；推卸（责任）；振作；移位；狼吞虎咽地吃；去除（污迹）；销售，出售；换挡；轮班；含糊其辞，拐弯抹角 n. 转移；改变，转变；手段；轮班；轮班职工；转换（键）；（直筒式）连衣裙，内衣；计谋，诡计
+storage | /ˈstɔːrɪdʒ/ | n. 存储；仓库；贮藏所
+t-shirt | /ˈtiː ʃɜːt/ | n. T恤衫，短袖圆领汗衫
+tank | /tæŋk/ | n. （尤指液体或气体的）大容器；坦克；水槽；池塘；<印度，澳>蓄水池；<美，非正式>牢房 vt. 把……贮放在柜内；打败；<北美，非正式>故意输掉（体育比赛）；<非正式，苏格兰>使惨败 vi. 乘坦克行进；给车加油；喝醉；<美，非正式>遭受失败（尤指财政巨大损失） n. （Tank）（德、土、阿塞、土库、挪)）汤克（
+tend | /tend/ | vi. 趋向，倾向；照料，照顾 vt. 照料，照管
+tight | /taɪt/ | adj. 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的 adv. 紧紧地；彻底地 n. (Tight)人名；(英)泰特
+transportation | /ˌtrænspɔːˈteɪʃn/ | n. 运输；运输系统；运输工具；流放
+ultimately | /ˈʌltɪmətli/ | adv. 最后；根本；基本上
+unlike | /ˌʌnˈlaɪk/ | prep. 不像，和……不同；与……不同，与……相反；非……的特征，不是……的特点 adj. 不同的，不相似的，不像的 conj. 不同于
+weekly | /ˈwiːkli/ | adj. 每周的；周刊的；一周一次的 n. 周刊 adv. 每周一次；逐周
+yard | /jɑːd/ | n. 码（长度单位，等于 3 英尺或 0.91 米）；（尤指沙等建筑材料的）平方码，立方码；（某种用途的）区域，场地；（小屋的）后院，院子；<北美> 庭院花园；<西印度> 包括房子的庭院；<南非> 出租庭院；城市小区；帆桁；<美，非正式> 100美元，百元钞票；<英，非正式> 苏格兰场（the Yard）；（尤指牙买加
+anybody | /ˈenibɒdi/ | pron. 任何人；有人，别人；随便哪一个人 n. 重要人物；平常人
+button | /ˈbʌtn/ | n. 按钮；纽扣 vt. 扣住；扣紧；在…上装纽扣 vi. 扣住；装有纽扣；扣上纽扣 n. (Button)人名；(英)巴顿
+combat | /ˈkɒmbæt/ | n. 战斗；搏斗；争论，反对 v. 与……战斗；防止，抑制（尤用于新闻报道） adj. 战斗的；为……斗争的 n. (Combat) （法）孔巴（人名）
+constitution | /ˌkɒnstɪˈtjuːʃn/ | n. 宪法；体制；章程；构造；建立，组成；体格
+consumer | /kənˈsjuːmə(r)/ | n. 消费者；用户，顾客
+counter | /ˈkaʊntə(r)/ | n. 柜台；对立面；计数器；（某些棋盘游戏的）筹码 vt. 反击，还击；反向移动，对着干；反驳，回答 vi. 逆向移动，对着干；反驳 adj. 相反的 adv. 反方向地；背道而驰地
+creation | /kriˈeɪʃn/ | n. 创造，创作；创作物，产物
+cross-cultural | /ˌkrɒs ˈkʌltʃərəl/ | adj. 跨文化的；交叉文化的
+crown | /kraʊn/ | n. 王冠；花冠；王权；顶点 vt. 加冕；居…之顶；表彰；使圆满完成 n. (Crown)人名；(英)克朗
+depending | /di'pendiŋ/ | v. 依赖；信任（depend的ing形式）
+depression | /dɪˈpreʃn/ | n. 沮丧；忧愁；抑郁症；洼地；不景气；低气压区
+describe | /dɪˈskraɪb/ | vt. 描述，形容；描绘
+employment | /ɪmˈplɔɪmənt/ | n. 使用；职业；雇用
+exclusive | /ɪkˈskluːsɪv/ | adj. 独有的；排外的；专一的 n. 独家新闻；独家经营的项目；排外者
+excuse | /ɪkˈskjuːs/ | n. 借口，托词；正当理由；宽恕，赦免；拙劣样品，蹩脚货；<美>（医生或父母为学生写的）病假条，请假条 v. 原谅，宽恕；辩解，开脱；准许……离开；同意免除
+expert | /ˈekspɜːt/ | n. 专家；行家；能手 adj. 熟练的；内行的；老练的 v. 当专家 n. (Expert) （法、印、俄、罗、巴、荷）埃克斯佩（人名）
+frequently | /ˈfriːkwəntli/ | adv. 频繁地，经常地；时常，屡次
+hopefully | /ˈhəʊpfəli/ | adv. 有希望地，有前途地
+identify | /aɪˈdentɪfaɪ/ | vt. 确定；识别；使参与；把…看成一样 vi. 确定；认同；一致
+importance | /ɪmˈpɔːtns/ | n. 价值；重要；重大；傲慢
+job-seek |  | v. 求职
+latter | /ˈlætə(r)/ | adj. 后者的；近来的；后面的；较后的 n. （Latter）（英、德、捷）拉特（人名）
+manufacturing | /ˌmænjuˈfæktʃərɪŋ/ | v. （用机器大量）生产，制造；编造；（生命体）产生（某种物质）；呆板机械地生产（manufacture 的现在分词） n. 制造；制造业
+mining | /ˈmaɪnɪŋ/ | n. 矿业；采矿
+object | /ˈɒbdʒɪkt/ | n. 目标；物体；客体；宾语 vt. 提出…作为反对的理由 vi. 反对；拒绝
+pattern | /ˈpætn/ | n. 模式；图案；样品 vt. 模仿；以图案装饰 vi. 形成图案
+performing | /pə'fɔːmɪŋ/ | adj. 表演的；履行的 v. 表演（perform的ing形式）；履行
+personnel | /ˌpɜːsəˈnel/ | n. 人事部门；全体人员 adj. 人员的；有关人事的
+promote | /prəˈməʊt/ | vt. 促进；提升；推销；发扬 vi. 成为王后或其他大于卒的子
+revolution | /ˌrevəˈluːʃn/ | n. 革命；旋转；运行；循环
+severe | /sɪˈvɪə(r)/ | adj. 严峻的；严厉的；剧烈的；苛刻的
+suppose | /səˈpəʊz/ | vt. 假设；认为；让（虚拟语气）；推想 vi. 猜想；料想 conj. 假使…结果会怎样
+tool | /tuːl/ | n. 工具，用具；器械，机床；手段 vi. 使用工具；用机床装备工厂 vt. 用工具给……加工
+turkey | /ˈtɜːki/ | n. 火鸡；笨蛋；失败之作
+victim | /ˈvɪktɪm/ | n. 受害人，牺牲品，牺牲者；受骗者，上当的人；祭品，牺牲；无助者，被动者
+amazon | /ˈæməzən/ | 亚马逊；古希腊女战士
+arrest | /əˈrest/ | v. 逮捕；（司法机关）扣留（船只）；阻止；吸引；心跳停止，心脏病发作； n. 逮捕，监禁； 停止，中止 n. (Arrest) （法）阿雷斯特（人名）
+attend | /əˈtend/ | vt. 出席；上（大学等）；照料；招待；陪伴 vi. 出席；致力于；照料；照顾
+ban | /bæn/ | v. 禁止，取缔；（官方）把（某人）逐出某地 n. 禁止，禁令，禁忌；剥夺公民权的判决；诅咒；巴尼（罗马尼亚货币单位） n. (Ban) （美、罗马、克罗地亚）班恩（人名）
+brilliant | /ˈbrɪliənt/ | adj. 灿烂的，闪耀的；杰出的；有才气的；精彩的，绝妙的
+carbon | /'kɑːb(ə)n/ | n. [化学] 碳；碳棒；复写纸 adj. 碳的；碳处理的 n. (Carbon)人名；(西)卡尔翁；(法)卡尔邦；(英)卡本
+circle | /ˈsɜːkl/ | n. 循环，周期；圆；圈子；圆形物 vi. 盘旋，旋转；环行 vt. 画圆圈；环绕…移动
+concert | /ˈkɒnsət/ | n. 音乐会；一致；和谐 vt. 使协调；协同安排 vi. 协调；协力 adj. 音乐会用的；在音乐会上演出的
+crash | /kræʃ/ | v. 碰撞；（使）坠毁；（使）摔碎；使发出巨响；（金融企业等）破产；（机器、系统等）崩溃；（比赛中）惨败；（在临时安排的地方）入睡；心脏停止跳动；擅自闯入 n. （交通工具）坠毁；碰撞声；暴跌；（机器、系统的）崩溃；睡觉；粗棉布 adj. 应急的，速成的 adv. 哗啦一声地
+deliver | /dɪˈlɪvə(r)/ | vt. 交付；发表；递送；释放；给予（打击）；给…接生 vi. 实现；传送；履行；投递 n. 投球
+depth | /depθ/ | n. [海洋] 深度；深奥
+electronic | /ɪˌlekˈtrɒnɪk/ | adj. 电子的 n. 电子电路；电子器件
+error | /ˈerə(r)/ | n. 误差；错误；过失
+existence | /ɪɡˈzɪstəns/ | n. 存在，实在；生存，生活；存在物，实在物
+experiences | /ɪk'spɪrɪənsɪz/ | n. 经历（experience的复数） v. 经历；体验到（experience的三单形式）
+expression | /ɪkˈspreʃn/ | n. 表现，表示，表达；表情，脸色，态度，腔调，声调；式，符号；词句，语句，措辞，说法
+factory | /ˈfæktri; ˈfæktəri/ | n. 工厂，制造厂；（在外国的）代理店
+in-depth | /ˌɪn ˈdepθ/ | adj. 彻底的，深入的
+interior | /ɪnˈtɪəriə(r)/ | n. 内部，里面；内景；内陆，腹地；内政，内务；本质 adj. 内部的，里面的；内位的；内陆的，腹地的；内务的，内政的；心灵的，精神的；本质的
+legislation | /ˌledʒɪsˈleɪʃn/ | n. 立法；法律
+manner | /ˈmænə(r)/ | n. 方式；习惯；种类；规矩；风俗 n. (Manner)人名；(德、芬、瑞典)曼纳
+mate | /meɪt/ | n. 助手，大副；配偶；同事；配对物 vt. 使配对；使一致；结伴 vi. 交配；成配偶；紧密配合 n. (Mate)人名；(日)蛏(姓)；(西、意、塞)马特；(波黑)马特；(罗、俄)马泰
+nearby | /ˌnɪəˈbaɪ/ | adj. 附近的，邻近的 adv. 在附近 prep. 在…附近
+noise | /nɔɪz/ | n. [环境] 噪音；响声；杂音 vt. 谣传 vi. 发出声音；大声议论 n. (Noise)人名；(英)诺伊斯
+origin | /ˈɒrɪdʒɪn/ | n. 起源；原点；出身；开端
+panel | /ˈpænl/ | n. 仪表板；嵌板；座谈小组，全体陪审员 vt. 嵌镶板 n. (Panel) 帕内尔（人名）
+personality | /ˌpɜːsəˈnæləti/ | n. 个性；品格；名人
+plate | /pleɪt/ | n. 碟；金属板；金属牌；感光底片 vt. 电镀；给…装甲 n. (Plate)人名；(英、德、俄、西、意、瑞典)普拉特
+prepare | /prɪˈpeə(r)/ | vt. 准备；使适合；装备；起草 vi. 预备；做好思想准备
+relief | /rɪˈliːf/ | n. 救济；减轻，解除；安慰；浮雕
+resistance | /rɪˈzɪstəns/ | n. 阻力；电阻；抵抗；反抗；抵抗力
+retail | /'riːteɪl/ | n. 零售 v. 零售，（以某价格）零售；详述；散播（私密消息） adv. 以零售方式 adj. 零售的 n. (Retail) （印）勒塔伊（人名）
+rice | /raɪs/ | n. 稻；米饭 vt. 把…捣成米糊状 n. (Rice)人名；(瑞典)里瑟；(塞)里采；(英)赖斯
+roof | /ruːf/ | n. 屋顶；最高处，顶部；最高限度 vt. 给…盖屋顶，覆盖 n. (Roof)人名；(英)鲁夫
+self-identity | /ˌself aɪˈdentəti/ | n. 认同
+single-wing |  | adj. 单翼的
+somewhat | /ˈsʌmwɒt/ | adv. 有点，稍微 pron. 某物；几分
+stronger | /strɒŋgə(r)/ | adj. 更强壮的
+super-intelligence |  | n.超级智能；超级智能体
+surely | /ˈʃʊəli; ˈʃɔːli/ | adv. 当然；无疑；坚定地；稳当地
+tip | /tɪp/ | v. （使）倾斜，（使）斜侧；给小费；<英>扔掉，倒掉（垃圾）；倾倒，倒出；打翻；（用液体、颜色等）覆盖……的尖端；预言……获胜；轻触，轻碰；密报，透露消息，告诫 n. 指点，诀窍，建议；小费；末梢，尖端；<英>垃圾场；<英，非正式>脏乱的地方；（对赛马、比赛结果的）预测，内幕消息；顶端附加物；（尤指给警方的）密报；（
+absolute | /ˈæbsəluːt/ | adj. 绝对的；完全的；专制的 n. 绝对；绝对事物
+advertising | /ˈædvətaɪzɪŋ/ | n. 广告；广告业；登广告 adj. 广告的；广告业的 v. 公告；为…做广告（advertise的ing形式）
+cable | /ˈkeɪbl/ | n. 缆绳；电缆；海底电报 vt. 打电报 vi. 打海底电报
+calm | /kɑːm/ | adj. 静的，平静的；沉着的 vt. 使平静；使镇定 vi. 平静下来；镇定下来 n. 风平浪静 n. (Calm)人名；(法、德)卡尔姆
+client | /ˈklaɪənt/ | n. 客户，委托人；客户机，用户端；（古罗马）贵族庇护下的平民；<古>受赡养者，食客
+constant | /ˈkɒnstənt/ | adj. 不变的；恒定的；经常的 n. [数] 常数；恒量 n. (Constant)人名；(德)康斯坦特
+driven | /ˈdrɪvn/ | adj. 被动的，受到驱策的；有紧迫感的；（人）发愤图强的 v. 驾驶，开车（drive的过去分词）
+empire | /ˈempaɪə(r)/ | n. 帝国；帝王统治，君权 n. (Empire)人名；(法)昂皮尔
+exciting | /ɪkˈsaɪtɪŋ/ | adj. 令人兴奋的；使人激动的 v. 激动；刺激（excite的ing形式）；唤起
+expansion | /ɪkˈspænʃn/ | n. 膨胀；阐述；扩张物
+heavily | /ˈhevɪli/ | adv. 在很大程度上；严重地；大量地； 以猛力，沉重地；缓慢又高声地；缓慢而忧郁地，悲伤地； 令人心情沉重
+hide | /haɪd/ | vt. 隐藏；隐瞒；鞭打 vi. 隐藏 n. 躲藏；兽皮；躲藏处

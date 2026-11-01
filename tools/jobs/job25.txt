@@ -1,0 +1,150 @@
+towel | /ˈtaʊəl/ | n. 毛巾，抹布，纸巾；<英，旧>卫生巾 v. 用毛巾擦，用毛巾擦干；<非正式，澳新>鞭打
+trio | /ˈtriːəʊ/ | n. 三重唱；三件一套；三个一组 n. (Trio)人名；(意)特里奥
+unconscious | /ʌnˈkɒnʃəs/ | adj. 无意识的；失去知觉的；不省人事的；未发觉的
+varies | /ˈveəriz/ | v. （大小、形状等）不同；改变；略微变更，调整（vary 的第三人称单数）
+vegetable | /ˈvedʒtəb(ə)l/ | n. 蔬菜；植物人；呆板懒散的人；植物 adj. 植物的
+workforce | /ˈwɜːkfɔːs/ | n. 劳动力；工人总数，职工总数
+acre | /ˈeɪkə(r)/ | n. 土地，地产；英亩
+arise | /əˈraɪz/ | vi. 出现；上升；起立 n. (Arise) （美、印、德、英）阿里塞（人名）
+bundle | /ˈbʌndl/ | n. 束；捆 vt. 捆 vi. 匆忙离开
+butterfly | /ˈbʌtəflaɪ/ | n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人
+costly | /ˈkɒstli/ | adj. 昂贵的；代价高的 n. (Costly)人名；(英)科斯特利
+darker | /dɑ:kə/ | adj. 更暗的；更黑的；更深的（dark的比较级）
+descent | /dɪˈsent/ | n. 下降；血统；袭击 vt. 除去…的气味；使…失去香味
+discharge | /dɪsˈtʃɑːdʒ/ | v. 准许（某人）离开；释放；排出；放电；履行（职责）；开火；卸货；（法官）撤销（法院命令） n. 出院，免职；释放；（液体、气体等的）排出；排出物；放电；开枪；下客；履行责任；（债务的）清偿
+guild | /ɡɪld/ | n. 协会，行会；同业公会 n. (Guild)人名；(英)吉尔德
+jar | /dʒɑːr/ | n. 罐；广口瓶；震动；刺耳声 vi. 冲突；不一致；震惊；发刺耳声 vt. 震动；刺激；使震动 n. (Jar)人名；(罗)扎尔
+monk | /mʌŋk/ | n. 僧侣，修道士 【名】 （Monk）（柬）蒙，（德、法、英）蒙克（人名）
+norm | /nɔːm/ | n. 标准，规范
+occupy | /ˈɒkjupaɪ/ | v. 使用（房屋、建筑），居住；占据（空间，时间）；使忙于（做某事）；使一直在想；（军事）占领，占据；（尤指为表示抗议而）非法强占（建筑物）；任职，位居
+overhead | /əʊvə'hed/ | adv. 在头顶上方，在空中；在高处 adj. 在头上方的，在空中的；地面以上的，高架的；（费用、开支等）经常的，日常的；（驱动装置）顶置式的 n. 经常性支出，运营费用（常用复数 overheads）；（用于高射投影仪的）透明胶片；（飞机的）顶舱
+painter | /ˈpeɪntər/ | n. 画家；油漆匠 n. (Painter)人名；(英)佩因特
+pierce | /pɪəs/ | v. （锋利尖锐物体）刺入，刺穿；（在身体某部位）扎眼，穿孔（以佩戴珠宝）；（声或光）穿过，透入；冲过，突破；让某人心如刀割，深深地打动 【名】 （Pierce）皮尔斯（人名，同Pearce）
+printer | /ˈprɪntə(r)/ | n. 打印机；印刷商，印刷工人，印刷公司
+prone | /prəʊn/ | adj. 俯卧的；有…倾向的，易于…的 n. (Prone)人名；(意、法)普罗内
+readily | /ˈredɪli/ | adv. 容易地；乐意地；无困难地
+revival | /rɪˈvaɪvl/ | n. 复兴；复活；苏醒；恢复精神；再生效
+sixty | /ˈsɪksti/ | num. 六十，六十个；六十几，六十年代；六十岁
+spine | /spaɪn/ | n. 脊柱，脊椎；刺；书脊
+substances | /'sʌbstəns/ | n. [物] 物质；基本内容；物品药物（substance的复数）
+sustain | /səˈsteɪn/ | vt. 维持；支撑，承担；忍受；供养；证实
+texture | /ˈtekstʃə(r)/ | n. 质地；纹理；结构；本质，实质
+translate | /trænzˈleɪt; trænsˈleɪt/ | vt. 翻译；转化；解释；转变为；调动 vi. 翻译
+unclear | /ˌʌnˈklɪə(r)/ | adj. 不清楚的；不易了解的
+venezuela |  | n. 委内瑞拉
+wizard | /ˈwɪzəd/ | n. 男巫；术士；奇才 adj. 男巫的；巫术的
+affection | /əˈfekʃn/ | n. 喜爱，感情；影响；感染
+airplane | /ˈeəpleɪn/ | n. 飞机
+altitude | /ˈæltɪtjuːd/ | n. 高地；高度；[数] 顶垂线；（等级和地位等的）高级；海拔
+athens | /ˈæθənz/ | n. 雅典（希腊首都）
+competent | /ˈkɒmpɪtənt/ | adj. 胜任的；有能力的；能干的；足够的
+countryside | /ˈkʌntrisaɪd/ | n. 农村，乡下；乡下的全体居民
+debris | /ˈdebriː; ˈdeɪbriː/ | n. 碎片，残骸 n. (Debris)人名；(法)德布里
+delegation | /ˌdelɪˈɡeɪʃn/ | n. 代表团；授权；委托
+demographic | /ˌdeməˈɡræfɪk/ | adj. 人口结构的；人口统计的 n. 特定年龄段的人口；(demographics) 人口统计数据，人口统计资料
+donor | /ˈdəʊnə(r)/ | n. 捐赠者；供者；赠送人 adj. 捐献的；经人工授精出生的
+educate | /ˈedʒukeɪt/ | vt. 教育；培养；训练 vi. 教育；训练
+exceed | /ɪkˈsiːd/ | vt. 超过；胜过 vi. 超过其他
+expressions | /ɪk'spreʃ(ə)nz/ | n. [数] 表达式；表情；公式；表示式（expression是复数形式）
+fierce | /fɪəs/ | adj. 凶猛的；猛烈的；暴躁的 n. (Fierce)人名；(英)菲尔斯
+gabriel | /ˈɡeɪbriəl/ | n. 加布里埃尔（男子名）；加百利（替上帝把好消息报告世人的天使）
+illustration | /ˌɪləˈstreɪʃn/ | n. 说明；插图；例证；图解
+impose | /ɪmˈpəʊz/ | vi. 利用；欺骗；施加影响 vt. 强加；征税；以…欺骗
+indicator | /ˈɪndɪkeɪtə(r)/ | n. 指标，标志，迹象； 指示器；[试剂] 指示剂；[计] 指示符；压力计
+inequality | /ˌɪnɪˈkwɒləti/ | n. 不平等；不同；不平均
+leisure | /ˈleʒə(r)/ | n. 闲暇；空闲；安逸 adj. 空闲的；有闲的；业余的 n. (Leisure)人名；(英)莱热
+lend | /lend/ | vt. 贷；增添，提供；把……借给 vi. 贷款 n. (Lend)人名；(德)伦德
+lounge | /laʊndʒ/ | n. 休息室；闲逛；躺椅；（英）酒吧间 vi. 闲逛；懒洋洋地躺卧；闲混 vt. 虚度光阴
+manuscript | /ˈmænjuskrɪpt/ | n. [图情] 手稿；原稿 adj. 手写的
+mint |  | n. 薄荷；铸币厂 v. 铸造
+oakland | /ˈəʊklənd/ | n. 奥克兰（美国加州西部城市）
+one-tenth | /wʌn tenθ/ | 十分之一
+outline | /ˈaʊtlaɪn/ | n. 轮廓；大纲；概要；略图 vt. 概述；略述；描画…轮廓
+pasta |  | n. 意大利面
+quicker | /ˈkwɪkə(r)/ | adj. 快些（quick 的形容词比较级）
+recognise | /ˈrekəɡnaɪz/ | vt. 认出；承认，认可；识别
+researcher | /rɪˈsɜːtʃər; ˈriːsɜːtʃər/ | n. 研究员
+sculpture | /ˈskʌlptʃə(r)/ | n. 雕塑；雕刻；刻蚀 vt. 雕塑；雕刻；刻蚀 vi. 从事雕刻
+sensor | /ˈsensə(r)/ | n. 传感器
+showcase | /ˈʃəʊkeɪs/ | n. 展示（本领、才华或优良品质）的场合；（商店或博物馆等的）玻璃柜台，玻璃陈列柜 v. 展现，表现
+underwater | /ˌʌndəˈwɔːtə(r)/ | adj. 在水中的；水面下的 adv. 在水下 n. 水下
+velocity | /vəˈlɒsəti/ | n. [力] 速率；迅速；周转率
+wax | /wæks/ | n. 蜡；蜡状物 vt. 给…上蜡 vi. 月亮渐满；增大 adj. 蜡制的；似蜡的 n. (Wax)人名；(德、罗、匈、英)瓦克斯
+aerial | /ˈeəriəl/ | adj. 空中的，航空的；空气的；空想的 n. [电讯] 天线
+batch | /bætʃ/ | n. 一批；一炉；一次所制之量 vt. 分批处理 n. (Batch)人名；(英)巴奇
+catalog | /'kætəlɒɡ/ | n. [图情][计] 目录；登记 vt. 登记；为…编目录 vi. 编目录；按确定价格收入目录（等于catalogue）
+catalogue | /ˈkætəlɒɡ/ | n. 目录；（美）大学情况一览 vt. 把…编入目录
+compliment | /ˈkɒmplɪmənt/ | n. 赞扬，称赞；问候，祝贺 v. 赞美，恭维
+continually | /kənˈtɪnjuəli/ | adv. 不断地；频繁地
+exotic | /ɪɡˈzɒtɪk/ | adj. 异国的；外来的；异国情调的
+exterior | /ɪkˈstɪəriə(r)/ | adj. 外部的，外面的；外表的，表面的；（电影场景）外部拍摄的 n. 外观，外部；外貌
+fury | /ˈfjʊəri/ | n. 狂怒；暴怒；激怒者
+hay |  | n. 干草
+humanitarian | /hjuːˌmænɪˈteəriən/ | adj. 人道主义的；博爱的；基督凡人论的 n. 人道主义者；慈善家；博爱主义者；基督凡人论者
+idaho | /ˈaɪdəhəʊ/ | n. 爱达荷
+immunity | /ɪˈmjuːnəti/ | n. 免疫力；豁免权；免除
+likelihood | /ˈlaɪklihʊd/ | n. 可能性，可能
+lone | /ləʊn/ | adj. 单身的；独自的；寂寞的；人迹稀少的 n. (Lone)人名；(西、肯)洛内；(丹)隆娜；(缅)伦
+necessity | /nəˈsesəti/ | n. 需要；必然性；必需品
+nickname | /ˈnɪkneɪm/ | n. 绰号；昵称 vt. 给……取绰号；叫错名字
+observer | /əbˈzɜːvə(r)/ | n. 观察者；[天] 观测者；遵守者
+optional | /ˈɒpʃənl/ | adj. 可选择的，随意的
+oval-shape |  | 椭圆形
+paste | /peɪst/ | n. 糨糊；（制陶、瓷器用的）湿黏土；（ 制作人造宝石的 ）铅质玻璃；面团；肉（或鱼等）酱（作涂抹料或烹饪用） v. （用浆糊）涂，敷；粘合；拼贴；（计算机）粘贴，插入；狠狠地打，彻底打败 n. (Paste) （印度）帕斯泰（人名）
+pioneer | /ˌpaɪəˈnɪə(r)/ | n. 先锋；拓荒者 vt. 开辟；倡导；提倡 vi. 作先驱
+prosperity | /prɒˈsperəti/ | n. 繁荣，成功
+refuge | /ˈrefjuːdʒ/ | n. 避难；避难所；庇护 vt. 给予…庇护；接纳…避难 vi. 避难；逃避
+renewable | /rɪˈnjuːəb(ə)l/ | adj. （合同、协议等）可延期的，可续期的；（能源）可更新的，可再生的 n. 再生性能源，可再生资源
+shortage | /ˈʃɔːtɪdʒ/ | n. 缺乏，缺少；不足
+smarter | /ˈsmɑ:tə/ | adj. （人）更整洁的；（衣着）更漂亮的；（事物）更新的；更时髦的，更高档的；更智能的；更冷嘲热讽的；更迅速的；更剧痛的；更不恭敬的；（非正式）更聪明的
+sphere | /sfɪə(r)/ | n. 范围；球体 vt. 包围；放入球内；使…成球形 adj. 球体的
+terribly | /ˈterəbli/ | adv. 非常；可怕地；极度地
+toss | /tɒs/ | v. 抛，投；甩（头）；颠簸；摇匀；把（煎饼）颠起翻面；掷硬币决定；（马）摔下（骑手）；（非正式）搜（某地） n. 掷硬币决定；猛仰头（表恼怒）；投掷 n. (Toss) （美）托斯（人名）
+verbal | /ˈvɜːbl/ | adj. 口头的；言语的；动词的；照字面的 n. 动词的非谓语形式
+wool | /wʊl/ | n. 羊毛；毛线；绒线；毛织品；毛料衣物 n. (Wool)人名；(英)伍尔
+accountable | /əˈkaʊntəbl/ | adj. 有责任的；有解释义务的；可解释的
+aftermath | /ˈɑːftəmæθ; ˈɑːftəmɑːθ/ | n. 后果；余波 n. （Aftermath）《空难余波》（电影名）
+aggression | /əˈɡreʃn/ | n. 侵略；进攻；侵犯；侵害
+arguably | /ˈɑːɡjuəbli/ | adv. 可论证地；可争辩地；正如可提出证据加以证明的那样地 [广义用法]可能，大概
+burial | /ˈberiəl/ | n. 埋葬；葬礼；弃绝 adj. 埋葬的
+clarity | /ˈklærəti/ | n. 清楚，明晰；透明 n. (Clarity)人名；(英)克拉里蒂
+conclude | /kənˈkluːd/ | v. 断定，推断出；结束，终止；达成，做成，完成；<美>决定
+coordination | /kəʊˌɔːdɪˈneɪʃn/ | n. 协调，调和；对等，同等
+discretion | /dɪˈskreʃn/ | n. 自由裁量权；谨慎；判断力；判定；考虑周到
+dome | /dəʊm/ | n. 圆屋顶 vi. 成圆顶状 vt. 加圆屋顶于…上 n. (Dome)人名；(法)多姆
+drought | /draʊt/ | n. 干旱；缺乏 n. (Drought)人名；(英)德劳特
+elevation | /ˌelɪˈveɪʃn/ | n. 高地；海拔；提高；崇高；正面图
+esteem | /ɪˈstiːm/ | n. 尊重，敬重 v. 尊敬，尊重；把......看作，认为；考虑；估价
+explored | /ɪk'splor/ | v. 开发；探寻（explore的过去分词）；冒险 adj. 勘探过的
+gesture | /ˈdʒestʃə(r)/ | n. 手势，姿势；姿态，表示 V. 打手势，用动作示意
+historian | /hɪˈstɔːriən/ | n. 历史学家
+horizontal | /ˌhɒrɪˈzɒntl/ | adj. 水平的；地平线的；同一阶层的 n. 水平线，水平面；水平位置
+inevitably | /ɪnˈevɪtəbli/ | adv. 不可避免地；必然地
+misleading | /ˌmɪsˈliːdɪŋ/ | adj. 误导的；引入歧途的；让人产生错误观念的 v. 使产生错误想法（或印象）；欺骗；给……带错路；把……引入歧途（mislead 的现在分词）
+moisture | /ˈmɔɪstʃə(r)/ | n. 水分；湿度；潮湿；降雨量
+mood-alter |  | adj. 改变情绪的
+mortality | /mɔːˈtæləti/ | n. 死亡数，死亡率；必死性，必死的命运
+obsession | /əbˈseʃn/ | n. 痴迷；困扰；[内科][心理] 强迫观念
+opt | /ɒpt/ | vi. 选择 (for) //
+particle | /ˈpɑːtɪkl/ | n. 颗粒；[物] 质点；极小量；小品词
+peanut | /ˈpiːnʌt/ | n. 花生
+persistent | /pəˈsɪstənt/ | adj. 执着的，坚持不懈的；持续的，反复出现的；（动植物某部位，如角、叶等）存留的，不落的
+progression | /prəˈɡreʃn/ | n. 前进；连续
+rack | /ræk/ | n. 架子，支架；（固定台球球位的）三角框；一局台球比赛；（旧时的）拉肢刑具（the rack）；（机器的）齿条，齿轨；（羊、猪等带前肋的）颈脊肉；一对鹿角；<美，非正式>床；毁灭，毁坏；（吉他等乐器的）数字音响效果装置；伸长快步（指马侧蹄几乎同时依次抬起、四蹄偶尔同时离地的步态） v. 折磨，使痛苦；<史>对……施以
+reservoir | /ˈrezəvwɑːr/ | n. 水库；蓄水池
+shuttle | /ˈʃʌtl/ | n. 航天飞机；穿梭；梭子；穿梭班机、公共汽车等 vt. 使穿梭般来回移动；短程穿梭般运送 vi. 穿梭往返
+snack | /snæk/ | n. 小吃，点心；快餐；易办到的事，小事一桩 v. 吃点心（或快餐、小吃）
+striker | /ˈstraɪkə(r)/ | n. 罢工者；打击者；[军]撞针；钟锤；叉鱼的人 n. （Striker）人名；（英）斯特赖克
+unemployed | /ˌʌnɪmˈplɔɪd/ | adj. 未被雇用的，失业的；（物）闲置的，未用的 n. 失业者（the unemployed）
+unite |  | v. 联合；团结；统一
+wagon | /ˈwæɡən/ | n. （一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车；（吉卜赛人或马戏团用的）大篷车；<爱尔兰，非正式>令人不快的女人 v. 用运货马车运输货物 【名】 （Wagon）（法、德）瓦贡（人名）
+alumni | /əˈlʌmnaɪ/ | n. 校友，毕业生（alumnus的复数）
+browser | /ˈbraʊzə(r)/ | n. [计] 浏览器；吃嫩叶的动物；浏览书本的人
+bury | /ˈberi/ | v. 埋，埋葬；埋藏，隐藏；掩藏情感；把头/脸埋进……；嵌入，插入；埋头于，专心于（bury oneself in）；证明……是错的；<非正式>轻松战胜，击败 【名】 （Bury）（英、西）伯里，（法）比里，（德、意、罗、波、捷、匈）布里，（俄）布雷（人名）
+consuming | /kənˈsjuːmɪŋ/ | adj. 消费的；强烈的 v. 消耗（consume的ing形式）
+destructive | /dɪˈstrʌktɪv/ | adj. 破坏的；毁灭性的；有害的，消极的
+dislike | /dɪsˈlaɪk/ | vt. 不喜欢，厌恶 n. 嫌恶，反感，不喜爱
+emerge | /ɪˈmɜːdʒ/ | vi. 浮现；摆脱；暴露
+frog | /frɒɡ/ | n. 青蛙；[铁路] 辙叉；饰扣 vi. 捕蛙 n. (Frog)人名；(俄)弗罗格
+indonesian | /ˌɪndəˈniːʒn; ˌɪndəˈniːziən/ | n. 印尼人；印尼语群；印度尼西亚语 adj. 印尼的
+landmark | /ˈlændmɑːk/ | n. [航]陆标；地标；界标；里程碑；纪念碑；地界标；划时代的事 adj. 有重大意义或影响的 n. （瑞典、挪）兰德马克（人名）
