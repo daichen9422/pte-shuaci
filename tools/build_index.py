@@ -5,10 +5,15 @@ import json, glob, os, re, time
 
 os.chdir(os.path.join(os.path.dirname(__file__), ".."))
 words = {r[0].lower() for r in json.load(open("data/words.json", encoding="utf-8"))}
+# 只收录 tools/jobs/done.txt 里登记过（已检查完成）的批次，p*.json 总是收录
+done = {l.strip() for l in open("tools/jobs/done.txt", encoding="utf-8") if l.strip()} if os.path.exists("tools/jobs/done.txt") else set()
 seen, files, bad, allposts = set(), [], [], []
 for f in sorted(glob.glob("data/posts/*.json")):
     name = os.path.basename(f)
     if name == "index.json" or name.startswith("bundle-"):
+        continue
+    m = re.match(r"j(\d+)-", name)
+    if m and m.group(1) not in done:
         continue
     try:
         posts = json.load(open(f, encoding="utf-8"))
