@@ -1,0 +1,590 @@
+[
+ {
+  "w": "relation",
+  "title": "relation 和 relationship，到底差在哪",
+  "line": "关系也分种类",
+  "stk": "🔗",
+  "body": "relation = 关系；亲属；叙述。和 relationship 都是“关系”，但侧重不同。\nrelationship 多指人与人之间具体的关系，包括恋爱关系；relation 更抽象、更正式，常用复数：international relations（国际关系）、public relations（公关，PR）、race relations。\n超好用的学术短语：in relation to（关于、与……相比），比如 the cost in relation to income。\n另一个义项：a relation = a relative，指亲戚，a distant relation（远亲）。",
+  "ex": "The study examines housing costs in relation to average household income in major cities.",
+  "exCn": "这项研究考察了主要城市的住房成本与家庭平均收入的关系。",
+  "pte": "搭配 in relation to、international relations。易混 relationship。",
+  "tags": "#易混词 #学术搭配",
+  "cm": [
+   [
+    "国际关系专业",
+    "international relations 不能说成 relationships",
+    "8765"
+   ],
+   [
+    "恋爱博主",
+    "我们是 relationship，不是 relation",
+    "1.3w"
+   ],
+   [
+    "写作7分",
+    "in relation to 让句子显得很学术",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "rocket",
+  "title": "在澳洲超市买 rocket，买回来的是一包菜",
+  "line": "火箭还是蔬菜",
+  "stk": "🚀",
+  "body": "rocket 最常见是“火箭”。动词 rocket = 飙升、迅速上涨：House prices have rocketed，描述图表急剧上升很形象。\n英澳的菜市场里，rocket 是芝麻菜，美式英语叫 arugula。第一次在 Woolworths 看到 rocket 的人都愣过。\n习语：It's not rocket science（这又不是什么高深学问），意思是“这很简单”。\n同义替换：soar、surge、skyrocket，都可以表示价格或数字飙升。",
+  "ex": "Rental prices have rocketed in recent years, putting pressure on students and young workers.",
+  "exCn": "近年来租金飙升，给学生和年轻上班族带来了压力。",
+  "pte": "动词 rocket = soar、surge。英澳 rocket = 美 arugula（芝麻菜）。",
+  "tags": "#超市日常 #英美差异",
+  "cm": [
+   [
+    "悉尼租客",
+    "租金 rocketed，我的工资没 rocket",
+    "2.2w"
+   ],
+   [
+    "沙拉爱好者",
+    "rocket 配帕玛森奶酪，绝了",
+    "4567"
+   ],
+   [
+    "DI练习生",
+    "rocket 描述图表比 increase 生动多了",
+    "3210"
+   ]
+  ]
+ },
+ {
+  "w": "slave",
+  "title": "a slave to my phone：我被手机支配的一天",
+  "line": "被手机支配",
+  "stk": "📱",
+  "body": "slave 本义是“奴隶”，名词 slavery（奴隶制），历史阅读里常见 the abolition of slavery（废除奴隶制）。这是严肃的历史话题。\n日常更常见的是比喻用法：be a slave to sth，被某事物支配，a slave to fashion（时尚的奴隶）、a slave to my phone。\n动词短语 slave away：辛苦地干活、埋头苦干，slave away at an essay。\n技术语境里原有 master / slave 的说法，如今很多公司和开源项目已改用 primary / replica 等词。",
+  "ex": "Many people admit that they have become a slave to their smartphones and social media.",
+  "exCn": "许多人承认，自己已经被智能手机和社交媒体所支配。",
+  "pte": "比喻 be a slave to sth。短语 slave away。名词 slavery。",
+  "tags": "#手机依赖 #历史阅读",
+  "cm": [
+   [
+    "屏幕使用时间",
+    "看到每日报告的那一刻，我承认了",
+    "1.5w"
+   ],
+   [
+    "历史系学姐",
+    "abolition of slavery 是近代史必读专题",
+    "3456"
+   ],
+   [
+    "程序员",
+    "primary / replica 现在确实更常用",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "steady",
+  "title": "slow and steady：备考不是冲刺，是长跑",
+  "line": "慢慢来比较快",
+  "stk": "🐢",
+  "body": "steady = 稳定的、平稳的；沉着的。副词 steadily，名词 steadiness。\n图表描述必备：a steady increase（稳步增长）、a steady decline、remain steady（保持稳定）、rise steadily。\n名言来自龟兔赛跑：Slow and steady wins the race（稳扎稳打才能赢）。\n其他搭配：a steady job（稳定的工作）、a steady hand（稳当的手）。动词 steady 是“使稳定”，Steady yourself!（站稳了）。",
+  "ex": "The number of electric vehicles on the road has shown a steady increase over the past five years.",
+  "exCn": "过去五年间，道路上电动汽车的数量呈现稳步增长。",
+  "pte": "图表搭配 a steady increase、remain steady。副词 steadily。",
+  "tags": "#备考心态 #图表描述",
+  "cm": [
+   [
+    "三战PTE",
+    "slow and steady，第三次终于过了",
+    "1.7w"
+   ],
+   [
+    "DI练习生",
+    "steady increase 和 gradual increase 换着用",
+    "4321"
+   ],
+   [
+    "心态崩了",
+    "我的分数也很 steady：一直没涨",
+    "5678"
+   ]
+  ]
+ },
+ {
+  "w": "symbol",
+  "title": "symbol 和 cymbal 读音一样，一个是符号一个是镲",
+  "line": "同音不同物",
+  "stk": "🔣",
+  "body": "symbol = 象征；符号；标志。形容词 symbolic（象征性的），动词 symbolise（英）/ symbolize（美）。\n听写陷阱：symbol 和 cymbal（钹、镲，打击乐器）读音相同，都是 /ˈsɪmbəl/。\n常见搭配：a symbol of peace / hope / power、a chemical symbol（化学符号，比如 Au 是金）、a status symbol（身份的象征）。\n生活版：名牌包、新款手机、市中心的公寓，都可能被当作 status symbol。",
+  "ex": "The koala has become a symbol of Australia's unique wildlife and the need to protect it.",
+  "exCn": "考拉已经成为澳大利亚独特野生动物以及保护它们之必要的象征。",
+  "pte": "同音易混 symbol / cymbal。搭配 a symbol of、status symbol。",
+  "tags": "#同音词 #澳洲动物",
+  "cm": [
+   [
+    "乐队鼓手",
+    "听写写成 cymbal 的，可以来我们乐队",
+    "1.2w"
+   ],
+   [
+    "化学研一",
+    "chemical symbol 背到吐",
+    "3456"
+   ],
+   [
+    "消费观察",
+    "status symbol 是写消费主义作文的好词",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "terminal",
+  "title": "在机场走错 terminal，差点错过航班",
+  "line": "终点也是起点",
+  "stk": "✈️",
+  "body": "terminal 来自拉丁语 terminus（终点、边界），名词是“航站楼；终点站；电脑终端”。\n机场最常用：Terminal 1、the international terminal、the domestic terminal。悉尼机场国内国际航站楼离得不近，走错要坐车换。\n形容词坑人：terminal illness / terminal cancer 指“晚期的、不治的”疾病，阅读和新闻里很严肃。\n还有“逐步衰退的”：terminal decline（无法挽回的衰落），比如 an industry in terminal decline。",
+  "ex": "The industry has been in terminal decline since cheaper imports began flooding the market.",
+  "exCn": "自从更便宜的进口产品大量涌入市场以来，这个行业就一直处于不可逆转的衰退之中。",
+  "pte": "多义：航站楼 / 终端 / 晚期的。搭配 terminal decline。",
+  "tags": "#机场日常 #一词多义",
+  "cm": [
+   [
+    "赶飞机达人",
+    "国内转国际，走了半小时",
+    "1.4w"
+   ],
+   [
+    "医学生",
+    "terminal illness 这个词每次看到都很沉重",
+    "4567"
+   ],
+   [
+    "程序员",
+    "我的 terminal 是黑框框",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "triple",
+  "title": "租金一年 triple，我只能去住更远的郊区",
+  "line": "直接翻三倍",
+  "stk": "3️⃣",
+  "body": "triple = 三倍的、三重的；动词“使增加两倍、变成三倍”。tri- 是“三”：triangle、tricycle、trio。\n动词用法：Prices have tripled（价格涨到原来的三倍）。注意 triple 是“变成原来的三倍”，不是“增加了三倍”。\n名词和搭配：triple jump（三级跳）、triplets（三胞胎）、a triple threat（多面手，样样都行的人）。\n同义：threefold，学术写作中 a threefold increase 更正式。",
+  "ex": "The number of people working from home tripled during the first year of the pandemic.",
+  "exCn": "疫情第一年，居家办公的人数增加到原来的三倍。",
+  "pte": "前缀 tri- = 三。triple = 变为三倍。同义 threefold。",
+  "tags": "#租房日常 #前缀记忆",
+  "cm": [
+   [
+    "搬去郊区的我",
+    "通勤时间也 triple 了",
+    "1.6w"
+   ],
+   [
+    "数学课代表",
+    "增加到三倍和增加了三倍真的不一样",
+    "4321"
+   ],
+   [
+    "田径队",
+    "triple jump 是最难练的项目",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "unlikely",
+  "title": "我在考前一晚背完所有单词？highly unlikely",
+  "line": "想都别想",
+  "stk": "🤷",
+  "body": "unlikely = 不太可能的。un（否定）+ likely。比较级 more unlikely 或 unlikelier，常用 highly unlikely（极不可能）。\n两个句型：It is unlikely that…，以及 sb / sth is unlikely to do sth。The plan is unlikely to succeed。\n第二义：意想不到的、不寻常的，an unlikely friendship（一段意想不到的友谊）、an unlikely hero（出人意料的英雄）。\n同义替换：improbable（更正式），或者句型 There is little chance that…，写作时可以轮换。",
+  "ex": "Experts say interest rates are unlikely to fall before the end of next year.",
+  "exCn": "专家表示，利率在明年年底前不太可能下降。",
+  "pte": "句型 be unlikely to do / It is unlikely that。搭配 highly unlikely。",
+  "tags": "#考前临时抱佛脚 #语法句型",
+  "cm": [
+   [
+    "临时抱佛脚",
+    "highly unlikely，但我还想试试",
+    "1.8w"
+   ],
+   [
+    "语法控",
+    "be unlikely to do 写作里超好用",
+    "3456"
+   ],
+   [
+    "宠物博主",
+    "猫和鸭子的 unlikely friendship 看哭我",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "agenda",
+  "title": "会议 agenda 上的第五项，从来没人讨论到",
+  "line": "议程永远没完",
+  "stk": "🗒️",
+  "body": "agenda = 议程；待办事项。来自拉丁语，本是 agendum（需要做的事）的复数，但在现代英语里当单数用：The agenda is…。\n常见搭配：on the agenda（在议程上）、top of the agenda（头等大事）、set the agenda（主导议题）。\n有一个带点负面的说法：a hidden agenda（不可告人的目的、暗藏的动机）。\n政治和新闻里：the government's policy agenda（施政议程）、political agenda。",
+  "ex": "Climate change was at the top of the agenda when world leaders met in Paris.",
+  "exCn": "世界各国领导人在巴黎会面时，气候变化是议程上的头等大事。",
+  "pte": "搭配 on / top of the agenda、hidden agenda。现代英语作单数。",
+  "tags": "#开会日常 #固定搭配",
+  "cm": [
+   [
+    "会议记录员",
+    "第五项永远是 any other business，然后散会",
+    "1.3w"
+   ],
+   [
+    "拉丁语爱好者",
+    "agenda 原来是复数，涨知识了",
+    "3456"
+   ],
+   [
+    "职场新人",
+    "我怀疑同事帮我是有 hidden agenda",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "bat",
+  "title": "板球用 bat，网球用 racket，别再说错了",
+  "line": "拍子不一样",
+  "stk": "🏏",
+  "body": "bat 有两个完全不同的意思：蝙蝠；球棒、球拍。\n球拍的区分：板球、棒球用 bat；网球、羽毛球用 racket；乒乓球英式叫 table tennis bat，美式叫 paddle。在澳洲看板球，一定会听到 bat 和 batter。\n习语：not bat an eye / eyelid（眼都不眨一下，泰然自若）；as blind as a bat（瞎得像蝙蝠），但其实蝙蝠并不瞎，很多还靠回声定位。\n动词 bat：击球；轮到击球，batting average 是击球率。",
+  "ex": "Most species of bat use echolocation to find their way and catch insects in the dark.",
+  "exCn": "大多数蝙蝠物种利用回声定位在黑暗中辨认方向并捕捉昆虫。",
+  "pte": "多义：蝙蝠 / 球棒。网球是 racket。习语 not bat an eye。",
+  "tags": "#澳洲运动 #一词多义",
+  "cm": [
+   [
+    "板球入坑",
+    "看了三场板球还没搞懂规则",
+    "1.2w"
+   ],
+   [
+    "动物学硕士",
+    "蝙蝠真的不瞎，冤枉它们了",
+    "4567"
+   ],
+   [
+    "羽毛球社",
+    "badminton racket，不是 bat",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "bow",
+  "title": "bow 读错一个音，就从“鞠躬”变成了“蝴蝶结”",
+  "line": "一词两读",
+  "stk": "🎀",
+  "body": "bow 是一组同形词，读音不同意思完全不同。\n读 /bəʊ/（和 go 同韵）：弓；蝴蝶结；琴弓。a bow and arrow（弓箭）、tie a bow（打个蝴蝶结）。\n读 /baʊ/（和 now 同韵）：鞠躬、低头；船头。take a bow（上台鞠躬谢幕）、bow to pressure（屈服于压力）。\n记法：rainbow 里的 bow 是弯弯的“弓”，所以读 /bəʊ/。新闻里 bow to public pressure 是“屈服于公众压力”，读 /baʊ/。",
+  "ex": "The government finally bowed to public pressure and agreed to review the controversial policy.",
+  "exCn": "政府最终屈服于公众压力，同意重新审议这项有争议的政策。",
+  "pte": "发音：弓、蝴蝶结 /bəʊ/；鞠躬、船头 /baʊ/。搭配 bow to pressure。",
+  "tags": "#发音陷阱 #同形异义",
+  "cm": [
+   [
+    "朗读翻车",
+    "bow to pressure 读成蝴蝶结，考官应该很困惑",
+    "1.1w"
+   ],
+   [
+    "小提琴手",
+    "我们说 bow 是琴弓，读 /bəʊ/",
+    "3456"
+   ],
+   [
+    "彩虹控",
+    "rainbow 这个记法太好用了",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "calendar",
+  "title": "calendar 结尾是 -ar，不是 -er，我错了好多年",
+  "line": "日历别拼错",
+  "stk": "📅",
+  "body": "calendar = 日历；历法；日程表。拼写结尾是 -ar，很多人写成 calender。\n词源：来自拉丁语 kalendae，古罗马把每个月的第一天叫 Kalends，那天要算账还债。\n常见搭配：a calendar year（日历年，1 月到 12 月）、the academic calendar（校历）、mark it on the calendar（在日历上标出来）。\n和 schedule 的区别：calendar 偏指日期表本身，schedule 是具体的安排和时间表。",
+  "ex": "The university has updated its academic calendar to include a longer break between semesters.",
+  "exCn": "学校更新了校历，延长了学期之间的假期。",
+  "pte": "拼写陷阱：-ar 不是 -er。搭配 calendar year、academic calendar。",
+  "tags": "#拼写陷阱 #校园生活",
+  "cm": [
+   [
+    "拼写重灾区",
+    "calender 我写了十几年",
+    "1.3w"
+   ],
+   [
+    "日程控",
+    "我的 calendar 比我的生活还满",
+    "4321"
+   ],
+   [
+    "历史爱好者",
+    "罗马人每个月第一天要还债，难怪不喜欢月初",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "cape",
+  "title": "Cape York 是澳洲最北端，超人的 cape 是披风",
+  "line": "海角和披风",
+  "stk": "🦸",
+  "body": "cape 有两个常用意思：一是“海角、岬”，伸入海中的陆地；二是“披风、斗篷”。\n地理名称里很常见：Cape York（约克角，澳洲大陆最北端）、the Cape of Good Hope（好望角）。地名里的 Cape 首字母大写。\n披风义：superheroes wearing capes（披着披风的超级英雄）。\n区分近义：cape 和 headland、promontory 都指伸入海中的陆地；bay（海湾）则是凹进去的部分。",
+  "ex": "Cape York is the northernmost point of mainland Australia and attracts many adventurous travellers.",
+  "exCn": "约克角是澳大利亚大陆的最北端，吸引着许多爱冒险的旅行者。",
+  "pte": "两义：海角 / 披风。近义 headland。反义地形 bay。",
+  "tags": "#澳洲地理 #一词多义",
+  "cm": [
+   [
+    "自驾游达人",
+    "开去 Cape York 的路真的很野",
+    "1.1w"
+   ],
+   [
+    "超英粉",
+    "No capes! ——《超人总动员》的衣服设计师",
+    "5678"
+   ],
+   [
+    "地理老师",
+    "cape 和 bay 一凸一凹，记得对照",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "cooperation",
+  "title": "小组作业最需要的 cooperation，往往最缺",
+  "line": "一起才能赢",
+  "stk": "🤜",
+  "body": "cooperation = 合作、协作。co（共同）+ operation（运作）。英式也可写 co-operation。\n动词 cooperate（合作），形容词 cooperative（合作的、配合的）；名词 a cooperative / co-op 是合作社。\n常见搭配：in cooperation with（与……合作）、international cooperation（国际合作）、close cooperation。\n同义替换：collaboration、teamwork、partnership，写作时可以轮换。",
+  "ex": "International cooperation is essential if countries are to address the challenges of climate change.",
+  "exCn": "各国要应对气候变化带来的挑战，国际合作必不可少。",
+  "pte": "英式 co-operation 也对。搭配 in cooperation with。同义 collaboration。",
+  "tags": "#小组作业 #同义替换",
+  "cm": [
+   [
+    "小组组长",
+    "我们组的 cooperation 是我一个人干完",
+    "2.1w"
+   ],
+   [
+    "拼写控",
+    "co-operation 和 cooperation 都对，统一就行",
+    "3456"
+   ],
+   [
+    "国际关系",
+    "international cooperation 是写作万能词",
+    "4321"
+   ]
+  ]
+ },
+ {
+  "w": "craft",
+  "title": "craft beer 和 handicraft，craft 到底是啥",
+  "line": "手艺人的骄傲",
+  "stk": "🍺",
+  "body": "craft 名词是“手艺、工艺”，handicraft 是手工艺品，craftsman 是工匠，craftsmanship 是手艺、工艺水平。\n形容词式用法：craft beer（精酿啤酒），强调小规模、手工酿造。澳洲各地小酒厂很多。\n第二义坑人：craft 还可以指“船只、飞行器”，aircraft、spacecraft，而且复数不变：two aircraft，不是 aircrafts。\n动词 craft = 精心制作：a carefully crafted speech（精心打磨的演讲）。",
+  "ex": "The speech was carefully crafted to appeal to both young voters and older supporters.",
+  "exCn": "这篇演讲经过精心打磨，以同时吸引年轻选民和年长支持者。",
+  "pte": "aircraft 复数不变。动词 craft = 精心制作。名词 craftsmanship。",
+  "tags": "#精酿啤酒 #一词多义",
+  "cm": [
+   [
+    "精酿爱好者",
+    "墨尔本的 craft beer 小酒馆我打卡了二十家",
+    "1.2w"
+   ],
+   [
+    "语法纠错",
+    "aircrafts 是错的，复数不变",
+    "4567"
+   ],
+   [
+    "手工博主",
+    "handicraft 摊位周末超热闹",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "darkness",
+  "title": "停电那晚，宿舍陷入一片 darkness",
+  "line": "灯灭了",
+  "stk": "🌑",
+  "body": "darkness = 黑暗；阴郁；无知。dark + 名词后缀 -ness，和 kindness、sadness 一样的构词。\n常见搭配：in darkness（在黑暗中）、plunge into darkness（陷入黑暗，比如停电）、in the darkness of the night。\n比喻义：像“黑暗时期”“阴郁情绪”这类抽象的黑暗，也能用 darkness 表示。\n停电版：整栋楼 darkness，唯一亮着的是大家手机的电筒，和室友的哀嚎。",
+  "ex": "The storm left thousands of homes in darkness after it brought down power lines across the city.",
+  "exCn": "暴风雨刮断了全城的电线，导致数千户家庭陷入黑暗。",
+  "pte": "后缀 -ness 变名词。搭配 in darkness、plunge into darkness。",
+  "tags": "#宿舍停电 #构词法",
+  "cm": [
+   [
+    "停电受害者",
+    "冰箱里的冰淇淋全化了",
+    "1.1w"
+   ],
+   [
+    "构词控",
+    "-ness 后缀一学，多会十个词",
+    "3456"
+   ],
+   [
+    "露营爱好者",
+    "澳洲内陆的 darkness 才能看到银河",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "deeper",
+  "title": "dig deeper 之后，才发现自己什么都不懂",
+  "line": "越挖越深",
+  "stk": "⛏️",
+  "body": "deeper 是 deep 的比较级：更深的。最高级 deepest。\n名词是 depth（深度），动词是 deepen（加深），拼写别搞混：deep → depth 少了一个 e。\n学术写作里的常见搭配：a deeper understanding of（对……更深入的理解）、dig deeper（深入挖掘）、deeper problems（更深层的问题）。\n程度上的“更深”也常用：deeper concerns（更深的担忧）、a deeper voice（更低沉的声音）。句型 the deeper…, the more…（越深入，越……）也很好用。",
+  "ex": "The course aims to give students a deeper understanding of how financial markets work.",
+  "exCn": "这门课程旨在让学生更深入地理解金融市场的运作方式。",
+  "pte": "词族 deep / depth / deepen。搭配 a deeper understanding of。",
+  "tags": "#学海无涯 #词族记忆",
+  "cm": [
+   [
+    "研究生日常",
+    "学得越多，越知道自己无知",
+    "1.5w"
+   ],
+   [
+    "语法控",
+    "the deeper…, the more… 是比较级经典句型",
+    "4321"
+   ],
+   [
+    "拼写战士",
+    "depth 我老写成 deepth",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "edit",
+  "title": "照片 edit 了一小时，发出去五个赞",
+  "line": "修图到深夜",
+  "stk": "✂️",
+  "body": "edit = 编辑、校订；剪辑。edit a photo / video / document，都可以用。\n词族要分清：editor（编辑；主编）、edition（版本、版次，the second edition）、editorial（社论；编辑的）。\nedition 是名词“版本”，不是“编辑”这个动作；动作的名词是 editing。\n英语里 edit 其实是从 editor 倒推出来的词，先有“编辑者”，后有“编辑”这个动词。",
+  "ex": "The documentary was edited to focus on the experiences of young migrants in regional towns.",
+  "exCn": "这部纪录片在剪辑时着重呈现了年轻移民在地区小镇的经历。",
+  "pte": "词族 editor / edition / editorial / editing，别混。",
+  "tags": "#修图日常 #词族记忆",
+  "cm": [
+   [
+    "修图狂魔",
+    "修了一小时，朋友说你变了个人",
+    "1.6w"
+   ],
+   [
+    "出版社实习",
+    "edition 和 editing 我第一周就被纠正",
+    "3456"
+   ],
+   [
+    "视频博主",
+    "剪辑三小时，视频三分钟",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "enable",
+  "title": "手机提示 enable notifications，我一律点了拒绝",
+  "line": "让一切可能",
+  "stk": "🔓",
+  "body": "enable = 使能够；使成为可能；（设备）启用。en（使）+ able（能够）。反义 disable（使无法、禁用）。\n核心结构：enable sb to do sth（使某人能够做某事），注意是 to do。Scholarships enable students to study abroad。\n科技语境：enable notifications（开启通知）、enable location services（打开定位）。\n同义替换：allow、make it possible for sb to do、empower。写作里比 let 正式得多。",
+  "ex": "The new technology will enable doctors to detect the disease at a much earlier stage.",
+  "exCn": "这项新技术将使医生能在更早的阶段发现这种疾病。",
+  "pte": "结构 enable sb to do。前缀 en- = 使。同义 allow、make possible。",
+  "tags": "#手机设置 #前缀记忆",
+  "cm": [
+   [
+    "通知恐惧症",
+    "每个 app 都想 enable，我一个都不给",
+    "1.3w"
+   ],
+   [
+    "写作7分",
+    "enable sb to do 比 let 高级太多",
+    "4567"
+   ],
+   [
+    "词根控",
+    "enable / disable 一对反义词一起背",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "finishing",
+  "title": "作业的 finishing touches，我改了三个小时",
+  "line": "最后一笔",
+  "stk": "🏁",
+  "body": "finishing 是 finish 的 -ing 形式，也作名词和形容词。\n最地道搭配：put the finishing touches to / on sth（给某事做最后的润色），交作业前的最后修改就是这个。\n比赛场景：the finishing line（英式）/ the finish line（美式），终点线。足球解说里 finishing 是“射门把握能力”，His finishing was excellent。\n还有个历史词 finishing school：旧时让年轻女性学习礼仪的“淑女学校”。",
+  "ex": "The team is putting the finishing touches to the new stadium before its official opening next month.",
+  "exCn": "团队正在为新体育场做最后的收尾工作，它将于下月正式开放。",
+  "pte": "搭配 put the finishing touches to。英 finishing line / 美 finish line。",
+  "tags": "#作业收尾 #地道表达",
+  "cm": [
+   [
+    "改稿狂魔",
+    "finishing touches 改着改着又重写了",
+    "1.4w"
+   ],
+   [
+    "足球迷",
+    "前锋 finishing 差，看得我血压高",
+    "4321"
+   ],
+   [
+    "马拉松跑者",
+    "看到 finishing line 的那一刻想哭",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "hardware",
+  "title": "Bunnings 是澳洲人的 hardware 天堂",
+  "line": "五金店也好逛",
+  "stk": "🔧",
+  "body": "hardware 两个意思：电脑硬件；五金器具。hard（硬的）+ ware（器物、商品）。\n电脑里 hardware 和 software（软件）相对，不可数，不说 hardwares。\n五金店：a hardware store / hardware shop。澳洲最出名的就是 Bunnings，周末门口还有香肠烧烤（sausage sizzle）。\n-ware 结尾的词都是“某类东西”：kitchenware（厨具）、glassware（玻璃器皿）、malware（恶意软件）。",
+  "ex": "The company plans to invest heavily in new hardware to improve the speed of its online services.",
+  "exCn": "该公司计划大力投资新硬件，以提高其在线服务的速度。",
+  "pte": "不可数名词。后缀 -ware：software、malware、kitchenware。",
+  "tags": "#澳洲生活 #构词法",
+  "cm": [
+   [
+    "Bunnings香肠党",
+    "去五金店是为了吃 sausage sizzle",
+    "2.3w"
+   ],
+   [
+    "IT民工",
+    "hardware 坏了比 software 坏了更贵",
+    "4567"
+   ],
+   [
+    "装修新手",
+    "在 Bunnings 一逛就是一下午",
+    "3210"
+   ]
+  ]
+ }
+]
