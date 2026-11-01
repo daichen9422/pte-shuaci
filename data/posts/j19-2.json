@@ -1,0 +1,702 @@
+[
+ {
+  "w": "bug",
+  "title": "代码有 bug、肚子有 bug，室友更是个 bug",
+  "line": "到处都是虫",
+  "stk": "🐛",
+  "body": "bug 本义是虫子（美式口语，泛指小昆虫）。\n一词多义：程序里的漏洞、故障；口语里的小病，a stomach bug 是肠胃炎，there's a bug going around 是最近有病毒在传；还有窃听器。\n作动词 = 烦扰：Stop bugging me! 别烦我。\n关于程序 bug，流传最广的故事是 1947 年工程师在计算机里发现了一只飞蛾，不过 bug 表示机器故障的说法其实更早就有了。",
+  "ex": "Engineers released an urgent update after a bug in the software exposed users' personal data.",
+  "exCn": "软件中的一个漏洞暴露了用户的个人数据后，工程师紧急发布了更新。",
+  "pte": "一词多义：虫子 / 程序漏洞 / 小病。动词 bug = annoy。",
+  "tags": "#程序员日常 #一词多义",
+  "cm": [
+   [
+    "码农本农",
+    "it's not a bug, it's a feature",
+    "2.3w"
+   ],
+   [
+    "悉尼打喷嚏",
+    "there's a bug going around，全办公室都倒了",
+    "4567"
+   ],
+   [
+    "室友受害者",
+    "Stop bugging me 每天都想对室友说",
+    "3210"
+   ]
+  ]
+ },
+ {
+  "w": "chronic",
+  "title": "chronic 拖延症：不是今天不想做，是一直不想做",
+  "line": "时间拉得很长",
+  "stk": "⏳",
+  "body": "chronic 来自希腊语 chronos（时间），和 chronology（年表）、synchronise（同步）同根。和时间挂钩 → 慢性的、长期的。\n医学里最重要的对比：chronic（慢性的）vs acute（急性的）。chronic pain 慢性疼痛，acute pain 急性疼痛。\n也能形容长期存在的问题：a chronic shortage of housing（长期住房短缺）。\n生活版：chronic procrastination，长期拖延，deadline 前一晚才是我的黄金时间。",
+  "ex": "Chronic diseases such as diabetes and heart disease account for a large share of healthcare spending.",
+  "exCn": "糖尿病和心脏病等慢性病占了医疗支出的很大一部分。",
+  "pte": "易混反义：chronic（慢性）vs acute（急性）。词根 chron = 时间。",
+  "tags": "#拖延症 #医学英语",
+  "cm": [
+   [
+    "拖延症晚期",
+    "我的 chronic 拖延已经十年了",
+    "1.6w"
+   ],
+   [
+    "护理专业",
+    "chronic vs acute，考试必须分清",
+    "3456"
+   ],
+   [
+    "墨尔本租房人",
+    "chronic shortage of housing，说的就是这里",
+    "4321"
+   ]
+  ]
+ },
+ {
+  "w": "communicate",
+  "title": "和室友 communicate 靠便利贴，算不算交流",
+  "line": "有话好好说",
+  "stk": "💬",
+  "body": "communicate 来自拉丁语 communicare（分享、使共有），和 common（共同的）、community（社区）是一家。交流就是“让想法变成共同的”。\n搭配：communicate with sb（和某人交流）、communicate sth to sb（把某事传达给某人）。\n名词 communication，复数 communications 还可以指通信系统、通讯行业。\n合租现场：冰箱上贴满“请洗碗”“请倒垃圾”的便利贴，这是 communicate，但不是有效 communication。",
+  "ex": "Researchers say that children who communicate regularly with their parents tend to perform better at school.",
+  "exCn": "研究人员称，经常与父母沟通的孩子在学校往往表现更好。",
+  "pte": "搭配 communicate with sb。拼写双 m：co-mm-unicate。",
+  "tags": "#合租日常 #沟通技巧",
+  "cm": [
+   [
+    "便利贴战士",
+    "我们宿舍冰箱快贴满了",
+    "1.3w"
+   ],
+   [
+    "传媒学院",
+    "communications 做专业名时是复数",
+    "2109"
+   ],
+   [
+    "Speaking 苦手",
+    "能 communicate 就行，口音不重要（安慰自己）",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "demonstrate",
+  "title": "demonstrate 既能“证明”又能“上街”，别读错了",
+  "line": "摆出来给你看",
+  "stk": "🧪",
+  "body": "demonstrate 来自拉丁语 demonstrare，里面的 monstrare 意思是“展示”。把东西摆出来给人看 → 证明、展示、演示。\n学术写作最爱：The results demonstrate that……（结果证明……）。同义替换 show、prove、illustrate。\n第二义：示威游行。demonstrators 是示威者，a demonstration 也可以是一场游行。\n口语里常缩写成 demo：产品 demo、音乐 demo。重音在第一音节：DEM-on-strate。",
+  "ex": "The experiment clearly demonstrates that regular exercise can improve memory in older adults.",
+  "exCn": "这项实验清楚地证明，规律锻炼可以改善老年人的记忆力。",
+  "pte": "重音在第一音节 DEM-。同义 show、prove、illustrate。",
+  "tags": "#学术写作 #一词多义",
+  "cm": [
+   [
+    "写论文的猫",
+    "The results demonstrate that 是我的万能开头",
+    "4567"
+   ],
+   [
+    "产品经理",
+    "每周 demo 一次，心累",
+    "2345"
+   ],
+   [
+    "发音纠正中",
+    "一直把重音放在 MON 上，难怪听不懂",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "depend",
+  "title": "“It depends” 是留学生最会说的英语，没有之一",
+  "line": "看情况吧",
+  "stk": "🤷",
+  "body": "depend 来自拉丁语 de（向下）+ pendere（悬挂）。挂在某物上 → 依赖、取决于。同根词 pendant（吊坠）、pendulum（钟摆）。\n核心搭配：depend on / upon sth（依赖、取决于）。It depends. 一句话应付所有问题：周末去哪？It depends。\n词性：dependent（形容词，依赖的）、independent（独立的）、dependence（依赖）。\n英式英语里 dependant 可以作名词，指受抚养人；移民申请材料里经常见到。",
+  "ex": "Whether the project goes ahead will depend largely on the level of government funding it receives.",
+  "exCn": "该项目能否推进，很大程度上取决于它获得的政府资助水平。",
+  "pte": "搭配 depend on。词性 dependent / independence。英式名词 dependant。",
+  "tags": "#口语万能句 #词根记忆",
+  "cm": [
+   [
+    "万能回答人",
+    "教授问我观点，我说 it depends，他说 on what",
+    "1.5w"
+   ],
+   [
+    "移民材料整理",
+    "dependant 和 dependent 我核对了三遍",
+    "3456"
+   ],
+   [
+    "拆词达人",
+    "pendant 吊坠就是挂着的东西，绝了",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "developer",
+  "title": "在澳洲说 developer，可能是程序员也可能是地产商",
+  "line": "开发两种东西",
+  "stk": "🏗️",
+  "body": "developer = develop（开发、发展）+ er，开发者。\n两大常见身份：software developer（软件开发者），以及 property developer（房地产开发商）。新闻里讲公寓楼烂尾、住房供应，说的都是后者。\n还有一个老义项：摄影里的显影剂，胶片冲洗时要用。\n拼写坑：develop 结尾没有 e，developer、development 都不加 e。",
+  "ex": "The property developer plans to build more than two hundred apartments near the train station.",
+  "exCn": "这家房地产开发商计划在火车站附近建造两百多套公寓。",
+  "pte": "拼写：develop 后无 e，developer / development。一词多义。",
+  "tags": "#程序员 #澳洲买房",
+  "cm": [
+   [
+    "墨尔本码农",
+    "亲戚以为我在盖楼",
+    "1.1w"
+   ],
+   [
+    "拼写错题本",
+    "developement 是我的心魔",
+    "3456"
+   ],
+   [
+    "胶片爱好者",
+    "暗房里的 developer 味道很难忘",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "diagnosis",
+  "title": "拿到 diagnosis 才知道：原来焦虑也算病",
+  "line": "看透了病情",
+  "stk": "🩺",
+  "body": "diagnosis 来自希腊语 dia（穿过、彻底）+ gnosis（认识、知识）。把病彻底看清楚 → 诊断。\n复数是 diagnoses（-is 变 -es），同类还有 analysis → analyses、crisis → crises。\n动词 diagnose：be diagnosed with + 疾病，比如 She was diagnosed with anxiety。\n相关词：prognosis（预后，对病情发展的预判）、misdiagnosis（误诊）。",
+  "ex": "Early diagnosis is essential because it allows patients to begin treatment before symptoms become severe.",
+  "exCn": "早期诊断至关重要，因为它能让患者在症状加重之前就开始治疗。",
+  "pte": "复数 diagnoses。动词搭配 be diagnosed with。",
+  "tags": "#医学英语 #复数变形",
+  "cm": [
+   [
+    "心理学研二",
+    "be diagnosed with 后面接病名，别漏 with",
+    "2345"
+   ],
+   [
+    "看GP排队中",
+    "GP 预约排到下周，diagnosis 还远",
+    "4567"
+   ],
+   [
+    "拼写党",
+    "-is 变 -es 这组终于整理明白了",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "dose",
+  "title": "一剂 dose 现实：开学第一周的账单",
+  "line": "一剂清醒药",
+  "stk": "💊",
+  "body": "dose = 剂量、一剂。来自希腊语 dosis（给予）。\n医学搭配：a daily dose（每日剂量）、a high / low dose、overdose（过量服用）。\n比喻用法很好玩：a dose of reality（一剂现实，被现实教育了）、a healthy dose of scepticism（适度的怀疑）。\n易混：dose /dəʊs/ 结尾是清音 s；doze /dəʊz/ 是打盹。上课 doze off 和药的 dose 别写混。",
+  "ex": "Patients were advised not to exceed the recommended daily dose of the medication.",
+  "exCn": "患者被告知不要超过该药物的推荐日剂量。",
+  "pte": "易混：dose /s/（剂量）vs doze /z/（打盹）。名词 dosage。",
+  "tags": "#医学英语 #易混词",
+  "cm": [
+   [
+    "药学僧",
+    "dosage 和 dose 在说明书里都会见到",
+    "2345"
+   ],
+   [
+    "上课打盹",
+    "我每天都 doze off 一次",
+    "6789"
+   ],
+   [
+    "新生报到",
+    "第一周的账单就是 a dose of reality",
+    "4321"
+   ]
+  ]
+ },
+ {
+  "w": "eighth",
+  "title": "eighth 只有一个 t，写成 eightth 的举个手",
+  "line": "第八个陷阱",
+  "stk": "8️⃣",
+  "body": "eighth = 第八、八分之一。\n拼写陷阱：eight + h，不是 eight + th。因为 eight 已经以 t 结尾，只需再加 h：e-i-g-h-t-h。\n发音是 /eɪtθ/，t 和 th 要连着发，舌尖从上齿龈滑到齿间。\n分数说法：one eighth（八分之一）、three eighths（八分之三）。其他序数词也有坑：ninth 没有 e，twelfth 是 f 不是 v。",
+  "ex": "The museum is celebrating its eighth anniversary with a series of free exhibitions and public lectures.",
+  "exCn": "这座博物馆正以一系列免费展览和公开讲座庆祝其开馆八周年。",
+  "pte": "拼写：eighth 只有一个 t。同类陷阱 ninth、twelfth。",
+  "tags": "#拼写陷阱 #序数词",
+  "cm": [
+   [
+    "听写重灾区",
+    "我写过 eightth，被扣得明明白白",
+    "8765"
+   ],
+   [
+    "语音老师",
+    "/tθ/ 连读多练几遍就顺了",
+    "2345"
+   ],
+   [
+    "数学渣",
+    "three eighths 要加 s，这个也别忘",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "flip",
+  "title": "在澳洲穿 flip-flops 上街？本地人叫它 thongs",
+  "line": "翻一面就好",
+  "stk": "🩴",
+  "body": "flip = 快速翻转、轻抛。flip a coin（抛硬币）、flip a pancake（给煎饼翻面）、flip through a magazine（快速翻阅杂志）。\n短语：the flip side（另一面），比如 Remote work is flexible; the flip side is loneliness。\n口语 flip out = 突然发火或情绪失控。\n人字拖英美叫 flip-flops，澳洲人更常说 thongs。第一次听到 thongs 时别想歪。",
+  "ex": "The referee will flip a coin before the match to decide which team kicks off first.",
+  "exCn": "比赛开始前，裁判会抛硬币决定哪支球队先开球。",
+  "pte": "变形：flip – flipped，双写 p。短语 flip through、the flip side。",
+  "tags": "#澳洲俚语 #口语短语",
+  "cm": [
+   [
+    "刚落地悉尼",
+    "同事说 nice thongs，我愣了三秒",
+    "1.9w"
+   ],
+   [
+    "煎饼爱好者",
+    "flip pancake 永远翻不好",
+    "3456"
+   ],
+   [
+    "写作 8 分",
+    "the flip side 写议论文很好用",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "forty",
+  "title": "four 有 u，forty 没有 u，谁定的规矩",
+  "line": "四十少个u",
+  "stk": "4️⃣",
+  "body": "forty = 四十。最大的坑：four 有 u，fourteen 有 u，到了 forty 突然没了。\n记法：fourteen 是“四 + 十几”，四还完整；forty 是十位数，把 u 弄丢了。\n序数词 fortieth（第四十），注意 y 变 ie。\n口语 forty winks = 打个小盹。还有 the forties 指四十年代，或者人生的四十多岁。",
+  "ex": "Nearly forty per cent of respondents said they had changed their shopping habits because of rising prices.",
+  "exCn": "近百分之四十的受访者表示，由于物价上涨，他们已经改变了购物习惯。",
+  "pte": "拼写：forty 无 u（four、fourteen 有 u）。序数 fortieth。",
+  "tags": "#拼写陷阱 #数字英语",
+  "cm": [
+   [
+    "听写扣分王",
+    "我写了 fourty，痛失一分",
+    "1.2w"
+   ],
+   [
+    "英语老师",
+    "forty winks 打个盹，很地道",
+    "2345"
+   ],
+   [
+    "奔四的人",
+    "life begins at forty，安慰到了",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "loyal",
+  "title": "超市积分卡办了五张，我是 loyal 还是贪便宜",
+  "line": "一直都选你",
+  "stk": "🐶",
+  "body": "loyal = 忠诚的、忠实的。它和 legal（合法的）其实同源，都来自拉丁语 legalis，经古法语演变成了 loyal。\n搭配：be loyal to sb / sth、a loyal customer（忠实客户）、a loyal friend。\n名词 loyalty：loyalty program（会员积分计划），澳洲各大超市和航空公司都有，结账时被问 Do you have a rewards card? 就是它。\n同义 faithful、devoted；反义 disloyal。",
+  "ex": "The company rewards loyal customers with discounts and exclusive offers through its membership program.",
+  "exCn": "该公司通过会员计划为忠实顾客提供折扣和专属优惠。",
+  "pte": "搭配 be loyal to。名词 loyalty。同义 faithful。",
+  "tags": "#超市积分 #词源冷知识",
+  "cm": [
+   [
+    "积分卡收藏家",
+    "我钱包里一半是 loyalty card",
+    "1.1w"
+   ],
+   [
+    "词源控",
+    "loyal 和 legal 是双胞胎，第一次知道",
+    "3210"
+   ],
+   [
+    "养狗人士",
+    "最 loyal 的永远是我家狗",
+    "5678"
+   ]
+  ]
+ },
+ {
+  "w": "missions",
+  "title": "这周的 missions：三个 due，比特工还忙",
+  "line": "任务全部完成",
+  "stk": "🚀",
+  "body": "missions 是 mission 的复数。来自拉丁语 mittere（派遣），过去分词 missus。同根词 missile（导弹，被发射出去的东西）、dismiss（遣散）、transmit（传送）。\n常见义项：任务、使命（space missions 太空任务）、使团（a diplomatic mission）、传教活动。\n职场用语：mission statement（企业使命宣言）。\n这周的 missions：两篇 essay、一个 presentation，外加一场考试，比阿汤哥还忙。",
+  "ex": "Several space agencies are planning crewed missions to the Moon within the next decade.",
+  "exCn": "几家航天机构正计划在未来十年内执行载人登月任务。",
+  "pte": "词根 miss / mit（派遣）。搭配 space mission、mission statement。",
+  "tags": "#due季求生 #词根记忆",
+  "cm": [
+   [
+    "due 季幸存者",
+    "三个 due 同一天，真正的 Mission Impossible",
+    "1.4w"
+   ],
+   [
+    "航天迷",
+    "crewed mission 现在比 manned mission 更常用",
+    "2345"
+   ],
+   [
+    "拆词达人",
+    "missile 是被派出去的，太好记了",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "occupation",
+  "title": "填表看到 occupation 一栏，留学生该写什么",
+  "line": "你是做什么的",
+  "stk": "📋",
+  "body": "occupation = 职业。各种表格都有这一栏，学生可以直接写 student。\n移民语境里 occupation 很重要：申请时要提名一个和自己学历、经历匹配的职业，nominated occupation 就是这个意思。\n第二义项：占领、占据。military occupation（军事占领）。动词 occupy：The seat is occupied（座位有人了）。\n同义替换：job、profession、career，但 occupation 最正式，适合表格和书面语。",
+  "ex": "Applicants must nominate an occupation that matches their qualifications and work experience.",
+  "exCn": "申请人必须提名一个与其资历和工作经验相匹配的职业。",
+  "pte": "动词 occupy。同义 profession、job。一词多义：职业 / 占领。",
+  "tags": "#移民英语 #填表必备",
+  "cm": [
+   [
+    "移民中介小王",
+    "nominated occupation 选错了，整个申请都白搭",
+    "4567"
+   ],
+   [
+    "学生党",
+    "我的 occupation 写 student，心安理得",
+    "2345"
+   ],
+   [
+    "厕所排队",
+    "门上写 occupied，原来是这个词",
+    "3210"
+   ]
+  ]
+ },
+ {
+  "w": "opponent",
+  "title": "打羽毛球的 opponent 是同事，赢了还是输了好",
+  "line": "站在对面的人",
+  "stk": "🏸",
+  "body": "opponent 来自拉丁语 opponere：op（相对、对着）+ ponere（放置）。放在你对面的人 → 对手、反对者。\n同根词 oppose（反对）、opposite（相反的、对面的）。\n两种用法：比赛里的 opponent（对手），以及政策上的 opponents（反对者），比如 opponents of the new law。\n同义替换：rival、competitor、adversary。反义 ally（盟友）、supporter。",
+  "ex": "The tennis player defeated her opponent in straight sets to reach the final for the first time.",
+  "exCn": "这位网球选手直落两盘击败对手，首次闯入决赛。",
+  "pte": "同根 oppose / opposite。同义 rival、competitor。重音在 -PO-。",
+  "tags": "#运动英语 #同义替换",
+  "cm": [
+   [
+    "羽毛球周末党",
+    "对手是老板，我输得非常有技巧",
+    "1.3w"
+   ],
+   [
+    "网球迷",
+    "straight sets 是直落，澳网解说天天说",
+    "2345"
+   ],
+   [
+    "政治学大三",
+    "opponents of the policy 新闻里常见",
+    "1765"
+   ]
+  ]
+ },
+ {
+  "w": "patch",
+  "title": "人生总有 rough patch，就像软件总要打 patch",
+  "line": "补一补还能用",
+  "stk": "🩹",
+  "body": "patch 的基本义是一小块：布补丁、一小片土地（a vegetable patch 菜地）、一块颜色或斑点。\n延伸义：眼罩（eye patch）、贴剂（nicotine patch 尼古丁贴片）、软件补丁（security patch）。\n超好用的口语：go through a rough patch（经历一段艰难时期）；patch things up（和好、修复关系）。\n作动词 patch up：修补，也可以是临时凑合解决问题。",
+  "ex": "The company released a security patch to fix the vulnerability within hours of it being reported.",
+  "exCn": "该公司在漏洞被报告后几小时内就发布了安全补丁进行修复。",
+  "pte": "搭配 a rough patch、patch things up、security patch。",
+  "tags": "#低谷时期 #一词多义",
+  "cm": [
+   [
+    "低谷期中",
+    "我的 rough patch 已经持续一个学期了",
+    "1.2w"
+   ],
+   [
+    "后院种菜",
+    "vegetable patch 里的西红柿全被鸟吃了",
+    "3456"
+   ],
+   [
+    "运维小哥",
+    "周五晚上打 patch 是职业病",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "pollution",
+  "title": "空气 pollution 之外，还有光污染和噪音污染",
+  "line": "看不见的污染",
+  "stk": "🏭",
+  "body": "pollution = 污染，不可数名词。动词 pollute（污染），名词 pollutant（污染物，可数）。\n各种污染：air pollution（空气）、water pollution（水）、noise pollution（噪音）、light pollution（光污染）、plastic pollution（塑料）。\n住在市中心公寓的人最懂 noise pollution：楼下酒吧周末放到凌晨两点。\n想看银河就得远离 light pollution，澳洲内陆的星空就是这么来的。",
+  "ex": "Air pollution in many large cities has been linked to rising rates of asthma among children.",
+  "exCn": "许多大城市的空气污染被认为与儿童哮喘发病率上升有关。",
+  "pte": "拼写双 l。词性：pollute / pollutant（可数）/ pollution（不可数）。",
+  "tags": "#环境话题 #词性变形",
+  "cm": [
+   [
+    "市中心租客",
+    "楼下酒吧就是我的 noise pollution 来源",
+    "1.1w"
+   ],
+   [
+    "观星爱好者",
+    "去内陆才知道什么叫没有 light pollution",
+    "3456"
+   ],
+   [
+    "环境专业",
+    "pollutant 可数，pollution 不可数，记住",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "precisely",
+  "title": "朋友说“你就是不想写作业”，我只能回 precisely",
+  "line": "说得太对了",
+  "stk": "🎯",
+  "body": "precisely = 精确地；恰恰、正是。\n用法一：measure precisely（精确测量）、at precisely 9 am（九点整）。\n用法二：强调“恰恰”：That is precisely the problem（这恰恰就是问题所在）。\n口语里单独一句 Precisely! = 完全正确！和 Exactly! 一样。\n形容词 precise，名词 precision（精确度）。发音 pri-SAIS-li，重音在第二音节。",
+  "ex": "Scientists can now measure the age of ancient rocks more precisely than ever before.",
+  "exCn": "科学家现在能比以往任何时候都更精确地测定古老岩石的年龄。",
+  "pte": "重音在 -CISE-。词性 precise / precision。同义 exactly、accurately。",
+  "tags": "#口语回应 #词性变形",
+  "cm": [
+   [
+    "被说中的人",
+    "Precisely，没错，我就是懒",
+    "1.5w"
+   ],
+   [
+    "实验室打工",
+    "precision 和 accuracy 在实验报告里不一样哦",
+    "3210"
+   ],
+   [
+    "口语练习中",
+    "回 Precisely 比回 Yes 高级多了",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "privilege",
+  "title": "privilege 里没有 d！写成 priviledge 的罚抄",
+  "line": "专属的权利",
+  "stk": "🎫",
+  "body": "privilege 来自拉丁语 privilegium：privus（个人的、私人的）+ lex / leg（法律）。只给个别人的法律 → 特权、优待。\n拼写陷阱：结尾是 -lege，不是 -ledge，中间也没有 d：pri-vi-lege。\n用法：It's a privilege to……（很荣幸能……）；a privilege, not a right（是特权，不是权利）。\n形容词 privileged：privileged background（优越的家庭背景）。反义 underprivileged（贫困的、弱势的）。",
+  "ex": "Access to quality education should be a basic right rather than a privilege for the wealthy.",
+  "exCn": "接受优质教育应该是一项基本权利，而不是富人的特权。",
+  "pte": "拼写：privilege 无 d，结尾 -lege。形容词 privileged。",
+  "tags": "#拼写陷阱 #词根记忆",
+  "cm": [
+   [
+    "拼写罚抄中",
+    "我写了三年 priviledge，直到今天",
+    "1.3w"
+   ],
+   [
+    "社会学写作",
+    "privileged background 写 essay 很好用",
+    "2345"
+   ],
+   [
+    "词源控",
+    "leg 是法律，legal、legislation 都是它",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "punk",
+  "title": "染一头绿毛就是 punk 吗？这个词有点复杂",
+  "line": "叛逆的声音",
+  "stk": "🎸",
+  "body": "punk 最常见的意思是朋克：20 世纪 70 年代中期兴起的摇滚流派，节奏快、简单粗暴、反主流，配套的还有莫西干发型、皮夹克和铆钉。\n美式口语里 punk 也指小混混、不靠谱的年轻人，带贬义，是“废物、小阿飞”那个义项。\n衍生词很多：cyberpunk（赛博朋克）、steampunk（蒸汽朋克），都是从“朋克”的反叛气质延伸出来的风格。\n形容词 punky 形容打扮很朋克。",
+  "ex": "Punk music emerged in the mid-1970s as a raw and rebellious reaction against mainstream rock.",
+  "exCn": "朋克音乐兴起于 20 世纪 70 年代中期，是对主流摇滚的一种粗粝而叛逆的反叛。",
+  "pte": "一词多义：朋克音乐 / 小混混。衍生 cyberpunk、steampunk。",
+  "tags": "#音乐文化 #一词多义",
+  "cm": [
+   [
+    "乐队鼓手",
+    "三个和弦就能组朋克乐队，这是真的",
+    "4567"
+   ],
+   [
+    "赛博朋克玩家",
+    "夜之城的 cyberpunk 风格太好看了",
+    "3210"
+   ],
+   [
+    "发型翻车",
+    "染了绿毛，妈妈说我是 punk",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "relatives",
+  "title": "过年视频和 relatives 打招呼，叫不出称呼怎么办",
+  "line": "七大姑八大姨",
+  "stk": "👨‍👩‍👧",
+  "body": "relatives = 亲戚，relative 的复数。英文不区分姑姑阿姨、表哥堂哥，统统 relatives，中文学习者看了直呼省事。\n搭配：close relatives（近亲）、distant relatives（远亲）、visit relatives（走亲戚）。\n坑点：relative 作形容词是“相对的”。relative to = 相对于、和……相比；副词 relatively = 相对地，写作里经常用。\n同义：relations、family members、kin。",
+  "ex": "Many international students rely on video calls to stay in touch with relatives back home.",
+  "exCn": "许多国际学生依靠视频通话和家乡的亲戚保持联系。",
+  "pte": "一词多义：relative 名词亲戚 / 形容词相对的。搭配 relative to。",
+  "tags": "#过年回家 #一词多义",
+  "cm": [
+   [
+    "春节视频人",
+    "英文一句 relatives 带过，中文要叫二十种称呼",
+    "1.6w"
+   ],
+   [
+    "阅读做错",
+    "relative 当成亲戚翻译，整句意思全错",
+    "3456"
+   ],
+   [
+    "墨尔本游子",
+    "跨时区和 relatives 视频，永远在找时间",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "striking",
+  "title": "你和明星有 striking resemblance？不是在罢工",
+  "line": "一眼就注意到",
+  "stk": "⚡",
+  "body": "striking 是 strike（打击、罢工）的现在分词，作形容词意思是“显著的、惊人的、引人注目的”。像被打了一下，一眼就注意到。\n搭配：a striking difference（显著的差异）、a striking resemblance（惊人的相似）、strikingly beautiful。\n别忘了本义：striking workers 指罢工的工人。阅读里要靠上下文分辨。\n同义替换：remarkable、noticeable、conspicuous。",
+  "ex": "There is a striking similarity between the two paintings, although they were created centuries apart.",
+  "exCn": "这两幅画惊人地相似，尽管它们的创作时间相隔数百年。",
+  "pte": "同义 remarkable、noticeable。搭配 striking resemblance / contrast。",
+  "tags": "#写作好词 #一词多义",
+  "cm": [
+   [
+    "撞脸当事人",
+    "朋友说我和某演员 striking resemblance，我信了",
+    "8765"
+   ],
+   [
+    "新闻党",
+    "striking nurses 是罢工的护士，不是很惊人的护士",
+    "3456"
+   ],
+   [
+    "写作 79",
+    "a striking contrast 比 big difference 高级",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "tourist",
+  "title": "在悉尼住了三年，朋友来了我还是像 tourist",
+  "line": "一秒变游客",
+  "stk": "📸",
+  "body": "tourist = tour（旅行、观光）+ ist，游客、观光客。\n搭配：tourist attraction（景点）、tourist season（旅游旺季）、tourist trap（坑游客的地方，又贵又一般）。\n易混：tourist 是人，tourism 是旅游业。说“旅游业”用 the tourism industry 最稳妥，写作里别把人和行业混着用。\n发音有两种，/ˈtʊərɪst/ 和 /ˈtɔːrɪst/ 都正确。",
+  "ex": "Local businesses depend heavily on tourist spending during the peak summer season.",
+  "exCn": "在夏季旺季，当地商家在很大程度上依赖游客的消费。",
+  "pte": "易混：tourist（游客）vs tourism（旅游业）。搭配 tourist attraction。",
+  "tags": "#旅游英语 #悉尼生活",
+  "cm": [
+   [
+    "悉尼三年",
+    "歌剧院我只在朋友来的时候去",
+    "1.1w"
+   ],
+   [
+    "导游打工",
+    "tourist trap 我知道好几个，但不能说",
+    "4567"
+   ],
+   [
+    "旅游管理专业",
+    "tourism 是专业名，tourist 是人",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "transit",
+  "title": "快递一直显示 in transit，它是去环游世界了吗",
+  "line": "一直在路上",
+  "stk": "🚌",
+  "body": "transit 来自拉丁语 transire：trans（穿过）+ ire（走）。从一处走到另一处 → 运输、经过、中转。\n搭配：in transit（在运输途中）、public transit（公共交通，美式常用；澳洲和英国多说 public transport）、transit visa（过境签证）。\n天文学里也有它：the transit of Venus（金星凌日），指行星从太阳前面经过。\n发音两种都对：/ˈtrænzɪt/ 或 /ˈtrænsɪt/。",
+  "ex": "The package was damaged in transit, so the online retailer agreed to send a replacement free of charge.",
+  "exCn": "包裹在运输途中受损，因此网店同意免费寄送替换品。",
+  "pte": "搭配 in transit、transit visa。同根 transition、transient。",
+  "tags": "#网购快递 #词根记忆",
+  "cm": [
+   [
+    "海淘等待中",
+    "in transit 两周了，我的心也在 transit",
+    "1.2w"
+   ],
+   [
+    "转机达人",
+    "补充：有的国家转机不出机场也要 transit visa",
+    "3456"
+   ],
+   [
+    "天文社",
+    "金星凌日下一次要等到 2117 年",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "trusted",
+  "title": "一个 trusted 的租房中介，比好房子还难找",
+  "line": "值得信任",
+  "stk": "🤝",
+  "body": "trusted 是 trust 的过去分词，作形容词意思是“被信任的、可靠的”。\n搭配：a trusted friend（信得过的朋友）、a trusted source（可靠的消息来源）、trusted brand（值得信赖的品牌）。\n词族对比：trust（信任）、trusted（被信任的）、trustworthy（值得信任的）、trusting（容易相信别人的）。\n留学找房的经验：只通过 trusted 平台转账，看不到房就先打钱的，基本是骗子。",
+  "ex": "Many people still consider public broadcasters to be a trusted source of news and information.",
+  "exCn": "许多人仍然认为公共广播机构是新闻和信息的可靠来源。",
+  "pte": "词族 trust / trustworthy / trusting。搭配 a trusted source。",
+  "tags": "#租房避坑 #词性变形",
+  "cm": [
+   [
+    "被骗过押金",
+    "没看房先转账，学费交得很贵",
+    "1.4w"
+   ],
+   [
+    "新闻专业",
+    "trusted source 写论文引用要注意",
+    "2345"
+   ],
+   [
+    "词汇控",
+    "trusting 是容易轻信，和 trusted 不一样",
+    "1876"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "w": "incident",
+  "title": "合租第一周就发生了一起 incident：谁动了我的饺子",
+  "line": "冰箱失踪案",
+  "stk": "🥟",
+  "body": "incident 来自拉丁语 incidere“落到……上”：in（在上面）+ cadere（落下），突然“掉”到你头上的事 → 事件、事故。\n合租冰箱里的饺子少了十个，室友说是猫干的，可你们根本没养猫。这就是一起标准的 domestic incident。\n新闻里常见：a serious incident、an isolated incident（个别事件）、without incident（顺利、没出岔子）。\n别和 incidence（发生率）搞混：the incidence of cancer 是“癌症发病率”。形容词 incidental 是“附带的、偶然的”。",
+  "ex": "Police said the incident was isolated and there was no ongoing threat to the local community.",
+  "exCn": "警方表示，这起事件是个别情况，对当地社区不存在持续威胁。",
+  "pte": "易混词：incident（事件）/ incidence（发生率）/ incidental（附带的）。",
+  "tags": "#合租日常 #易混词",
+  "cm": [
+   ["饺子受害者", "我家冰箱的 incident 已经立案三次了", "8732"],
+   ["流行病学研一", "incidence rate 写论文天天用，千万别写成 incident", "3415"],
+   ["布里斯班租客", "without incident 这个短语好用，搬家顺利就这么说", "1289"]
+  ]
+ },
+ {
+  "w": "manage",
+  "title": "我不会管理时间，但我 manage 到了 deadline 前一秒",
+  "line": "极限操作",
+  "stk": "⏱️",
+  "body": "manage 源自意大利语 maneggiare“驯马、操控”，再往上是拉丁语 manus“手”。用手把马管住 → 管理、控制。\n第二个意思更常用也更坑：manage to do = 设法做成、勉强做到。I managed to submit it at 11:59 pm，重点是“好不容易做到了”。\n派生：management（管理层）、manager、manageable（可应付的）。a manageable workload 就是“扛得住的工作量”。\n和 manual（手工的）、manuscript（手稿）是亲戚，都带着那只 manu 手。",
+  "ex": "Despite the limited budget, the team managed to complete the project ahead of schedule.",
+  "exCn": "尽管预算有限，团队还是设法提前完成了项目。",
+  "pte": "固定搭配 manage to do（设法做成），不是 manage doing。重音在第一音节 MAN-。",
+  "tags": "#deadline战士 #词根记忆",
+  "cm": [
+   ["DDL续命人", "manage to 是我人生的主旋律", "1.3w"],
+   ["词源爱好者", "manus 手，manicure 美甲也是这个词根", "4521"],
+   ["二战上岸", "managed to 在写作里表示克服困难，很加分", "2367"]
+  ]
+ },
+ {
+  "w": "print",
+  "title": "图书馆打印机又卡纸了，我和 print 的恩怨",
+  "line": "卡纸第三次",
+  "stk": "🖨️",
+  "body": "print 来自古法语 preinte“压出来的印”，再往上是拉丁语 premere“压”，和 press 是同一家。印刷本来就是“压”出来的。\n考前打印模板，图书馆打印机卡纸、没墨、余额不足轮番上演，排队的人比打印的页数还多。\n用法：in print（已出版、仍在发行）、out of print（绝版）、the small print / fine print（合同里的小字条款）。签租房合同前一定要 read the small print。\n还有 fingerprint（指纹）、footprint（足迹）、carbon footprint（碳足迹），都是“压出来的印子”。",
+  "ex": "The newspaper stopped its print edition last year and now publishes exclusively online.",
+  "exCn": "这家报纸去年停办了印刷版，现在只在网上发行。",
+  "pte": "固定搭配：out of print（绝版）、the small print（合同细则）、carbon footprint。",
+  "tags": "#图书馆日常 #留学生活",
+  "cm": [
+   ["卡纸受害者", "打印机能感受到你着急，越急越卡", "9876"],
+   ["法学院在读", "read the small print 是租房第一课", "3456"],
+   ["环境专业", "carbon footprint 写作题能用上", "2109"]
+  ]
+ },
+ {
+  "w": "reporting",
+  "title": "周五下午的 reporting，是打工人最长的两小时",
+  "line": "汇报到天黑",
+  "stk": "📊",
+  "body": "report = re（回）+ port（拉丁语 portare，携带）→ 把消息带回来 → 报告。reporting 是它的动名词，指“报道、汇报”这件事本身。\n周五下午四点，组长说：我们简单 sync 一下 weekly reporting。简单两个字，通常意味着六点还没结束。\n常见搭配：news reporting（新闻报道）、financial reporting（财务报告）、reporting period（报告期）、under-reporting（漏报、少报）。\n同词根的还有 transport（运输）、export（出口）、portable（便携的），都是“搬东西”。",
+  "ex": "The study found that under-reporting of workplace injuries remains a serious problem in the construction industry.",
+  "exCn": "研究发现，工伤漏报在建筑行业仍然是一个严重问题。",
+  "pte": "词性变形：report（v./n.）、reporter（记者）、reporting（报道）。搭配 under-reporting（漏报）。",
+  "tags": "#打工人周五 #词根port",
+  "cm": [
+   ["周五想下班", "简单 sync 一下 = 至少一小时", "1.1w"],
+   ["会计在读", "financial reporting 是我们的必修课", "2876"],
+   ["墨尔本新闻系", "port 搬运这个词根太好用了", "1543"]
+  ]
+ },
+ {
+  "w": "sight",
+  "title": "第一次看到悉尼歌剧院的 sight，我站了十分钟",
+  "line": "眼前的风景",
+  "stk": "👀",
+  "body": "sight = 视力、景象，和动词 see 是一家。the sights 复数表示“名胜、景点”，sightseeing 就是观光。\n第一次在环形码头看到歌剧院，和明信片一模一样，然后海鸥抢走了我的薯条，也是一种 sight。\n短语：at first sight（乍一看；一见钟情 love at first sight）、out of sight（看不见）、in sight（在视野内、即将到来）。Out of sight, out of mind 就是“眼不见心不烦”。\n同音词三兄弟：sight（景象）、site（地点、网站）、cite（引用）。读音都是 /saɪt/，听写最容易写错。",
+  "ex": "The sight of thousands of migrating birds attracts photographers to the wetlands every spring.",
+  "exCn": "每年春天，成千上万只候鸟迁徙的景象吸引着摄影师来到这片湿地。",
+  "pte": "同音易混：sight（景象）/ site（地点）/ cite（引用），读音都是 /saɪt/。",
+  "tags": "#悉尼打卡 #同音词",
+  "cm": [
+   ["环形码头常客", "海鸥抢薯条是悉尼的保留节目", "1.5w"],
+   ["听写全错", "site sight cite 我在 WFD 里写错过三次", "4567"],
+   ["一见钟情派", "love at first sight 浪漫但不适用于考试", "2341"]
+  ]
+ },
+ {
+  "w": "significantly",
+  "title": "健身三个月，体重没有 significantly 下降",
+  "line": "秤：不为所动",
+  "stk": "⚖️",
+  "body": "significant 来自拉丁语 significare“表示、示意”，和 sign（记号）同源。有意义、值得注意的 → 显著的。加 -ly 就是“显著地”。\n健身卡办了三个月，体重 changed slightly，钱包 decreased significantly。\n学术写作里特别好用：increase significantly、significantly higher than、significantly reduce the risk。统计学里 statistically significant 指“具有统计学显著性”，不只是“很多”。\n同义替换：considerably、substantially、markedly；反义：slightly、marginally。",
+  "ex": "Regular physical activity can significantly reduce the risk of heart disease and type 2 diabetes.",
+  "exCn": "规律的体育锻炼可以显著降低患心脏病和二型糖尿病的风险。",
+  "pte": "重音在第二音节 sig-NIF-。同义替换 considerably / substantially / markedly。",
+  "tags": "#减肥日记 #学术写作",
+  "cm": [
+   ["健身卡收藏家", "钱包的下降才是最 significant 的", "1.2w"],
+   ["统计学硕士", "p < 0.05 才能叫 statistically significant", "3876"],
+   ["写作冲79", "描述图表 increase significantly 太顺手了", "2654"]
+  ]
+ },
+ {
+  "w": "sing",
+  "title": "KTV 里只敢合唱：我和 sing 的距离",
+  "line": "麦霸不是我",
+  "stk": "🎤",
+  "body": "sing 是不规则动词：sing – sang – sung。听写里 sang 和 sung 最容易混：过去式 sang，过去分词 sung（have sung）。\nKTV 里有人一开口全场安静，有人一开口全场想走。我属于抱着麦等合唱、只敢唱副歌那种。\n延伸用法：sing sb's praises（极力称赞某人）、鸟 sing（鸣叫）、水壶或子弹也能 sing（发出嗡嗡、呼啸声）。\n名词 singer、song，形容词 sing-song（抑扬顿挫、像唱歌一样的说话调子）。",
+  "ex": "Scientists have found that birds in noisy cities sing at a higher pitch than those in rural areas.",
+  "exCn": "科学家发现，嘈杂城市里的鸟比乡村的鸟鸣叫音调更高。",
+  "pte": "不规则变化：sing – sang – sung。搭配 sing sb's praises（极力称赞）。",
+  "tags": "#KTV现场 #不规则动词",
+  "cm": [
+   ["合唱担当", "副歌我能唱，主歌我负责摇铃鼓", "7654"],
+   ["语法强迫症", "have sang 是错的，have sung 才对", "3210"],
+   ["观鸟爱好者", "城市鸟唱歌真的更尖，因为要盖过车声", "1876"]
+  ]
+ },
+ {
+  "w": "wet",
+  "title": "澳洲北部的 the Wet 来了，我的鞋再也没干过",
+  "line": "雨季不讲理",
+  "stk": "🌧️",
+  "body": "wet = 湿的。在澳洲北部（比如达尔文），一年基本只分两季：the Wet（雨季）和 the Dry（旱季），首字母常大写。\n去北领地旅游正赶上 the Wet，暴雨说来就来，衣服晾了三天还是 wet，连空气都能拧出水。\n其他意思：Wet paint（油漆未干）、wet weather（多雨天气）。英式口语里 wet 还能骂人“软弱、没骨气”。a wet blanket 是“扫兴的人”。\n变形：wet – wet/wetted – wet/wetted，比较级 wetter，双写 t。",
+  "ex": "The northern parts of Australia experience a distinct wet season from November to April each year.",
+  "exCn": "澳大利亚北部地区每年 11 月至次年 4 月有明显的雨季。",
+  "pte": "拼写：比较级 wetter、最高级 wettest，双写 t。搭配 wet season（雨季）。",
+  "tags": "#澳洲天气 #北领地旅行",
+  "cm": [
+   ["达尔文打工人", "the Wet 的湿度能让人怀疑人生", "6543"],
+   ["派对扫兴王", "原来 wet blanket 说的是我", "4321"],
+   ["地理老师", "热带季风气候就是分 wet 和 dry 两季", "1987"]
+  ]
+ },
+ {
+  "w": "widely",
+  "title": "我以为自己很冷门，结果这首歌被 widely 翻唱",
+  "line": "原来人人都听",
+  "stk": "📡",
+  "body": "widely = 广泛地，是 wide 的副词。重点区分：wide 本身也能当副词，但意思是“张大、开到最大”，比如 open wide、wide awake；表示“范围广”才用 widely。\n你以为只有自己私藏的小众歌手，结果在每个 café 的歌单里都能听到。它早就 widely known 了。\n学术高光搭配：widely accepted、widely used、widely regarded as、widely available、vary widely（差异很大）。\n同义替换：extensively、broadly、commonly。",
+  "ex": "The theory is now widely accepted by scientists, although some details are still being debated.",
+  "exCn": "这个理论现在已被科学家广泛接受，尽管一些细节仍在争论中。",
+  "pte": "易混：wide（张大，open wide）/ widely（广泛地，widely used）。搭配 widely regarded as。",
+  "tags": "#小众歌单 #副词辨析",
+  "cm": [
+   ["小众爱好者", "我的私藏歌单原来是全网热门", "5678"],
+   ["牙医助理", "open wide 我天天说，原来不能说 open widely", "3456"],
+   ["写作模板党", "It is widely accepted that 开头稳了", "2134"]
+  ]
+ },
+ {
+  "w": "worldwide",
+  "title": "一部剧火遍 worldwide，我的室友却还没看",
+  "line": "全球都在追",
+  "stk": "🌍",
+  "body": "worldwide = world（世界）+ wide（宽广的）→ 遍及全世界的。最省事的一点：形容词和副词同一个形式，不用加 -ly。\n形容词：a worldwide phenomenon（全球现象）。副词：The film was released worldwide（全球上映）。\n全世界都在讨论大结局，室友还在问“这是什么剧”。他是 worldwide 唯一的例外。\n同义替换：global、globally、around the world、international（注意 international 更强调“国与国之间”）。",
+  "ex": "The disease affects more than fifty million people worldwide, according to recent health statistics.",
+  "exCn": "根据近期的卫生统计数据，这种疾病影响着全球五千多万人。",
+  "pte": "词性：worldwide 既是形容词又是副词，没有 worldwidely。同义 globally。",
+  "tags": "#追剧日常 #同义替换",
+  "cm": [
+   ["追剧冠军", "室友是活在另一个宇宙的人", "8765"],
+   ["语法小能手", "没有 worldwidely 这个词，记住了", "3245"],
+   ["悉尼剧迷", "worldwide release 和澳洲上映总差一天", "1567"]
+  ]
+ },
+ {
+  "w": "attractive",
+  "title": "比颜值更 attractive 的，是一个会做饭的室友",
+  "line": "饭香即正义",
+  "stk": "🧲",
+  "body": "attract = at（ad，朝向）+ tract（拉丁语 trahere，拉、拖）→ 把人往自己这边拉 → 吸引。attractive 就是“有吸引力的”。\n同词根：tractor（拖拉机）、distract（拉走注意力）、extract（拉出来、提取）、contract（拉到一起 → 合同、收缩）。\n不只形容人：an attractive offer（诱人的报价）、an attractive salary、attractive to investors（对投资者有吸引力）。\n合租生活的真相：再帅的室友也比不上晚上十点端出一锅番茄牛腩的那位。",
+  "ex": "Lower housing costs have made regional cities increasingly attractive to young families.",
+  "exCn": "较低的住房成本使地区城市对年轻家庭越来越有吸引力。",
+  "pte": "搭配 attractive to sb。词根 tract（拉）：attract、distract、extract。",
+  "tags": "#合租室友 #词根tract",
+  "cm": [
+   ["番茄牛腩爱好者", "会做饭的室友是稀缺资源", "1.4w"],
+   ["词根控", "distract 拉走注意力，太形象了", "3789"],
+   ["回国求职中", "an attractive package 是 HR 最爱说的", "2456"]
+  ]
+ },
+ {
+  "w": "bike",
+  "title": "在澳洲骑 bike 不戴头盔？罚单教你做人",
+  "line": "头盔不能省",
+  "stk": "🚲",
+  "body": "bike 是 bicycle 的口语缩短形式：bi（二）+ cycle（轮、圈）。注意 bike 也可以指摩托车 motorbike，看上下文。\n在澳洲，骑自行车必须戴头盔，这是全国性的法律要求，不戴会被罚款。很多留学生第一次骑共享单车就收到了“学费”。\n搭配：ride a bike（不是 drive a bike）、bike lane（自行车道）、by bike（骑车去）。\n同前缀 bi- 的还有 bilingual（双语的）、biweekly（每两周的）、binoculars（双筒望远镜）。",
+  "ex": "The city council plans to build more protected bike lanes to encourage residents to cycle to work.",
+  "exCn": "市议会计划修建更多有隔离的自行车道，鼓励居民骑车上班。",
+  "pte": "搭配 ride a bike、by bike、bike lane。bike = bicycle，bi- 表示“二”。",
+  "tags": "#澳洲交规 #通勤日常",
+  "cm": [
+   ["罚单收藏家", "没戴头盔被罚，比单车还贵", "9012"],
+   ["墨尔本骑手", "ride a bike 不是 drive，口语别说错", "3456"],
+   ["前缀研究所", "bi- 二：bicycle、bilingual 一起记", "1678"]
+  ]
+ },
+ {
+  "w": "broad",
+  "title": "读了三年才发现 broad 不念“布肉德”",
+  "line": "念对再说",
+  "stk": "🗣️",
+  "body": "broad = 宽的、广泛的。发音大坑：读 /brɔːd/，元音和 law、board 一样，不是 road 里的 /əʊ/。\n常见搭配：a broad range of（各种各样的）、broad agreement（大体上的共识）、broadly speaking（大体来说）、in broad daylight（光天化日之下）。\n别和 abroad（在国外）混：study abroad 是出国留学，broad 本身没有“国外”的意思。\n名词 breadth（宽度、广度），拼写变化挺大，别写成 broadth。",
+  "ex": "The course covers a broad range of topics, from economic policy to environmental management.",
+  "exCn": "这门课程涵盖了广泛的主题，从经济政策到环境管理。",
+  "pte": "发音 /brɔːd/，不读 /brəʊd/。名词 breadth。搭配 a broad range of。",
+  "tags": "#发音纠错 #留学英语",
+  "cm": [
+   ["念错三年", "我一直以为它和 road 押韵", "1.1w"],
+   ["口语79", "broad 和 board 元音一样，记住就不会错", "4321"],
+   ["拼写苦手", "breadth 这个拼写真的离谱", "2345"]
+  ]
+ },
+ {
+  "w": "burn",
+  "title": "跑步机上一小时，只 burn 掉了一杯奶盖",
+  "line": "热量在嘲笑我",
+  "stk": "🔥",
+  "body": "burn = 燃烧、烧伤。过去式和过去分词有两种：burned（美式更常见）和 burnt（英式、澳式常见），都对。burnt toast（烤焦的吐司）里一般用 burnt。\n健身房里跑了一小时，手表显示 burn 了 400 卡，一查，大概就是一杯加料奶茶。\n短语：burn out（燃尽；累垮）、名词 burnout（职业倦怠）；burn calories（消耗热量）；burn the midnight oil（熬夜苦干）。\n澳洲夏天紫外线强，sunburn（晒伤）十分钟就来，出门记得 slip, slop, slap。",
+  "ex": "Experts warn that long working hours without proper rest can lead to burnout among young professionals.",
+  "exCn": "专家警告，长时间工作而得不到适当休息，可能导致年轻职场人士出现职业倦怠。",
+  "pte": "变形 burned / burnt 都正确。搭配 burn out、burnout（名词）、burn calories。",
+  "tags": "#健身打卡 #澳洲防晒",
+  "cm": [
+   ["跑步机受害者", "运动一小时，喝水一秒钟", "1.3w"],
+   ["澳洲防晒党", "slip slop slap 是澳洲人从小背的口号", "5432"],
+   ["期末熬夜中", "burn the midnight oil 说的就是现在的我", "3210"]
+  ]
+ },
+ {
+  "w": "causing",
+  "title": "室友半夜打游戏，正在 causing 我的黑眼圈",
+  "line": "睡眠杀手",
+  "stk": "🎮",
+  "body": "causing 是 cause 的现在分词，常放在句子后面补充结果：…, causing serious damage（……造成严重破坏）。\n凌晨两点，隔壁传来键盘声和队友喊话，causing 我第二天早课全程梦游。\n搭配：cause damage / problems / concern（造成损害、问题、担忧）；cause sb to do sth（导致某人做某事）。注意没有 cause sb do 的用法，to 不能丢。\n易混：cause 是“原因”，reason 是“理由”；cause 后接 of（the cause of the fire），reason 后接 for（the reason for leaving）。",
+  "ex": "Heavy rain flooded several major roads overnight, causing long delays for morning commuters.",
+  "exCn": "暴雨一夜之间淹没了几条主干道，导致早上通勤的人严重延误。",
+  "pte": "搭配 cause sb to do sth（to 不能丢）；the cause of / the reason for。",
+  "tags": "#室友噪音 #语法搭配",
+  "cm": [
+   ["黑眼圈本圈", "室友的段位上去了，我的成绩下来了", "8976"],
+   ["语法纠察", "cause sb to do，少个 to 就扣分", "3456"],
+   ["新闻听力党", "..., causing ... 这个结构新闻里太多了", "2012"]
+  ]
+ },
+ {
+  "w": "closely",
+  "title": "老板 closely 盯着我屏幕的那一刻，我切回了 Excel",
+  "line": "Alt+Tab 战神",
+  "stk": "🕵️",
+  "body": "closely = 密切地、仔细地，来自 close。注意 close 当形容词读 /kləʊs/（近的），当动词读 /kləʊz/（关上），closely 跟形容词读 /ˈkləʊsli/。\n老板从身后走过，你的手比大脑先反应：Alt+Tab，满屏表格。因为你知道自己正被 closely monitored。\n搭配：closely related（密切相关）、work closely with（与……紧密合作）、look closely（仔细看）、closely linked。\nclose 和 closely 区分：stay close（待在附近，表距离）；watch closely（仔细地看，表程度）。",
+  "ex": "Scientists are closely monitoring the volcano after a sharp increase in seismic activity this week.",
+  "exCn": "本周地震活动急剧增加后，科学家正在密切监测这座火山。",
+  "pte": "发音 /ˈkləʊsli/，s 读清音。搭配 closely related / work closely with。",
+  "tags": "#摸鱼日常 #发音陷阱",
+  "cm": [
+   ["摸鱼大师", "Alt+Tab 是打工人肌肉记忆", "1.6w"],
+   ["发音控", "close 形容词和动词读音不一样，原来如此", "3789"],
+   ["实习生小王", "work closely with 简历里写了五遍", "2098"]
+  ]
+ },
+ {
+  "w": "constantly",
+  "title": "我 constantly 想着放弃，但还是每天打开题库",
+  "line": "嘴硬手软",
+  "stk": "🔁",
+  "body": "constant 来自拉丁语 constare“站稳、保持不变”：con（加强）+ stare（站）。一直站在那不动 → 恒定的、不断的。constantly 就是“不断地、总是”。\n备考的心理状态：constantly 想放弃，constantly 刷题，constantly 安慰自己“下次一定”。\n用法：constantly changing（不断变化）、be constantly reminded（不断被提醒）。科学里 constant 还是名词“常数、常量”。\n同义替换：continuously、continually、all the time、repeatedly。continually 偏“反复、断断续续”，continuously 偏“不间断”。",
+  "ex": "Technology is constantly changing the way people communicate, work and access information.",
+  "exCn": "科技正在不断改变人们交流、工作和获取信息的方式。",
+  "pte": "同义替换 continuously / continually / repeatedly。constant 名词义：常数。",
+  "tags": "#备考心态 #词根记忆",
+  "cm": [
+   ["嘴上放弃", "放弃这件事我也很 constantly", "9876"],
+   ["物理系", "the speed of light is a constant，好亲切", "2345"],
+   ["阅读满分", "continually 和 continuously 的区别终于搞懂了", "3456"]
+  ]
+ },
+ {
+  "w": "drawn",
+  "title": "连熬三个通宵后，镜子里那张 drawn 的脸是谁",
+  "line": "熬夜脸本脸",
+  "stk": "😩",
+  "body": "drawn 是 draw 的过去分词：draw – drew – drawn。draw 本义“拉、拖”，所以 drawn 当形容词形容脸，是“被拉长的” → 憔悴、疲惫。\n期末周连熬三天，照镜子：脸色苍白、两颊凹陷。英文很精准：She looked pale and drawn。\n其他用法：be drawn to（被……吸引）、a long-drawn-out process（拖得很久的过程）、a horse-drawn carriage（马拉的车）。\n比赛里 draw 是“打平”，所以 The match was drawn 1–1 就是“比赛 1 比 1 战平”。",
+  "ex": "Many visitors are drawn to the region by its spectacular coastline and unique wildlife.",
+  "exCn": "许多游客被该地区壮观的海岸线和独特的野生动物所吸引。",
+  "pte": "不规则变化 draw – drew – drawn。搭配 be drawn to（被吸引）、long-drawn-out。",
+  "tags": "#熬夜期末 #一词多义",
+  "cm": [
+   ["通宵三连", "pale and drawn 简直是我的证件照描述", "1.2w"],
+   ["足球解说迷", "the game was drawn 原来是平局", "3210"],
+   ["文学硕士", "be drawn to 比 attracted to 更文艺一点", "1876"]
+  ]
+ },
+ {
+  "w": "hardly",
+  "title": "我 hardly 学习，不是我很努力的意思",
+  "line": "差点理解反",
+  "stk": "🙈",
+  "body": "hardly 最大的坑：它不是 hard 的副词版。hard 本身就是副词（work hard 努力工作），hardly 是“几乎不”。\n所以 I hardly study 是“我几乎不学习”，跟努力没有半点关系。如果你在简历里写 I hardly work，HR 会非常感动地拒绝你。\n搭配：hardly ever（几乎从不）、hardly any（几乎没有）、can hardly believe（简直不敢相信）。\nhardly 自带否定，后面不再加 not。倒装句也要会认：Hardly had he arrived when it started to rain（他刚到就下雨了）。",
+  "ex": "The two reports were released on the same day, yet their conclusions could hardly be more different.",
+  "exCn": "两份报告在同一天发布，但它们的结论简直不能更不同了。",
+  "pte": "易混：hard（努力地）/ hardly（几乎不）。hardly 自带否定，不加 not。",
+  "tags": "#英语误区 #阅读陷阱",
+  "cm": [
+   ["简历写错的人", "我真的写过 I hardly work，难怪没回音", "1.5w"],
+   ["语法老师", "could hardly be more different 是“截然不同”，很地道", "4567"],
+   ["阅读失分王", "hardly 自带否定，阅读里被坑过", "2890"]
+  ]
+ },
+ {
+  "w": "height",
+  "title": "填表写身高，我把 height 拼成了 hight",
+  "line": "身高没变",
+  "stk": "📏",
+  "body": "height = 高度、身高，形容词是 high。拼写坑：保留了 high 的 gh，但元音换成了 ei：h-e-i-g-h-t。\n发音也坑：读 /haɪt/，结尾是 t，不是 th。很多人受 width（宽度）、length（长度）、depth（深度）影响，会念成 /haɪθ/。\n引申义：the height of（……的顶峰），比如 at the height of summer（盛夏时节）、the height of fashion（最时髦的）。\n动词 heighten（加强、提高）：heighten awareness（提高意识）、heightened security（加强的安保）。",
+  "ex": "The new building will reach a height of more than three hundred metres when it is completed.",
+  "exCn": "这座新楼建成后高度将超过三百米。",
+  "pte": "拼写 height（不是 hight），发音 /haɪt/ 结尾是 t。动词 heighten。",
+  "tags": "#拼写陷阱 #发音纠错",
+  "cm": [
+   ["填表达人", "hight 写了二十年，今天才知道错了", "1.1w"],
+   ["口音矫正中", "width length depth 都有 th，偏偏 height 没有", "5678"],
+   ["一米六的倔强", "我的 height 是我最不想填的一栏", "3456"]
+  ]
+ },
+ {
+  "w": "hidden",
+  "title": "租房广告里的 hidden cost，比房租还会藏",
+  "line": "坑在细节里",
+  "stk": "🔍",
+  "body": "hidden 是 hide 的过去分词：hide – hid – hidden，注意双写 d。作形容词表示“隐藏的、隐蔽的”。\n看房时中介说包水包网，签约后发现电费按人头分、停车位另算、搬走还要专业清洁。这就是 hidden costs。\n常见搭配：hidden cost（隐性成本）、hidden agenda（不可告人的目的）、hidden talent（隐藏的才能）、a hidden gem（宝藏小店、冷门好地方）。\n同义替换：concealed、invisible、unseen；反义：obvious、visible。",
+  "ex": "Consumers are often unaware of the hidden costs associated with cheap online subscriptions.",
+  "exCn": "消费者常常没有意识到廉价网络订阅服务带来的隐性成本。",
+  "pte": "不规则变化 hide – hid – hidden（双写 d）。搭配 hidden cost、hidden agenda。",
+  "tags": "#租房避坑 #固定搭配",
+  "cm": [
+   ["租房老手", "专业清洁费是 hidden cost 之王", "9876"],
+   ["美食探店", "a hidden gem 是我找小馆子的关键词", "4321"],
+   ["悉尼租客", "合同里最小的字最值钱", "2345"]
+  ]
+ },
+ {
+  "w": "marine",
+  "title": "在大堡礁浮潜，我被 marine life 包围了",
+  "line": "海底在开派对",
+  "stk": "🐠",
+  "body": "marine 来自拉丁语 mare“海”。同词根：maritime（海事的、沿海的）、submarine（sub 在下面 + marine 海 → 潜水艇）、mariner（水手）。\n去凯恩斯浮潜，一低头全是彩色小鱼和珊瑚，还有一只海龟慢悠悠游过，这就是 marine life（海洋生物）。\n搭配：marine biology（海洋生物学）、marine ecosystem、marine park（海洋公园、海洋保护区）。名词 Marine（首字母常大写）指海军陆战队队员。\n发音：重音在第二音节 ma-RINE，/məˈriːn/。",
+  "ex": "Rising ocean temperatures pose a serious threat to coral reefs and other marine ecosystems.",
+  "exCn": "海洋温度上升对珊瑚礁和其他海洋生态系统构成严重威胁。",
+  "pte": "重音在第二音节 /məˈriːn/。同根词 maritime、submarine。",
+  "tags": "#大堡礁 #词根记忆",
+  "cm": [
+   ["凯恩斯浮潜", "海龟游过的那一刻真的会哭", "1.3w"],
+   ["海洋生物学", "marine ecosystem 是我们专业的开头词", "3456"],
+   ["词根小达人", "submarine 原来是“海下面”", "2134"]
+  ]
+ },
+ {
+  "w": "motor",
+  "title": "宜家组装家具，测出了我的 motor skills 有多差",
+  "line": "螺丝多一颗",
+  "stk": "🔧",
+  "body": "motor 来自拉丁语 movere“移动”，motor 本义是“让东西动起来的东西”→ 发动机、马达。同根：motion（运动）、motive（动机）、emotion（情绪，内心的波动）。\n周末组装宜家书柜，说明书只有图没有字，装完还多出三颗螺丝。这时候你会怀疑自己的 fine motor skills（精细运动能力）。\n搭配：motor vehicle（机动车）、motor industry（汽车业）、electric motor（电动机）。\n英式、澳式里 motorway 是高速公路，motorbike 是摩托车。",
+  "ex": "Children develop fine motor skills through activities such as drawing, cutting and building with blocks.",
+  "exCn": "孩子们通过画画、剪纸和搭积木等活动发展精细运动能力。",
+  "pte": "搭配 motor skills、motor vehicle。词根 mot（动）：motion、motive、emotion。",
+  "tags": "#宜家组装 #词根mov",
+  "cm": [
+   ["宜家受害者", "多出来的螺丝是宜家的彩蛋", "1.1w"],
+   ["早教老师", "fine motor 和 gross motor 是两回事", "2876"],
+   ["词根控", "emotion 是内心在动，太妙了", "3654"]
+  ]
+ },
+ {
+  "w": "officially",
+  "title": "毕业照拍完，我 officially 成为了无业游民",
+  "line": "正式失业",
+  "stk": "🎓",
+  "body": "officially = 官方地、正式地，来自 official（官方的、官员）。\n穿着学士服拍完照，把帽子一扔，这一刻你 officially 毕业了，也 officially 失去了学生优惠。\n搭配：be officially opened（正式开放）、officially recognised（官方认可的）、officially launched（正式推出）。\n一个阅读里的坑：officially 有时暗示“表面上、名义上”，和实际情况相对。Officially, he is on leave; unofficially, he has resigned（名义上他在休假，实际上已经辞职了）。",
+  "ex": "The new railway line will be officially opened to the public at the end of next month.",
+  "exCn": "这条新铁路线将于下个月底正式向公众开放。",
+  "pte": "易混：official（官方的）/ officious（爱管闲事的）。搭配 officially opened。",
+  "tags": "#毕业季 #阅读陷阱",
+  "cm": [
+   ["刚毕业的人", "学生卡失效那天才是真正毕业", "8765"],
+   ["阅读老司机", "officially 后面常跟一个转折，注意", "3456"],
+   ["Opal 卡用户", "学生半价没了，心在滴血", "4321"]
+  ]
+ },
+ {
+  "w": "out-of-doors",
+  "title": "周末拒绝宅家，去 out-of-doors 晒晒太阳",
+  "line": "出门晒太阳",
+  "stk": "🌳",
+  "body": "out-of-doors = 在户外、在露天，意思和 outdoors 一样，只是更书面、更老派一点。作名词时指“户外、野外”：the great out-of-doors（广阔的大自然）。\n连续一周窝在宿舍刷题，外卖盒堆成山，室友说你身上快长蘑菇了。是时候 spend more time out-of-doors 了。\n用法：作副词放在动词后面：play out-of-doors、sleep out-of-doors。作定语时更常用 outdoor：outdoor activities（户外活动）。\n注意 outdoor（形容词）和 outdoors（副词）差一个 s，别混用。",
+  "ex": "Research suggests that children who spend more time out-of-doors are less likely to become short-sighted.",
+  "exCn": "研究表明，在户外时间更多的孩子患近视的可能性更小。",
+  "pte": "同义替换 out-of-doors = outdoors = in the open air。形容词用 outdoor。",
+  "tags": "#户外时光 #同义替换",
+  "cm": [
+   ["宅家冠军", "我的户外活动是去楼下拿外卖", "1.2w"],
+   ["眼科研究生", "户外活动防近视是真的，有很多研究", "3456"],
+   ["语法小本本", "outdoor 和 outdoors 差一个 s 记住了", "2109"]
+  ]
+ }
+]
