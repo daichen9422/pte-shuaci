@@ -1,0 +1,702 @@
+[
+ {
+  "w": "livelihood",
+  "title": "小镇农民的 livelihood，全看今年下不下雨",
+  "line": "靠天吃饭",
+  "stk": "🌾",
+  "body": "livelihood = 生计、谋生手段，指一个人靠什么养活自己。\n常见搭配：earn/make a livelihood（谋生）、lose one's livelihood（失去生计）、livelihoods are at risk（生计受到威胁）。\n新闻里常和自然灾害、产业转型一起出现：干旱、山火、工厂关闭都会 threaten livelihoods。\n同义替换：living（make a living）、income、means of support。",
+  "ex": "Prolonged drought has threatened the livelihoods of farmers across much of rural Australia.",
+  "exCn": "持续的干旱威胁着澳大利亚大部分农村地区农民的生计。",
+  "pte": "搭配 earn a livelihood、threaten livelihoods。同义 make a living。",
+  "tags": "#农村生活 #新闻英语",
+  "cm": [
+   [
+    "农场打工",
+    "摘草莓那几个月天天看天气",
+    "1.2w"
+   ],
+   [
+    "写作7分",
+    "threaten livelihoods 写作好用",
+    "3456"
+   ],
+   [
+    "经济学大二",
+    "livelihood 可数，复数常用",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "nano-diamond",
+  "title": "nano-diamond：比头发丝细几万倍的钻石",
+  "line": "肉眼看不见的钻",
+  "stk": "💎",
+  "body": "nano（纳米，十亿分之一米）+ diamond（钻石、金刚石）= 纳米金刚石，也常写成 nanodiamond。\n它们小到肉眼完全看不见，在一些陨石里就发现过天然的纳米金刚石。\n人工可以用爆炸法合成，用于精密抛光、复合材料，也在药物递送等生物医学领域被研究。\n前缀 nano- 构词：nanotechnology、nanoparticle、nanometre。",
+  "ex": "Researchers are exploring whether nano-diamonds could be used to deliver cancer drugs directly to tumours.",
+  "exCn": "研究人员正在探索纳米金刚石能否用于将抗癌药物直接输送到肿瘤。",
+  "pte": "前缀 nano-。也写作 nanodiamond。",
+  "tags": "#黑科技 #前缀记忆",
+  "cm": [
+   [
+    "钻石控",
+    "看不见的钻石我不要",
+    "9876"
+   ],
+   [
+    "材料学博士",
+    "爆轰法合成纳米金刚石，没错",
+    "2345"
+   ],
+   [
+    "前缀课代表",
+    "nano 就是十亿分之一",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "noodle",
+  "title": "考完 PTE 只想吃一碗 noodle，什么都不想",
+  "line": "一碗面治愈一切",
+  "stk": "🍜",
+  "body": "noodle = 面条，通常用复数 noodles：instant noodles（方便面）、egg noodles。来自德语 Nudel。\n口语第二义：脑袋。Use your noodle!（动动脑子！）\n美式非正式：noodle around 随便拨弄乐器、随意琢磨想法。\n澳洲冷知识：在蛋白石矿区，noodling 指在废矿堆里翻找蛋白石。",
+  "ex": "Instant noodles have become a staple food for many university students living on a tight budget.",
+  "exCn": "方便面已经成为许多手头紧的大学生的主食。",
+  "pte": "常用复数 noodles。口语义：脑袋，use your noodle。",
+  "tags": "#考后放空 #一词多义",
+  "cm": [
+   [
+    "泡面续命",
+    "辛拉面是我的信仰",
+    "1.4w"
+   ],
+   [
+    "Coober Pedy游客",
+    "真的有人在翻矿渣找蛋白石",
+    "3456"
+   ],
+   [
+    "吉他手",
+    "noodling 就是乱弹几下",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "ozone",
+  "title": "澳洲紫外线那么强，ozone 层到底怎么了",
+  "line": "防晒必须拉满",
+  "stk": "🌏",
+  "body": "ozone = 臭氧，化学式 O3。来自希腊语 ozein（闻起来有气味），因为它有一股特殊气味。\n环境话题核心：the ozone layer（臭氧层）、ozone depletion（臭氧层损耗）、南极上空的 ozone hole（臭氧空洞）。\n1987 年签署的《蒙特利尔议定书》限制了氟氯化碳（CFCs），被认为是最成功的国际环境协议之一。\n口语里 ozone 偶尔指“海边的清新空气”，属于英式旧用法。",
+  "ex": "The Montreal Protocol helped reduce the use of chemicals that were damaging the ozone layer.",
+  "exCn": "《蒙特利尔议定书》帮助减少了破坏臭氧层的化学物质的使用。",
+  "pte": "搭配 the ozone layer、ozone depletion。",
+  "tags": "#澳洲防晒 #环境话题",
+  "cm": [
+   [
+    "SPF50+",
+    "出门不涂防晒等于裸奔",
+    "1.5w"
+   ],
+   [
+    "环境科学",
+    "蒙特利尔议定书是写作好例子",
+    "3214"
+   ],
+   [
+    "化学课代表",
+    "O3 三个氧原子",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "physicist",
+  "title": "physicist 不是医生！physician 才是",
+  "line": "别再搞混了",
+  "stk": "🔭",
+  "body": "physicist = 物理学家，physics（物理）+ ist（人）。\n超级易混：physician 是“内科医生”，和物理学家完全不是一回事。记法：physics 加 -ist 是物理学家，physic（旧时指医术）加 -ian 是医生。\n发音：physicist 读 /ˈfɪzɪsɪst/，中间是 s 音不是 k 音。\n相关：chemist（化学家；英澳也指药剂师、药店）、biologist（生物学家）。",
+  "ex": "The physicist spent decades studying how particles behave at extremely low temperatures.",
+  "exCn": "这位物理学家花了几十年研究粒子在极低温度下的行为。",
+  "pte": "易混 physician（医生）。发音 /ˈfɪzɪsɪst/，c 读 s。",
+  "tags": "#易混词 #物理英语",
+  "cm": [
+   [
+    "医学生",
+    "被叫 physicist 好几次了",
+    "1.2w"
+   ],
+   [
+    "物理博士",
+    "我们不看病，只看黑板",
+    "3456"
+   ],
+   [
+    "发音受害者",
+    "physi-sist 舌头打结",
+    "2789"
+   ]
+  ]
+ },
+ {
+  "w": "proton",
+  "title": "proton 永远积极向上，因为它带正电",
+  "line": "正能量粒子",
+  "stk": "➕",
+  "body": "proton = 质子，原子核里带正电的粒子。来自希腊语 protos（第一），和 prototype（原型）同根。\n原子三兄弟：proton（正电）、neutron（不带电）、electron（负电）。\n质子数决定元素种类：氢原子只有一个质子。\n医学里有 proton therapy（质子治疗），一种更精准的放射治疗方式。",
+  "ex": "The number of protons in an atom's nucleus determines which chemical element it is.",
+  "exCn": "原子核中的质子数决定了它属于哪种化学元素。",
+  "pte": "前缀 proto-（第一）。易混 photon（光子）。",
+  "tags": "#正能量 #物理英语",
+  "cm": [
+   [
+    "积极青年",
+    "做人要像质子",
+    "1.1w"
+   ],
+   [
+    "化学老师",
+    "原子序数=质子数",
+    "3456"
+   ],
+   [
+    "拼写小心",
+    "proton 和 photon 差一个字母",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "redesign",
+  "title": "PTE 改版 redesign 之后，我的模板全作废了",
+  "line": "推倒重来",
+  "stk": "🛠️",
+  "body": "re（重新）+ design（设计）= 重新设计、重新规划，名词动词同形。\n可以 redesign 产品、网站、城市空间，甚至一门课程：a complete redesign of the curriculum。\n同类 re- 构词：rebuild、rethink、reshape、restructure。\n重音在第二音节 re-de-SIGN，和 design 一样。",
+  "ex": "The city council plans to redesign the main street to make it safer for cyclists and pedestrians.",
+  "exCn": "市议会计划重新设计主街，让骑车人和行人更安全。",
+  "pte": "前缀 re-。名词动词同形。同义 restructure、revamp。",
+  "tags": "#考试改版 #前缀记忆",
+  "cm": [
+   [
+    "模板依赖症",
+    "刚背熟就改了",
+    "1.3w"
+   ],
+   [
+    "UI设计师",
+    "redesign 是我的日常",
+    "2345"
+   ],
+   [
+    "城市规划",
+    "bike lane redesign 吵了三年",
+    "1987"
+   ]
+  ]
+ },
+ {
+  "w": "reluctance",
+  "title": "周一早上起床的 reluctance，全宇宙最强",
+  "line": "不想起床",
+  "stk": "🛏️",
+  "body": "reluctant（不情愿的）+ ance = 不情愿、勉强。\n常见搭配：reluctance to do sth（不愿做某事）、with reluctance（勉强地）、show reluctance。\n第二义项在电磁学：磁阻，物理阅读里可能遇到。\n同义：unwillingness、hesitation；反义 eagerness、willingness。拼写结尾是 -ance。",
+  "ex": "There is growing reluctance among young people to take on large mortgages in an uncertain economy.",
+  "exCn": "在不确定的经济形势下，年轻人越来越不愿意背负大额房贷。",
+  "pte": "搭配 reluctance to do。拼写 -ance。同义 unwillingness。",
+  "tags": "#周一综合征 #固定搭配",
+  "cm": [
+   [
+    "赖床冠军",
+    "闹钟按了九次",
+    "1.6w"
+   ],
+   [
+    "电气工程",
+    "磁阻也叫 reluctance，没错",
+    "2345"
+   ],
+   [
+    "写作打卡",
+    "reluctance to do 好用",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "sediment",
+  "title": "咖啡杯底的 sediment，是我熬夜的证据",
+  "line": "杯底沉淀",
+  "stk": "☕",
+  "body": "sediment = 沉积物、沉淀物。来自拉丁语 sedere（坐），沉下去“坐”在底部的东西。\n同根：sedentary（久坐的）、sedative（镇静剂，让人安静坐着）。\n地理常见：sedimentary rock（沉积岩）、river sediment（河流沉积物）。\n动词 sediment 不常用，“沉积”更常说 deposit 或 settle。",
+  "ex": "Rivers carry large amounts of sediment downstream and deposit it where the water slows down.",
+  "exCn": "河流把大量沉积物带到下游，并在水流变缓的地方沉积下来。",
+  "pte": "派生 sedimentary rock。同根 sedentary。",
+  "tags": "#熬夜咖啡 #词根记忆",
+  "cm": [
+   [
+    "咖啡渣",
+    "杯底一层全是故事",
+    "9876"
+   ],
+   [
+    "地质系",
+    "沉积岩野外实习晒成黑炭",
+    "2345"
+   ],
+   [
+    "久坐上班族",
+    "sedentary 也是 sed，我懂了",
+    "3210"
+   ]
+  ]
+ },
+ {
+  "w": "stumble",
+  "title": "翻资料时 stumble upon 一份神仙笔记",
+  "line": "意外捡到宝",
+  "stk": "🍀",
+  "body": "stumble = 绊倒、跌跌撞撞地走；也能指说话结巴、出差错。\n最有用的词组：stumble upon/across sth（偶然发现），比如 I stumbled upon an old diary.\n名词搭配：a stumbling block（绊脚石、障碍）。\n口语题提醒：stumble over words（说话磕绊），RS 和 RA 卡壳就是这个状态。",
+  "ex": "While searching the archives, the historian stumbled upon letters that had been missing for a century.",
+  "exCn": "在查阅档案时，这位历史学家偶然发现了遗失一个世纪的信件。",
+  "pte": "词组 stumble upon/across（偶然发现）。名词 stumbling block。",
+  "tags": "#意外收获 #固定搭配",
+  "cm": [
+   [
+    "笔记收藏家",
+    "学长的笔记救了我一命",
+    "1.3w"
+   ],
+   [
+    "口语卡壳",
+    "我 stumble over 每一个长单词",
+    "3456"
+   ],
+   [
+    "历史系",
+    "档案馆真的会有惊喜",
+    "1876"
+   ]
+  ]
+ },
+ {
+  "w": "unconventional",
+  "title": "用唱歌的方式背单词，很 unconventional 但有用",
+  "line": "不走寻常路",
+  "stk": "🎤",
+  "body": "un（不）+ conventional（传统的、常规的）= 非常规的、不落俗套的。\nconvention 有“惯例、习俗”和“大会、公约”两个意思：social conventions（社会习俗）、the Geneva Conventions（日内瓦公约）。\n常见搭配：unconventional methods/approach、an unconventional career path。\n同义：unorthodox、unusual、non-traditional；反义 conventional、mainstream。",
+  "ex": "The school's unconventional approach to teaching has produced surprisingly strong results in national tests.",
+  "exCn": "这所学校非常规的教学方法在全国考试中取得了出乎意料的好成绩。",
+  "pte": "同义 unorthodox、non-traditional。名词 convention 一词多义。",
+  "tags": "#另类学习法 #同义替换",
+  "cm": [
+   [
+    "唱歌背词",
+    "一首歌背了三十个词",
+    "1.2w"
+   ],
+   [
+    "法学预科",
+    "convention 还有公约的意思",
+    "2345"
+   ],
+   [
+    "转行三次",
+    "我的职业道路很 unconventional",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "adultery",
+  "title": "adultery 和 adult 没关系？这个词源真反转",
+  "line": "词源大反转",
+  "stk": "🔍",
+  "body": "adultery = 通奸、婚外性关系，法律和历史文献里的正式用词。\n反转词源：它和 adult（成年人）没有关系。adultery 来自拉丁语 adulterare（败坏、掺杂），adult 来自 adolescere（长大）。\n同族词更有用：adulterate（掺假），adulterated food（掺假食品）在新闻里会遇到。\n读文学名著时会见到，比如《红字》（The Scarlet Letter）就围绕这一主题展开。",
+  "ex": "In some countries, adultery was once a criminal offence, but it has since been decriminalised.",
+  "exCn": "在一些国家，通奸曾经是刑事罪行，但后来已经不再入刑。",
+  "pte": "同族 adulterate（掺假）。与 adult 无词源关系。",
+  "tags": "#词源反转 #文学阅读",
+  "cm": [
+   [
+    "词源猎人",
+    "原来 adulterate 是同一家",
+    "5432"
+   ],
+   [
+    "英文系",
+    "红字的 A 就是这个词",
+    "2345"
+   ],
+   [
+    "食品安全",
+    "adulterated milk 新闻里见过",
+    "1987"
+   ]
+  ]
+ },
+ {
+  "w": "artifact",
+  "title": "博物馆的 artifact 前站了半小时，只记住了自拍",
+  "line": "古物在说话",
+  "stk": "🏺",
+  "body": "artifact = 人工制品、手工艺品，尤其是有历史或文化价值的古物。英式拼写 artefact。\n来自拉丁语 arte（用技艺）+ factum（做成的）= 用技艺做出来的东西。\n第二义项在科技领域：图像或数据里的“伪影”，比如 compression artifacts（压缩失真）。\n搭配：ancient artifacts、cultural artifacts、archaeological artifacts。",
+  "ex": "The museum returned several cultural artifacts to the communities from which they had been taken.",
+  "exCn": "博物馆将几件文化器物归还给了它们原本所属的社区。",
+  "pte": "美式 artifact，英式 artefact。",
+  "tags": "#博物馆打卡 #英美拼写",
+  "cm": [
+   [
+    "自拍达人",
+    "我和千年陶罐的合照",
+    "1.1w"
+   ],
+   [
+    "考古系",
+    "每一个碎片都要编号",
+    "3214"
+   ],
+   [
+    "摄影师",
+    "JPEG 的 artifacts 看着就难受",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "compute",
+  "title": "compute 了一下：离考试还有 30 天，单词还剩 3000",
+  "line": "一天一百个",
+  "stk": "🧮",
+  "body": "com（一起）+ pute（计算、思考，拉丁语 putare）= 计算、估算。computer 就是“计算的机器”。\n同根：dispute（争论）、reputation（名声）、deputy。\n口语梗：It doesn't compute.（这不合理、讲不通），带点调侃意味。\n名词 computation（计算），形容词 computational：computational linguistics（计算语言学）。",
+  "ex": "Modern weather models compute billions of calculations every second to produce accurate forecasts.",
+  "exCn": "现代天气模型每秒进行数十亿次计算，以生成准确的预报。",
+  "pte": "同根 dispute、reputation。名词 computation。",
+  "tags": "#倒计时 #词根记忆",
+  "cm": [
+   [
+    "数学渣",
+    "一天一百个，我算对了吗",
+    "1.3w"
+   ],
+   [
+    "程序员",
+    "computational complexity 头疼",
+    "2345"
+   ],
+   [
+    "口语达人",
+    "That doesn't compute 很好用",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "cucumber",
+  "title": "考前一晚还能 as cool as a cucumber，你是神",
+  "line": "冷静如黄瓜",
+  "stk": "🥒",
+  "body": "cucumber = 黄瓜。重音在第一音节 CUE-cum-ber，读 /ˈkjuːkʌmbə/。\n习语：as cool as a cucumber（非常冷静、镇定自若）。黄瓜含水多、摸着凉，所以成了“冷静”的代言。\n生活里：cucumber slices（黄瓜片），敷眼睛消肿的经典画面。\n相关：pickle（腌黄瓜，美式）、gherkin（小黄瓜，英澳常说）。",
+  "ex": "Cucumbers are made up of about ninety-five percent water, making them a refreshing summer snack.",
+  "exCn": "黄瓜大约百分之九十五都是水分，是清爽的夏日零食。",
+  "pte": "习语 as cool as a cucumber。重音在第一音节。",
+  "tags": "#考前心态 #习语积累",
+  "cm": [
+   [
+    "心态大师",
+    "我的冷静只维持到进考场",
+    "1.2w"
+   ],
+   [
+    "麦当劳爱好者",
+    "汉堡里的 gherkin 我都挑出来",
+    "4321"
+   ],
+   [
+    "护肤达人",
+    "敷黄瓜片真的舒服",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "depict",
+  "title": "电影 depict 的留学生活 vs 真实的我",
+  "line": "滤镜和现实",
+  "stk": "🎨",
+  "body": "de（加强）+ pict（画，拉丁语 pingere）= 描绘、描述。picture（图画）、pictorial 都是同根。\n用法：depict sb/sth as…（把……描绘成……）。The film depicts students as carefree.\n名词 depiction（描绘、刻画）。\n同义：portray、illustrate、represent。阅读里 depict ≈ portray 经常替换。",
+  "ex": "The documentary depicts the daily struggles of families living in remote communities.",
+  "exCn": "这部纪录片描绘了生活在偏远社区的家庭日常的艰辛。",
+  "pte": "搭配 depict sb as。同义 portray。名词 depiction。",
+  "tags": "#留学滤镜 #同义替换",
+  "cm": [
+   [
+    "真实留学生",
+    "电影里没有凌晨三点的 deadline",
+    "1.4w"
+   ],
+   [
+    "艺术史",
+    "pict 就是画，picture 秒懂",
+    "2345"
+   ],
+   [
+    "DI练习",
+    "描述图片可以用 depict",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "diagnose",
+  "title": "医生 diagnose 我是“考前焦虑综合征”",
+  "line": "确诊考前焦虑",
+  "stk": "🩺",
+  "body": "dia（穿过、彻底）+ gnose（知道，希腊语 gnosis）= 彻底看透 → 诊断；也能用于找出问题原因。\n最常见被动：be diagnosed with sth（被诊断患有……）。注意介词是 with。\n名词 diagnosis，复数 diagnoses（-is 变 -es）；形容词 diagnostic。\n引申：diagnose a problem/fault（找出问题/故障原因）。",
+  "ex": "She was diagnosed with diabetes at the age of twelve and has managed the condition ever since.",
+  "exCn": "她十二岁时被诊断出糖尿病，此后一直在控制病情。",
+  "pte": "搭配 be diagnosed with。名词复数 diagnoses。",
+  "tags": "#考前焦虑 #医学英语",
+  "cm": [
+   [
+    "焦虑本虑",
+    "医生说多睡觉就好",
+    "1.1w"
+   ],
+   [
+    "护理专业",
+    "diagnoses 复数考过拼写",
+    "3214"
+   ],
+   [
+    "修车工",
+    "diagnose 一辆车也用这个词",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "diver",
+  "title": "在大堡礁当 diver 的第一天，被海龟抢了镜",
+  "line": "和海龟同框",
+  "stk": "🤿",
+  "body": "dive（潜水、跳水）+ r = 潜水员、跳水运动员。\n类型：scuba diver（水肺潜水员）、free diver（自由潜水者）、a competitive diver（跳水运动员）。\n别和 driver（司机）搞混，中间少了一个 r，听写时注意。\n冷知识：diver 也是一种水鸟，中文叫潜鸟（英式说法，美式叫 loon）。",
+  "ex": "Divers reported that large sections of the reef had been affected by coral bleaching.",
+  "exCn": "潜水员报告说，珊瑚礁的大片区域已受到珊瑚白化的影响。",
+  "pte": "易混 driver。搭配 scuba diver。",
+  "tags": "#大堡礁 #易混词",
+  "cm": [
+   [
+    "凯恩斯潜水",
+    "海龟比游客还淡定",
+    "1.3w"
+   ],
+   [
+    "观鸟者",
+    "潜鸟在美国叫 loon",
+    "2345"
+   ],
+   [
+    "听写失误",
+    "我写成 driver 了",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "emulate",
+  "title": "想 emulate 学霸的作息，结果只学会了熬夜",
+  "line": "学了个寂寞",
+  "stk": "🪞",
+  "body": "emulate = 效仿、努力赶上（某个榜样），带有“想跟对方一样好甚至超过”的意思。拉丁语 aemulari（与……竞争）。\n和 imitate 的区别：imitate 是单纯模仿，emulate 是带着欣赏和竞争去效仿。\n计算机里：emulate 指用软件仿真另一个系统，emulator（模拟器）可以在电脑上玩老游戏机的游戏。\n名词 emulation。",
+  "ex": "Many developing countries have tried to emulate the economic success of East Asian nations.",
+  "exCn": "许多发展中国家试图效仿东亚国家的经济成功。",
+  "pte": "区别 imitate。同义 follow the example of。名词 emulation。",
+  "tags": "#学霸作息 #易混词",
+  "cm": [
+   [
+    "熬夜学霸",
+    "我只 emulate 了熬夜部分",
+    "1.5w"
+   ],
+   [
+    "游戏玩家",
+    "emulator 玩童年游戏",
+    "3456"
+   ],
+   [
+    "写作8分",
+    "emulate 比 copy 高级太多",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "evergreen",
+  "title": "桉树是 evergreen 的，我的热情却只有三分钟",
+  "line": "四季常绿",
+  "stk": "🌲",
+  "body": "ever（永远）+ green（绿色）= 常绿的；名词指常绿植物。\n澳洲大部分桉树（eucalyptus）都是常绿树，四季不落叶。反义词是 deciduous（落叶的）。\n引申义：经久不衰的。an evergreen song（经典老歌）、evergreen content（长期有价值的内容）。\n同义（引申义）：timeless、enduring、classic。",
+  "ex": "Most eucalyptus species are evergreen and keep their leaves throughout the year.",
+  "exCn": "大多数桉树品种都是常绿植物，一年四季都不落叶。",
+  "pte": "反义 deciduous（落叶的）。引申义：经久不衰。",
+  "tags": "#澳洲植物 #反义词",
+  "cm": [
+   [
+    "三分钟热度",
+    "我的热情是 deciduous",
+    "1.2w"
+   ],
+   [
+    "园艺爱好者",
+    "deciduous 拼写好难",
+    "2345"
+   ],
+   [
+    "自媒体",
+    "evergreen content 是流量密码",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "foliage",
+  "title": "秋天去 Bright 看 foliage，红黄一片美哭",
+  "line": "满山红叶",
+  "stk": "🍁",
+  "body": "foliage = 叶子（总称）、枝叶，不可数名词。来自拉丁语 folium（叶子）。\n同根词：portfolio（作品集，字面是“携带纸页”）、folio（对开纸）。\n拼写坑：是 fo-li-age，不是 foilage。发音 /ˈfəʊliɪdʒ/，三个音节。\n搭配：dense foliage（茂密的枝叶）、autumn foliage（秋叶）。",
+  "ex": "The dense foliage of the rainforest provides shelter for thousands of insect and bird species.",
+  "exCn": "雨林茂密的枝叶为数千种昆虫和鸟类提供了栖身之所。",
+  "pte": "拼写 foliage，不是 foilage。不可数名词。",
+  "tags": "#维州秋色 #拼写陷阱",
+  "cm": [
+   [
+    "Bright游客",
+    "四月的 Bright 真的是油画",
+    "1.1w"
+   ],
+   [
+    "拼写受害者",
+    "foilage 错了三年",
+    "3456"
+   ],
+   [
+    "设计学生",
+    "portfolio 和 foliage 同根？惊了",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "fortnight",
+  "title": "澳洲工资按 fortnight 发，我的钱只能活一个 week",
+  "line": "两周一次发薪",
+  "stk": "💰",
+  "body": "fortnight = 两周。是 fourteen nights（十四个夜晚）的缩写演变而来。\n英国和澳洲非常常用，美国人很少说，一般说 two weeks。\n澳洲生活里随处可见：工资按 fortnightly 发；Centrelink 补贴、房租也常按 fortnight 计算。\n副词/形容词 fortnightly：a fortnightly meeting（每两周一次的会议）。",
+  "ex": "Rent is usually paid every fortnight, although some landlords prefer to receive it monthly.",
+  "exCn": "房租通常每两周交一次，不过有些房东更喜欢按月收。",
+  "pte": "派生 fortnightly。美式常说 two weeks。",
+  "tags": "#澳洲生活 #英美差异",
+  "cm": [
+   [
+    "打工人",
+    "发薪日前三天吃土",
+    "1.4w"
+   ],
+   [
+    "美国同学",
+    "第一次听到 fortnight 一脸懵",
+    "3456"
+   ],
+   [
+    "词源控",
+    "fourteen nights，太好记了",
+    "2109"
+   ]
+  ]
+ },
+ {
+  "w": "hypertension",
+  "title": "天天刷题加熬夜，小心年纪轻轻就 hypertension",
+  "line": "血压在飙升",
+  "stk": "🫀",
+  "body": "hyper（过度、超过）+ tension（压力、紧张）= 高血压，医学正式说法，日常说 high blood pressure。\n反义：hypotension（低血压），hypo- 表示“低于、不足”。\nhyper- 家族：hyperactive（多动的）、hyperlink（超链接）；hypo- 家族：hypothermia（体温过低）。\n健康话题：hypertension is a major risk factor for heart disease and stroke。",
+  "ex": "Reducing salt intake is one of the simplest ways to lower the risk of hypertension.",
+  "exCn": "减少盐分摄入是降低高血压风险最简单的方法之一。",
+  "pte": "前缀 hyper-（过度）vs hypo-（不足）。同义 high blood pressure。",
+  "tags": "#健康警告 #前缀记忆",
+  "cm": [
+   [
+    "护理专业",
+    "hypo 和 hyper 一字之差",
+    "1.2w"
+   ],
+   [
+    "熬夜冠军",
+    "我得去量量血压了",
+    "3456"
+   ],
+   [
+    "家庭医生",
+    "少盐多运动是真的",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "parity",
+  "title": "男女同工同酬，就是 pay parity",
+  "line": "一样的工作一样的钱",
+  "stk": "⚖️",
+  "body": "parity = 平等、同等、相等。来自拉丁语 par（相等），和 par（标准）、compare、disparity 同根。\n常见搭配：gender pay parity（性别薪酬平等）、parity with sb（和……对等）。\n金融里指汇率持平：2011 年澳元兑美元一度涨到 parity 以上，当时新闻用的就是这个词。\n反义词 disparity（差距、不平等）：income disparity（收入差距）。",
+  "ex": "Campaigners continue to call for pay parity between men and women doing the same work.",
+  "exCn": "活动人士继续呼吁从事同样工作的男女获得同等薪酬。",
+  "pte": "反义 disparity。同根 par、compare。",
+  "tags": "#职场平等 #反义词",
+  "cm": [
+   [
+    "女权主义者",
+    "pay parity 还有很长的路",
+    "1.1w"
+   ],
+   [
+    "外汇交易员",
+    "澳元平价那年我记得",
+    "2345"
+   ],
+   [
+    "写作8分",
+    "parity 和 disparity 一起背",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "persuasive",
+  "title": "写 persuasive essay 前，先说服自己别拖延",
+  "line": "先说服自己",
+  "stk": "🗣️",
+  "body": "persuade（说服）+ ive = 有说服力的。拼写变化：persuade 的 d 变成 s，persuasive、persuasion。\n常见搭配：a persuasive argument（有说服力的论点）、persuasive evidence、a persuasive essay（议论文、劝说文）。\n同义：convincing、compelling、cogent（更学术）。\n发音：per-SWAY-siv，重音在第二音节。",
+  "ex": "The lawyer presented a persuasive argument that convinced the jury of her client's innocence.",
+  "exCn": "律师提出了一个有说服力的论点，让陪审团相信她的当事人是无辜的。",
+  "pte": "拼写 d 变 s：persuade → persuasive。同义 convincing、compelling。",
+  "tags": "#拖延症 #同义替换",
+  "cm": [
+   [
+    "拖延晚期",
+    "说服自己失败第100次",
+    "1.5w"
+   ],
+   [
+    "法学生",
+    "persuasive 是律师的基本功",
+    "3456"
+   ],
+   [
+    "写作老师",
+    "compelling 也可以替换",
+    "2109"
+   ]
+  ]
+ }
+]
