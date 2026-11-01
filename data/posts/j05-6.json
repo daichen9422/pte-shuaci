@@ -1,0 +1,590 @@
+[
+ {
+  "w": "underscore",
+  "title": "这次失利 underscore 了一件事：模板不是万能的",
+  "line": "划重点",
+  "stk": "🖊️",
+  "body": "under（在下面）+ score（划痕、刻线）= 在下面划线 → 划下划线；比喻为“强调、突出”。\n比喻义在新闻和学术写作里很常见：The report underscores the need for urgent action（报告强调了立即行动的必要性）。\n同义替换：underline、highlight、emphasise、stress。\n名词 underscore 在电脑里指下划线符号 _，比如文件名 my_essay_final.docx。",
+  "ex": "The latest figures underscore the importance of investing in early childhood education.",
+  "exCn": "最新数据凸显了投资幼儿教育的重要性。",
+  "pte": "同义 underline、highlight、emphasise。",
+  "tags": "#学术写作 #同义替换",
+  "cm": [
+   [
+    "写作模板党",
+    "下次换个思路写",
+    "6789"
+   ],
+   [
+    "程序员",
+    "变量名全是 underscore",
+    "3456"
+   ],
+   [
+    "新闻专业",
+    "underscore the need 太好用了",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "webcast",
+  "title": "凌晨三点爬起来看发布会 webcast",
+  "line": "在线直播",
+  "stk": "📡",
+  "body": "web（网络）+ broadcast（广播）= 网络广播、网络直播，名词动词同形。\n过去式和过去分词一般也是 webcast（和 broadcast 一样），也有人写 webcasted。\n常见用法：a live webcast（网络直播）、The conference will be webcast（会议将进行网络直播）。\n同类合成词：podcast（播客）、livestream（直播）、telecast（电视广播）。\n时差党的日常：国内的发布会、海外的颁奖典礼，都靠 webcast，于是作息越来越乱。",
+  "ex": "The lecture will be webcast live so that students who cannot attend can watch it online.",
+  "exCn": "这场讲座将进行网络直播，以便无法到场的学生可以在线观看。",
+  "pte": "过去式常与原形同形 webcast。",
+  "tags": "#时差党 #合成词",
+  "cm": [
+   [
+    "熬夜看直播",
+    "第二天课上睡着了",
+    "8765"
+   ],
+   [
+    "播客主播",
+    "podcast 也是 broadcast 变来的",
+    "3456"
+   ],
+   [
+    "语法控",
+    "webcast 过去式和原形一样",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "chimpanzee",
+  "title": "chimpanzee 和人类的 DNA 相似度有多高",
+  "line": "最近的亲戚",
+  "stk": "🐒",
+  "body": "chimpanzee = 黑猩猩，英语里的这个词借自非洲的班图语系语言。重音在最后：chim-pan-ZEE。\n黑猩猩和倭黑猩猩 bonobo 是与人类亲缘关系最近的现存物种，常被引用的基因组相似度约为 98%～99%。\n它们会使用工具：用草茎钓白蚁、用石头砸坚果，这一发现改变了人们对“只有人类会用工具”的看法。\n口语里常简称 chimp。",
+  "ex": "Researchers observed wild chimpanzees using sticks to extract termites from their nests.",
+  "exCn": "研究人员观察到野生黑猩猩用树枝把白蚁从巢穴中掏出来。",
+  "pte": "重音 chim-pan-ZEE。简称 chimp。",
+  "tags": "#动物行为 #进化论",
+  "cm": [
+   [
+    "人类学",
+    "用工具这段是课本经典",
+    "4567"
+   ],
+   [
+    "动物园常客",
+    "它们真的很聪明",
+    "3456"
+   ],
+   [
+    "发音党",
+    "重音在最后才对",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "comprehensively",
+  "title": "comprehensively 不等于“理解地”",
+  "line": "全面不是理解",
+  "stk": "📖",
+  "body": "comprehensive（全面的、综合的）+ ly = 全面地、彻底地。\n易混：comprehensive（全面的）vs comprehensible（可理解的）vs comprehension（理解）。它们都来自拉丁语 comprehendere（抓住、包含），一个偏“包含得全”，一个偏“理解得了”。\n常见搭配：comprehensively reviewed（全面审查）、comprehensively beaten（英式体育报道里的“被彻底击败”）。\n复习时 comprehensively 过一遍知识点，比反复刷同一套题更扎实。",
+  "ex": "The new policy has been comprehensively reviewed by experts before being introduced next year.",
+  "exCn": "这项新政策在明年实施前已由专家进行了全面审查。",
+  "pte": "易混 comprehensive / comprehensible。",
+  "tags": "#易混词 #复习方法",
+  "cm": [
+   [
+    "阅读苦手",
+    "reading comprehension 我最怕",
+    "6789"
+   ],
+   [
+    "球迷",
+    "comprehensively beaten 太惨了",
+    "3456"
+   ],
+   [
+    "词根控",
+    "comprehend 原意是抓住",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "sonnet",
+  "title": "莎翁写了 154 首 sonnet，我一首也背不下",
+  "line": "十四行情书",
+  "stk": "🌹",
+  "body": "sonnet = 十四行诗，来自意大利语 sonetto（小歌），起源于中世纪意大利。\n结构：14 行，有固定的押韵格式。英语十四行诗常用 iambic pentameter（抑扬格五音步），每行十个音节、轻重交替。\n莎士比亚一共写了 154 首十四行诗，最出名的是第 18 首：Shall I compare thee to a summer's day?\n现代人写情书发微信，莎翁写十四行诗，浪漫程度差了一个文艺复兴。",
+  "ex": "Shakespeare's sonnets explore themes of love, beauty and the passage of time.",
+  "exCn": "莎士比亚的十四行诗探讨了爱情、美与时光流逝等主题。",
+  "pte": "拼写 sonnet，双 n。",
+  "tags": "#英国文学 #浪漫",
+  "cm": [
+   [
+    "英文系",
+    "Sonnet 18 背到吐",
+    "8765"
+   ],
+   [
+    "文艺青年",
+    "summer's day 太美了",
+    "4567"
+   ],
+   [
+    "理科生",
+    "抑扬格五音步是什么",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "businesswoman",
+  "title": "businesswoman 的复数，读音会变",
+  "line": "女老板",
+  "stk": "👩‍💼",
+  "body": "business（商业）+ woman（女人）= 女商人、女企业家。\n复数 businesswomen：拼写只改一个字母，但读音变了，women 读 /ˈwɪmɪn/，第一个音节像 wim。\n拼写陷阱：business 是 busi-ness，中间是 i，结尾双 s，很多人写成 buisness。\n现在越来越多人用中性词 businessperson 或 business leader，不强调性别。",
+  "ex": "The successful businesswoman founded her first company while still studying at university.",
+  "exCn": "这位成功的女企业家还在读大学时就创办了她的第一家公司。",
+  "pte": "复数 businesswomen 读 /ˈwɪmɪn/。",
+  "tags": "#发音陷阱 #拼写陷阱",
+  "cm": [
+   [
+    "创业中",
+    "目标是成为 businesswoman",
+    "6789"
+   ],
+   [
+    "拼写苦手",
+    "buisness 是我本人",
+    "4567"
+   ],
+   [
+    "发音党",
+    "women 的 o 读 i 好神奇",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "cautionary",
+  "title": "每个留学生都听过的 cautionary tale：别信便宜房",
+  "line": "前车之鉴",
+  "stk": "⚠️",
+  "body": "caution（小心、警告）+ ary = 警告的、劝诫的。\n最经典搭配：a cautionary tale（警世故事、前车之鉴），讲一个人犯错的经历，提醒别人别重蹈覆辙。\n易混：precautionary（预防的）强调提前采取措施；cautionary 强调用来提醒、警示。\n留学生圈的 cautionary tale：看到市中心超便宜的房子，没看房就转了押金，结果房东消失了。",
+  "ex": "His story serves as a cautionary tale about the risks of investing without proper research.",
+  "exCn": "他的故事是一个警示，提醒人们在未做充分调查就投资的风险。",
+  "pte": "搭配 a cautionary tale。易混 precautionary。",
+  "tags": "#租房防骗 #易混词",
+  "cm": [
+   [
+    "差点被骗",
+    "没看房绝对别转钱",
+    "1.2w"
+   ],
+   [
+    "文学系",
+    "cautionary tale 是童话母题",
+    "3456"
+   ],
+   [
+    "中介",
+    "真房源都要看房的",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "chimp",
+  "title": "chimp 和 chump 只差一个字母，意思差很远",
+  "line": "别叫错了",
+  "stk": "🐵",
+  "body": "chimp 是 chimpanzee（黑猩猩）的口语简称，复数 chimps，新闻标题里因为短而常见。\n易混：chump（笨蛋、傻瓜）只差一个元音，口语里骂人用的，别拼错。\n生活中也有人用 chimp 打趣“调皮捣蛋的小孩”，但更常见的还是指动物本身。\n动物园里看黑猩猩，它们也在看你：互相观察，谁更像谁。",
+  "ex": "Young chimps learn how to crack nuts by carefully watching older members of their group.",
+  "exCn": "小黑猩猩通过仔细观察群体中年长的成员来学习如何敲开坚果。",
+  "pte": "chimpanzee 的简称。易混 chump（笨蛋）。",
+  "tags": "#动物行为 #易混词",
+  "cm": [
+   [
+    "动物园年卡",
+    "它们看我的眼神很嫌弃",
+    "6789"
+   ],
+   [
+    "拼写党",
+    "chimp chump 差一个字母",
+    "3456"
+   ],
+   [
+    "生物系",
+    "敲坚果是代际学习",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "dissipate",
+  "title": "交完 essay 之后，所有焦虑瞬间 dissipate",
+  "line": "烟消云散",
+  "stk": "🌫️",
+  "body": "来自拉丁语 dissipare（驱散、分散）→ （使）消散、驱散；浪费、挥霍。\n常见用法：the fog dissipated（雾散了）、dissipate heat（散热）、the tension dissipated（紧张气氛消散了）、dissipate one's fortune（挥霍家产）。\n拼写陷阱：dis-si-pate，双 s 单 p，不是 disipate 也不是 dissippate。\n点下 Submit 的那一刻，压了两周的焦虑就像晨雾一样 dissipate 了，然后想起下周还有一篇。",
+  "ex": "The morning fog dissipated quickly as the sun rose over the harbour.",
+  "exCn": "随着太阳从港湾上空升起，晨雾很快散去了。",
+  "pte": "拼写双 s 单 p。同义 disperse、fade。",
+  "tags": "#交作业 #拼写陷阱",
+  "cm": [
+   [
+    "刚交完",
+    "下一篇已经在路上",
+    "1.1w"
+   ],
+   [
+    "电子工程",
+    "散热 dissipate heat 天天用",
+    "3456"
+   ],
+   [
+    "拼写党",
+    "双 s 单 p 记住了",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "encode",
+  "title": "背单词就是把单词 encode 进大脑",
+  "line": "存进脑子",
+  "stk": "🧬",
+  "body": "en（使）+ code（代码）= 把……编成代码 → 编码、加密。反义 decode（解码）。\n生物学：genes encode proteins（基因编码蛋白质），DNA 里的序列决定了身体要合成什么。\n心理学：记忆分三步——encoding（编码）、storage（储存）、retrieval（提取）。背单词时联想、造句、讲给别人听，都是在加强 encoding。\n计算机：encode a video（视频编码），格式不同文件大小差很多。",
+  "ex": "Each gene contains instructions that encode a specific protein needed by the body.",
+  "exCn": "每个基因都包含编码身体所需特定蛋白质的指令。",
+  "pte": "反义 decode。名词 encoding。",
+  "tags": "#记忆方法 #反义词",
+  "cm": [
+   [
+    "心理学",
+    "encoding storage retrieval 三步",
+    "4567"
+   ],
+   [
+    "生物系",
+    "gene encodes protein 考试原题",
+    "3456"
+   ],
+   [
+    "背单词",
+    "我的 encoding 总是失败",
+    "6789"
+   ]
+  ]
+ },
+ {
+  "w": "foaming",
+  "title": "被室友气到 foaming at the mouth",
+  "line": "气到冒泡",
+  "stk": "🫧",
+  "body": "foam（泡沫）作动词是“起泡沫”，foaming 是它的 -ing 形式，也作形容词“起泡的”：a foaming cleanser（泡沫洁面乳）、foaming waves（泛着白沫的海浪）。\n经典习语：foaming at the mouth，字面是“口吐白沫”，比喻“气得暴跳如雷”。\n同类词：bubble（气泡）、froth（泡沫，常指啤酒、咖啡上的那层）。\n室友第三次凌晨两点在厨房煮泡面，还把锅留在水池里，你已经 foaming at the mouth 了。",
+  "ex": "The foaming waves crashed against the rocks as the storm moved closer to the coast.",
+  "exCn": "随着风暴逼近海岸，泛着白沫的海浪拍打着礁石。",
+  "pte": "习语 foaming at the mouth（暴怒）。",
+  "tags": "#室友日常 #英语习语",
+  "cm": [
+   [
+    "合租受害者",
+    "泡面锅三天没洗",
+    "1.0w"
+   ],
+   [
+    "咖啡师",
+    "froth 是奶泡",
+    "3456"
+   ],
+   [
+    "护肤党",
+    "foaming cleanser 洗得很干净",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "gleaned",
+  "title": "从学长那里 gleaned 来的选课秘籍",
+  "line": "一点点收集",
+  "stk": "🌾",
+  "body": "glean 原意是“拾落穗”：收割之后，在田里一点点捡拾剩下的麦穗。gleaned 是它的过去式和过去分词。米勒的名画《拾穗者》英文就叫 The Gleaners。\n比喻义：（费力地、一点点地）收集信息、资料。\n固定搭配：glean sth from sth / sb（从……中搜集到……）：information gleaned from interviews。\n选课季，从学长学姐、Reddit、课程评价里一点点 glean 到的信息，比课程手册有用多了。",
+  "ex": "Much of the information was gleaned from interviews with former employees of the company.",
+  "exCn": "大部分信息是从对该公司前员工的采访中收集到的。",
+  "pte": "搭配 glean sth from sth。",
+  "tags": "#选课攻略 #固定搭配",
+  "cm": [
+   [
+    "选课达人",
+    "学长的话比手册准",
+    "6789"
+   ],
+   [
+    "艺术史",
+    "《拾穗者》终于有英文名了",
+    "3456"
+   ],
+   [
+    "新闻专业",
+    "gleaned from interviews 写稿必用",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "integrative",
+  "title": "跨学科课程的 integrative 作业，比单科难三倍",
+  "line": "揉在一起",
+  "stk": "🧩",
+  "body": "integrate（整合、融合）+ ive = 综合的、整合的、一体化的。\n重音在第一音节：IN-te-gra-tive，和 integrate 一样。\n常见搭配：an integrative approach（综合方法）、integrative medicine（整合医学，结合常规医学和其他疗法）、integrative review（综合性文献综述）。\n近义词：integrated（已整合的）、holistic（整体的）。integrative 强调“起整合作用的”。",
+  "ex": "The course takes an integrative approach, combining ideas from biology, psychology and sociology.",
+  "exCn": "这门课程采用综合的方法，融合了生物学、心理学和社会学的观点。",
+  "pte": "重音 IN-te-gra-tive。近义 holistic。",
+  "tags": "#跨学科 #发音重音",
+  "cm": [
+   [
+    "公共卫生",
+    "integrative review 写了一学期",
+    "4567"
+   ],
+   [
+    "发音党",
+    "重音在第一个音节",
+    "3456"
+   ],
+   [
+    "跨专业生",
+    "三门课的知识揉成一篇作业",
+    "6789"
+   ]
+  ]
+ },
+ {
+  "w": "subspecies",
+  "title": "东北虎和孟加拉虎是不同 subspecies 吗",
+  "line": "同种不同支",
+  "stk": "🐯",
+  "body": "sub（下一级）+ species（物种）= 亚种，指同一物种内部、因地理隔离而形成的不同类群。\n例：孟加拉虎和东北虎传统上被列为虎的不同亚种，不过近年的分类研究对虎的亚种划分做过调整，可见亚种的界限本身就有争议。\n单复数同形：one subspecies、two subspecies。species 本身也是单复数同形，结尾的 s 不是复数标志。\n生物分类从大到小：kingdom（界）、phylum（门）、class（纲）、order（目）、family（科）、genus（属）、species（种）。",
+  "ex": "Several subspecies of tiger have already become extinct because of hunting and habitat loss.",
+  "exCn": "由于狩猎和栖息地丧失，好几个老虎亚种已经灭绝。",
+  "pte": "单复数同形。species 结尾 s 不是复数。",
+  "tags": "#生物分类 #单复数",
+  "cm": [
+   [
+    "生物系",
+    "界门纲目科属种背到吐",
+    "6789"
+   ],
+   [
+    "语法控",
+    "one species 不是 one specie",
+    "4567"
+   ],
+   [
+    "老虎粉",
+    "希望它们都能活下去",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "trickery",
+  "title": "冒充税务局的诈骗电话，全是 trickery",
+  "line": "套路满满",
+  "stk": "🎭",
+  "body": "trick（诡计、把戏）+ ery（表示行为、性质）= 欺骗、诡计、耍花招，不可数。\n常见搭配：use trickery（使用诡计）、by trickery、trickery and deceit（欺骗和诡诈）。\n澳洲常见骗局：冒充 ATO（澳洲税务局）打电话说你欠税，要你用礼品卡付款。记住：正规机构不会用礼品卡收钱。\n同义：deception、fraud、deceit。trick 本身不一定是坏事，magic tricks 就是魔术。",
+  "ex": "The fraudsters used trickery to persuade elderly residents to hand over their bank details.",
+  "exCn": "诈骗分子用诡计诱使老年居民交出他们的银行信息。",
+  "pte": "不可数。同义 deception、deceit。",
+  "tags": "#防骗指南 #澳洲生活",
+  "cm": [
+   [
+    "差点被骗",
+    "说我欠税要礼品卡",
+    "1.3w"
+   ],
+   [
+    "银行柜员",
+    "这种我们每周都遇到",
+    "4567"
+   ],
+   [
+    "魔术爱好者",
+    "trick 也有好的",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "altruism",
+  "title": "室友半夜帮我改简历，这才是 altruism",
+  "line": "利他之心",
+  "stk": "🤝",
+  "body": "altruism = 利他主义，由法国哲学家孔德创造，来自意大利语 altrui（他人的），可以追溯到拉丁语 alter（另一个），和 alternative、alter 同源。\n形容词 altruistic（利他的、无私的），人 altruist。反义 egoism、selfishness。\n生物学有个经典话题：为什么动物会有 altruistic behaviour，比如工蜂为蜂群牺牲？这涉及亲缘选择 kin selection 理论。\n凌晨一点室友帮你改简历，还不收一顿饭，这就是日常里的 altruism。",
+  "ex": "Some scientists argue that altruism evolved because it helped groups survive in difficult environments.",
+  "exCn": "一些科学家认为，利他主义之所以会进化出来，是因为它帮助群体在恶劣环境中生存。",
+  "pte": "形容词 altruistic。反义 egoism。",
+  "tags": "#室友情 #词根词缀",
+  "cm": [
+   [
+    "好室友",
+    "下次请我吃饭就行",
+    "8765"
+   ],
+   [
+    "生物系",
+    "kin selection 是期末大题",
+    "3456"
+   ],
+   [
+    "哲学系",
+    "孔德造的词，冷知识",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "assemblage",
+  "title": "画廊里的 assemblage 艺术：一堆废品也能成作品",
+  "line": "拼凑出艺术",
+  "stk": "🎨",
+  "body": "assemble（聚集、组装）+ age = 集合、聚集、一批（人或物）。\n读音：/əˈsemblɪdʒ/，重音在第二音节，结尾 -age 读 /ɪdʒ/；作艺术术语时也常按法语读。\n学术里常见：an assemblage of species（物种组合）、an assemblage of fossils（化石群）、an assemblage of people。\n艺术里，assemblage 是一种把日常物件、废弃材料拼合成立体作品的创作形式。在当代美术馆，一把旧椅子、几个瓶盖，可能就是一件 assemblage。",
+  "ex": "The museum displays an assemblage of fossils collected from ancient lake beds in the region.",
+  "exCn": "博物馆展出了从该地区古代湖床中采集的一组化石。",
+  "pte": "一般读 /əˈsemblɪdʒ/。同义 collection。",
+  "tags": "#看展日常 #学术词汇",
+  "cm": [
+   [
+    "美术馆常客",
+    "看不懂但大受震撼",
+    "8765"
+   ],
+   [
+    "古生物",
+    "fossil assemblage 论文常见",
+    "3456"
+   ],
+   [
+    "艺术生",
+    "废品拼起来也是创作",
+    "2345"
+   ]
+  ]
+ },
+ {
+  "w": "communicative",
+  "title": "面试官说我很 communicative，是夸我能说吗",
+  "line": "会沟通",
+  "stk": "📞",
+  "body": "communicate（交流）+ ive = 交际的、交流的；爱说话的、乐于沟通的。\n重音在第二音节：com-MU-ni-ca-tive，别读成 com-mu-ni-CA-tive。\n常见搭配：communicative skills（沟通能力）、communicative competence（交际能力）、the communicative approach（交际教学法，语言教学中强调实际交流的方法）。\n面试反馈 very communicative，意思是你能清楚表达、主动沟通，属于好评。",
+  "ex": "Employers increasingly value graduates who are communicative and able to work well in teams.",
+  "exCn": "雇主越来越看重善于沟通、能在团队中良好合作的毕业生。",
+  "pte": "重音 com-MU-ni-ca-tive。",
+  "tags": "#求职面试 #发音重音",
+  "cm": [
+   [
+    "刚拿 offer",
+    "面试官原话就是这个",
+    "6789"
+   ],
+   [
+    "语言学",
+    "communicative approach 是教学法",
+    "3456"
+   ],
+   [
+    "社恐面试",
+    "我的 communicative 是装的",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "connotation",
+  "title": "cheap 和 inexpensive 差在 connotation",
+  "line": "言外之意",
+  "stk": "🗯️",
+  "body": "con（一起）+ notation（标记，来自拉丁语 notare）= 一起附带的标记 → 内涵、隐含意义、联想意义。\n对应词 denotation（字面意义、本义）。比如 cheap 和 inexpensive 本义都是“便宜”，但 cheap 常带“廉价、质量差”的负面 connotation。\n常见搭配：positive / negative connotations（褒义 / 贬义色彩）、have connotations of sth。\n写作时选词要看 connotation：说一个人 slim 是夸，说 skinny 可能就不太好听了。",
+  "ex": "The word has negative connotations for many people, so writers often choose a more neutral term.",
+  "exCn": "这个词对许多人来说带有负面含义，因此作者常常选择一个更中性的词。",
+  "pte": "对应 denotation。搭配 negative connotations。",
+  "tags": "#写作选词 #褒贬色彩",
+  "cm": [
+   [
+    "语言学",
+    "denotation 和 connotation 要一起记",
+    "4567"
+   ],
+   [
+    "健身党",
+    "slim 和 skinny 差远了",
+    "6789"
+   ],
+   [
+    "写作8分",
+    "选词注意感情色彩",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "disqualify",
+  "title": "抢跑一次就被 disqualify，短跑选手有多紧张",
+  "line": "一步出局",
+  "stk": "🏁",
+  "body": "dis（否定）+ qualify（使有资格）= 取消……的资格、使不合格。\n常见搭配：be disqualified from sth（被取消……的资格）、disqualify sb for doing sth。\n名词 disqualification，体育里常简写为 DQ。\n田径短跑现行规则：一次抢跑 false start 就会被直接取消资格。比赛场上那零点几秒的紧张，比考场还刺激。",
+  "ex": "The athlete was disqualified from the race after failing a drug test before the final.",
+  "exCn": "这名运动员在决赛前药检未通过，被取消了比赛资格。",
+  "pte": "搭配 be disqualified from sth。",
+  "tags": "#体育赛事 #固定搭配",
+  "cm": [
+   [
+    "田径迷",
+    "一次抢跑就 DQ 太残酷",
+    "6789"
+   ],
+   [
+    "游泳队",
+    "我们也有 DQ",
+    "3456"
+   ],
+   [
+    "考场紧张党",
+    "考 PTE 也是这种心跳",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "orbiter",
+  "title": "火星上的 orbiter、lander 和 rover 怎么分",
+  "line": "绕着转的",
+  "stk": "🛰️",
+  "body": "orbit（轨道；绕轨道运行）+ er = 轨道飞行器、人造卫星、绕行物。\n探测器三兄弟：orbiter 绕着行星转、在轨道上拍照和测量；lander 降落在表面不动；rover 是会跑的巡视车。\n真实例子：NASA 的 Mars Reconnaissance Orbiter（火星勘测轨道飞行器）多年来一直在绕火星飞行，拍摄高清地表图像。\n航天飞机系统中，载人的那部分也叫 orbiter。",
+  "ex": "The orbiter has been sending detailed images of the planet's surface back to Earth for years.",
+  "exCn": "这台轨道飞行器多年来一直把该行星表面的详细图像传回地球。",
+  "pte": "易混 orbiter / lander / rover。",
+  "tags": "#航天科普 #易混词",
+  "cm": [
+   [
+    "航天迷",
+    "三兄弟终于分清了",
+    "6789"
+   ],
+   [
+    "物理系",
+    "orbit 动词名词同形",
+    "3456"
+   ],
+   [
+    "科幻迷",
+    "rover 最可爱",
+    "4567"
+   ]
+  ]
+ }
+]

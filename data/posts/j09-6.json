@@ -1,0 +1,562 @@
+[
+ {
+  "w": "pterosaur",
+  "title": "pterosaur 会飞，但它不是恐龙",
+  "line": "p 不发音",
+  "stk": "🦖",
+  "body": "希腊语 pteron（翅膀）+ sauros（蜥蜴）= 翼龙。\n发音陷阱：开头的 p 不发音，读 /ˈterəsɔː/。同样不发音的还有 pterodactyl（翼手龙）、psychology、pneumonia。\n冷知识：翼龙和恐龙生活在同一时代，但在分类上翼龙不属于恐龙（dinosaurs）。同样，海里的蛇颈龙也不是恐龙。\n-saur 家族：dinosaur（恐怖的蜥蜴）、Tyrannosaurus（暴君蜥蜴）。",
+  "ex": "Pterosaurs were flying reptiles that lived alongside the dinosaurs but were not dinosaurs themselves.",
+  "exCn": "翼龙是一类会飞的爬行动物，和恐龙生活在同一时代，但它们本身并不是恐龙。",
+  "pte": "发音：p 不发音 /ˈterəsɔː/。同类 pterodactyl、psychology。",
+  "tags": "#古生物 #发音陷阱",
+  "cm": [
+   [
+    "恐龙迷小朋友",
+    "我五岁就知道翼龙不是恐龙",
+    "5678"
+   ],
+   [
+    "发音纠察",
+    "p 不读，记住了",
+    "2345"
+   ],
+   [
+    "博物馆讲解员",
+    "每天要纠正十次",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "mitochondrion",
+  "title": "mitochondrion：细胞的发电站，也是复数陷阱",
+  "line": "细胞充电宝",
+  "stk": "🔋",
+  "body": "mitochondrion（线粒体）是单数，复数是 mitochondria。很多人把 mitochondria 当单数用，这是易错点。\n词源：希腊语 mitos（线）+ chondrion（小颗粒）。显微镜下它像线又像颗粒。\n网络梗：“The mitochondria is the powerhouse of the cell”，生物课必背，语法上应该是 mitochondrion is 或 mitochondria are。\n形容词 mitochondrial：mitochondrial DNA 一般只从母亲遗传。",
+  "ex": "Each mitochondrion produces energy for the cell by converting nutrients into a molecule called ATP.",
+  "exCn": "每个线粒体都通过把养分转化为一种叫 ATP 的分子，为细胞提供能量。",
+  "pte": "单数 mitochondrion / 复数 mitochondria。形容词 mitochondrial。",
+  "tags": "#生物梗 #不规则复数",
+  "cm": [
+   [
+    "生物课代表",
+    "powerhouse of the cell 刻在 DNA 里",
+    "1.1w"
+   ],
+   [
+    "语法控",
+    "终于知道单数了",
+    "2345"
+   ],
+   [
+    "困成狗",
+    "我的线粒体今天罢工",
+    "4567"
+   ]
+  ]
+ },
+ {
+  "w": "edger",
+  "title": "澳洲 suburb 周末标配：割草机加一台 edger",
+  "line": "草坪修个边",
+  "stk": "🌱",
+  "body": "edge（边缘）+ -er = 修边机、切边器。在澳洲最常见的是 lawn edger：把草坪和人行道、花坛的交界修得整整齐齐。\n工业里 edger 还指木材加工的修边机、磨边机。\n住 house 的留学生周末常见任务：割草（mow the lawn）、修边（edge the lawn）、吹落叶（leaf blower）。\nedge 作动词也很常用：edge the lawn（给草坪修边）、edge closer（慢慢靠近）。",
+  "ex": "Many homeowners use an electric edger to give their lawns a neat border along the footpath.",
+  "exCn": "许多房主会用电动修边机，让草坪沿着人行道的边缘整整齐齐。",
+  "pte": "构词 edge + -er。动词 edge：修边；edge closer 慢慢靠近。",
+  "tags": "#澳洲house #周末劳动",
+  "cm": [
+   [
+    "住house的",
+    "周末早上八点邻居就开始了",
+    "7654"
+   ],
+   [
+    "Bunnings店员",
+    "edger 每到春天就卖疯",
+    "2345"
+   ],
+   [
+    "公寓党",
+    "庆幸我没有草坪",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "grassroot",
+  "title": "grassroot 一般写 grassroots，从草根开始",
+  "line": "从下往上",
+  "stk": "🌾",
+  "body": "grass（草）+ root（根）= 草根，指普通民众、基层。\n注意：最常见的写法是带 s 的 grassroots，作名词时是 the grassroots，作形容词也常保留 s：a grassroots movement（草根运动）、grassroots support（基层支持）。grassroot 是少见的写法。\n反义：top-down（自上而下），grassroots 是 bottom-up（自下而上）。\n很多社区运动、体育俱乐部都是 grassroots 起家的。",
+  "ex": "The campaign began as a grassroots movement organised by local parents and teachers.",
+  "exCn": "这项运动最初是由当地家长和老师组织的草根运动。",
+  "pte": "常写 grassroots（带 s）。同义 bottom-up；反义 top-down。",
+  "tags": "#社区力量 #拼写变体",
+  "cm": [
+   [
+    "社区足球教练",
+    "grassroots football 就是我们",
+    "3456"
+   ],
+   [
+    "社会学",
+    "bottom-up 写论文好用",
+    "2345"
+   ],
+   [
+    "拼写党",
+    "带 s 才是常见写法",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "largess",
+  "title": "largess 还是 largesse？两种都对",
+  "line": "慷慨解囊",
+  "stk": "🎁",
+  "body": "largess 也拼作 largesse（英式更常见），意思是慷慨的赠予、施舍、慷慨大方。\n词源：古法语 largesse，来自拉丁语 largus（慷慨的、大量的），英语的 large 也来自 largus。\n常见搭配：the largesse of a wealthy donor（富有捐赠者的慷慨），government largesse（政府撒钱，有时带点讽刺）。\n发音：/lɑːˈdʒes/，重音在第二音节。",
+  "ex": "The museum's new wing was funded through the largesse of a wealthy local family.",
+  "exCn": "博物馆的新翼楼是靠当地一个富裕家族的慷慨捐赠建成的。",
+  "pte": "拼写 largess / largesse。重音在第二音节。同根 large。",
+  "tags": "#拼写变体 #词源冷知识",
+  "cm": [
+   [
+    "博物馆志愿者",
+    "捐赠墙上全是名字",
+    "2345"
+   ],
+   [
+    "室友",
+    "我的 largesse 是分你半包薯片",
+    "5678"
+   ],
+   [
+    "词源控",
+    "large 原来是慷慨",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "outwork",
+  "title": "outwork 是在家接的活，不是 outdoor work",
+  "line": "厂外的活",
+  "stk": "🧵",
+  "body": "名词 outwork：①在工厂外（通常在家）完成的工作、外包计件活，做这种工作的人叫 outworker；②军事上的外围工事。\n在澳洲，服装纺织行业的 outworkers 受专门法规保护，历史上她们常常在家按件缝衣服，报酬很低。\n动词 outwork（重音在后）：比……更努力工作：She outworked everyone in the team.\nout- 动词前缀“胜过”：outrun、outperform、outsmart。",
+  "ex": "In the clothing industry, much of the sewing was once done as outwork by women in their own homes.",
+  "exCn": "在服装行业，过去很多缝纫活都是女工在自己家里以外包计件的形式完成的。",
+  "pte": "名词：外包活；动词：比……更努力。out- 前缀表“胜过”。",
+  "tags": "#劳动权益 #一词多义",
+  "cm": [
+   [
+    "劳动法学生",
+    "outworker 保护条款真的有",
+    "2345"
+   ],
+   [
+    "卷王同事",
+    "他 outwork 了整个部门",
+    "4567"
+   ],
+   [
+    "裁缝奶奶",
+    "以前我也在家接活",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "arbitrated",
+  "title": "和房东吵到 arbitrated，最后谁赢了？",
+  "line": "找第三方评理",
+  "stk": "⚖️",
+  "body": "arbitrate（仲裁、公断）的过去式和过去分词。来自拉丁语 arbiter（裁判者）。\n同根词：arbiter（仲裁人、权威）、arbitration（仲裁）、arbitrary（任意的、武断的，原意是“由裁判者随意决定的”）。\n易混：arbitration 是第三方作出有约束力的裁决；mediation（调解）只是帮双方协商，没有强制性。\n澳洲租房纠纷一般先找各州的 tribunal，比如新州 NCAT、维州 VCAT。",
+  "ex": "The dispute was arbitrated by an independent panel, whose decision was binding on both parties.",
+  "exCn": "这起纠纷由一个独立的小组进行仲裁，其裁决对双方都有约束力。",
+  "pte": "同根 arbiter / arbitrary。辨析 arbitration vs mediation。重音在第一音节。",
+  "tags": "#租房纠纷 #易混词",
+  "cm": [
+   [
+    "押金被扣",
+    "去了 tribunal 拿回来了",
+    "6789"
+   ],
+   [
+    "法学生",
+    "arbitrary 原来是这么来的",
+    "2345"
+   ],
+   [
+    "HR",
+    "mediation 先试试",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "biocontrol",
+  "title": "甘蔗蟾蜍：澳洲最著名的 biocontrol 翻车现场",
+  "line": "以虫治虫",
+  "stk": "🐸",
+  "body": "bio-（生物）+ control（控制）= 生物防治，即 biological control：用天敌来控制害虫、杂草。\n成功案例：20 世纪 20 年代，澳洲引入仙人掌螟（Cactoblastis 蛾），大面积控制住了泛滥的仙人掌（prickly pear）。\n翻车案例：1935 年为了对付甘蔗甲虫引入的 cane toad（甘蔗蟾蜍），不但没管住甲虫，自己还泛滥成灾。\n所以 biocontrol 要做严格的风险评估。",
+  "ex": "The introduction of cane toads to Australia in 1935 is a well-known example of biocontrol going wrong.",
+  "exCn": "1935 年将甘蔗蟾蜍引入澳大利亚，是生物防治出错的著名例子。",
+  "pte": "全称 biological control。同义 biological pest control。",
+  "tags": "#澳洲生态 #环境话题",
+  "cm": [
+   [
+    "昆州本地人",
+    "晚上路上全是蟾蜍",
+    "8765"
+   ],
+   [
+    "生态学",
+    "仙人掌螟那次真的很成功",
+    "2345"
+   ],
+   [
+    "环境科学",
+    "风险评估太重要了",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "declamation",
+  "title": "declaim 变 declamation，那个 i 去哪了？",
+  "line": "慷慨陈词",
+  "stk": "🎤",
+  "body": "declaim：de-（加强）+ clamare（呼喊）= 慷慨激昂地朗诵、演讲。名词 declamation：朗诵、雄辩，有时带“夸张、做作”的意味。\n拼写陷阱：动词是 -claim，名词变成 -clamation，i 消失了！同一规律：exclaim → exclamation，proclaim → proclamation，acclaim → acclamation。\nclamare 家族还有 clamour（喧闹）。\n朗读题不需要 declamation 式的夸张，自然流畅就好。",
+  "ex": "The students practised the declamation of famous speeches to improve their public speaking skills.",
+  "exCn": "学生们练习朗诵著名演讲，以提高他们的公开演讲能力。",
+  "pte": "拼写：declaim → declamation（去 i）。同理 exclaim → exclamation。",
+  "tags": "#拼写陷阱 #演讲",
+  "cm": [
+   [
+    "拼写受害者",
+    "exclaimation 我写过",
+    "5678"
+   ],
+   [
+    "辩论社",
+    "declamation 比赛参加过",
+    "2345"
+   ],
+   [
+    "朗读党",
+    "太夸张反而扣分",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "undecorated",
+  "title": "澳洲租房白墙不能打钉，房间只能 undecorated",
+  "line": "白墙一面",
+  "stk": "🏠",
+  "body": "un-（未）+ decorated（装饰过的）= 未加装饰的、朴素的。\n建筑、艺术描述里很常见：a plain, undecorated interior（简洁无装饰的室内）。\n重音：decorate 是 DEC-o-rate，重音在第一音节；undecorated 是 un-DEC-o-ra-ted。\n澳洲租房合同常规定不能随便在墙上打钉，于是很多人用无痕挂钩。\n同义：plain、unadorned（更书面）、bare。",
+  "ex": "The interior of the chapel was plain and undecorated, reflecting the simple values of its builders.",
+  "exCn": "这座小教堂内部朴素无华，体现了建造者崇尚简朴的价值观。",
+  "pte": "重音在 -DEC-。同义 plain / unadorned。",
+  "tags": "#租房日常 #同义替换",
+  "cm": [
+   [
+    "租房党",
+    "无痕挂钩用了二十个",
+    "6789"
+   ],
+   [
+    "极简主义",
+    "undecorated 才是美",
+    "2345"
+   ],
+   [
+    "建筑系",
+    "unadorned 写论文更高级",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "legibly",
+  "title": "手写试卷请 legibly，阅卷老师看不懂就没分",
+  "line": "字写清楚",
+  "stk": "✍️",
+  "body": "legible（字迹清楚的、易读的）→ legibly（清楚地、易读地）。来自拉丁语 legere（阅读）。同根：lecture（讲座，原意是“朗读”）、legend（传说，原意是“要读的东西”）。\n反义：illegible（难以辨认的）。\n易混：eligible（有资格的）！legible / eligible 只差一个 e 开头，意思完全不同。\n手写考试时字写不清，老师 cannot read your answer，再好的观点也没用。",
+  "ex": "Candidates must write legibly, as examiners cannot award marks for answers they are unable to read.",
+  "exCn": "考生必须把字写清楚，因为考官无法给看不懂的答案打分。",
+  "pte": "易混 legible（易读的）vs eligible（有资格的）。反义 illegible。",
+  "tags": "#手写考试 #形近词",
+  "cm": [
+   [
+    "字丑星人",
+    "我的字只有我能看懂",
+    "9876"
+   ],
+   [
+    "阅卷老师",
+    "真的有看不懂的",
+    "3456"
+   ],
+   [
+    "签证申请",
+    "eligible 和 legible 差点看错",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "perplex",
+  "title": "这道阅读题 perplex 了全班",
+  "line": "一脸问号",
+  "stk": "❓",
+  "body": "per-（完全）+ plexus（交织、缠绕）= 完全缠在一起 → 使困惑、使茫然。complex（复杂的）里也有 plex（编织）。\n形容词：perplexed（感到困惑的，形容人）、perplexing（令人困惑的，形容事物）。名词 perplexity。\n同义替换：puzzle、baffle、bewilder、confuse。程度上 baffle 和 bewilder 更强一点。\n阅读题看到四个选项都像对的，就是 perplexed 本人。",
+  "ex": "The unusual results perplexed the researchers, who had expected the opposite outcome.",
+  "exCn": "这些不寻常的结果让研究人员很困惑，因为他们原本预期的是相反的结果。",
+  "pte": "perplexed（人）/ perplexing（事）。同义 puzzle / baffle。",
+  "tags": "#阅读崩溃 #同义替换",
+  "cm": [
+   [
+    "四选一",
+    "每个选项都像对的",
+    "8765"
+   ],
+   [
+    "词根党",
+    "complex 也是 plex",
+    "2345"
+   ],
+   [
+    "研究生",
+    "实验结果天天 perplex 我",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "audaciously",
+  "title": "他 audaciously 在海港上方提议建一座玻璃桥",
+  "line": "胆子真大",
+  "stk": "🦁",
+  "body": "audacious（大胆的、敢于冒险的；也可指放肆的）→ audaciously。来自拉丁语 audax（大胆的），audere（敢）。名词 audacity。\n褒贬看语境：an audacious plan（大胆的计划，常偏褒义）；have the audacity to...（竟然有脸……，偏贬义）。\n同义：boldly、daringly；贬义近义 brazenly、impudently。\n发音：au-DAY-shus-ly，重音在第二音节。",
+  "ex": "The young architect audaciously proposed building a glass bridge across the entire harbour.",
+  "exCn": "这位年轻建筑师大胆地提议在整个海港上建一座玻璃桥。",
+  "pte": "褒贬看语境。名词 audacity。同义 boldly / daringly。重音 -DAY-。",
+  "tags": "#大胆创新 #褒贬词",
+  "cm": [
+   [
+    "悉尼人",
+    "Harbour Bridge 表示压力很大",
+    "4567"
+   ],
+   [
+    "建筑系",
+    "方案越大胆越容易被毙",
+    "2345"
+   ],
+   [
+    "吐槽达人",
+    "he had the audacity 是我的口头禅",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "individualization",
+  "title": "individualization：英文版因材施教",
+  "line": "每人一套方案",
+  "stk": "🎯",
+  "body": "individual + -ize + -ation = 个性化、个体化。动词 individualize（英式 individualise）。\n教育里：the individualization of learning（学习个性化），让教学适应每个学生的节奏和兴趣，有点像“因材施教”。\n医疗里也有类似的 personalized medicine（个性化医疗）。\n同义替换：personalization、customization（定制）、tailoring（量身定做）。",
+  "ex": "The individualization of learning allows teachers to adapt lessons to each student's pace and interests.",
+  "exCn": "学习的个性化让教师能够根据每个学生的节奏和兴趣调整课程。",
+  "pte": "同义替换 personalization / customization。动词 individualize。",
+  "tags": "#因材施教 #长单词",
+  "cm": [
+   [
+    "教育学",
+    "differentiated instruction 也相关",
+    "2345"
+   ],
+   [
+    "长词恐惧",
+    "拆开记就不怕",
+    "3456"
+   ],
+   [
+    "学生家长",
+    "希望学校真能做到",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "wallboard",
+  "title": "wallboard 一拳一个洞？其实是 plasterboard",
+  "line": "墙里是空的",
+  "stk": "🧱",
+  "body": "wall（墙）+ board（板）= 墙板、壁板，主要指石膏板。\n不同地区叫法不同：美式常说 drywall 或 wallboard，澳洲和英国多说 plasterboard。\n澳洲很多房子室内墙是木框架加石膏板，敲上去声音是空的，挂重物要找到后面的木龙骨（stud）。\n墙板之间的接缝用胶带和石膏腻子处理后再刷漆。",
+  "ex": "Builders installed wallboard over the timber frame before painting the interior of the house.",
+  "exCn": "建筑工人在木框架外装上墙板，然后才粉刷房子的内部。",
+  "pte": "同义 drywall（美）/ plasterboard（澳英）。",
+  "tags": "#澳洲房子 #英美差异",
+  "cm": [
+   [
+    "挂电视失败",
+    "没找到 stud，电视掉了",
+    "7654"
+   ],
+   [
+    "装修工人",
+    "plasterboard 澳洲最常见",
+    "2345"
+   ],
+   [
+    "新房东",
+    "墙一敲就是空的",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "ikebana",
+  "title": "ikebana：三枝花就能撑起一个空间",
+  "line": "留白之美",
+  "stk": "💐",
+  "body": "ikebana 是日本花道，日语“生け花”：ikeru（使花保持鲜活、插花）+ hana（花，组合后音变为 bana）。\n和西方花艺讲究丰满不同，ikebana 强调线条、留白、不对称和季节感，常常只用寥寥几枝。\n英语里作为外来词，小写、不可数：She studies ikebana.\n同类日语借词：bonsai（盆景）、origami（折纸）。",
+  "ex": "Ikebana emphasises balance and simplicity, often using only a few carefully chosen stems and branches.",
+  "exCn": "日本花道注重平衡与简约，常常只用几枝精心挑选的花茎和枝条。",
+  "pte": "外来词，不可数。同类 bonsai、origami。",
+  "tags": "#日本文化 #外来词",
+  "cm": [
+   [
+    "花艺课学员",
+    "三枝花插了两小时",
+    "3456"
+   ],
+   [
+    "极简主义",
+    "留白最难",
+    "2345"
+   ],
+   [
+    "日语学习",
+    "hana 变 bana 是连浊",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "millenarian",
+  "title": "millennium 有两个 n，millenarian 只有一个",
+  "line": "千年之约",
+  "stk": "⏳",
+  "body": "millenarian：与千禧年相关的；相信世界将迎来巨变或理想时代的人。名词 millenarianism（千禧年主义）。\n拼写大坑：millennium（千年）是双 l 双 n，但 millenarian 是双 l 单 n！它来自拉丁语 millenarius（含一千的），本来就只有一个 n。\n词根 mille（千）：millimetre（毫米）、million。\n历史学里研究的 millenarian movements（千禧年运动），常与社会动荡时期的集体期盼有关。",
+  "ex": "The historian studied millenarian movements that predicted the world would be transformed at the turn of the century.",
+  "exCn": "这位历史学家研究了那些预言世界将在世纪之交发生剧变的千禧年运动。",
+  "pte": "拼写：millenarian 单 n；millennium 双 n。词根 mille（千）。",
+  "tags": "#拼写陷阱 #历史词汇",
+  "cm": [
+   [
+    "拼写强迫症",
+    "我已经晕了",
+    "4567"
+   ],
+   [
+    "历史系",
+    "千禧年运动是个大题目",
+    "2345"
+   ],
+   [
+    "2000年出生",
+    "我是 millennium baby",
+    "1234"
+   ]
+  ]
+ },
+ {
+  "w": "soymilk",
+  "title": "澳洲点咖啡说 soy，豆浆党也有春天",
+  "line": "换成豆奶",
+  "stk": "🥛",
+  "body": "soy（大豆）+ milk = 豆浆、豆奶。也写 soy milk，英式常说 soya milk。\n在澳洲咖啡店点单，说 a soy latte 就是豆奶拿铁，一般会加一点钱。别的植物奶还有 oat milk（燕麦奶）、almond milk（杏仁奶）。\n对 lactose intolerant（乳糖不耐受）的人来说，soymilk 是常见替代品。\n吃早餐想家时，一杯热豆浆就是乡愁。",
+  "ex": "Soymilk is a popular alternative to dairy milk for people who are lactose intolerant.",
+  "exCn": "对乳糖不耐受的人来说，豆浆是一种很受欢迎的牛奶替代品。",
+  "pte": "拼写 soymilk / soy milk / soya milk（英）。搭配 lactose intolerant。",
+  "tags": "#澳洲咖啡 #早餐乡愁",
+  "cm": [
+   [
+    "乳糖不耐受",
+    "soy latte 救了我",
+    "5678"
+   ],
+   [
+    "燕麦奶党",
+    "oat 才是王道",
+    "3456"
+   ],
+   [
+    "想家的人",
+    "想念油条配豆浆",
+    "8765"
+   ]
+  ]
+ },
+ {
+  "w": "proficiently",
+  "title": "能 proficiently 用英语吐槽，才算真的精通",
+  "line": "用得溜",
+  "stk": "🏅",
+  "body": "proficient（精通的、熟练的）→ proficiently（熟练地、精通地）。来自拉丁语 proficere（取得进展）：pro-（向前）+ facere（做）。\n名词 proficiency：English proficiency（英语水平）。PTE 这类考试本质上就是在测 language proficiency。\n介词搭配：proficient in / at sth，比如 proficient in English、proficient at coding。\n同义：skilled、competent、fluent（多用于语言）、adept。",
+  "ex": "Applicants must demonstrate that they can communicate proficiently in English in both academic and professional settings.",
+  "exCn": "申请人必须证明自己在学术和职场环境中都能熟练地用英语交流。",
+  "pte": "搭配 proficient in / at。名词 proficiency。同义 competent / adept。",
+  "tags": "#语言能力 #固定搭配",
+  "cm": [
+   [
+    "考鸭本鸭",
+    "我只能熟练地说 sorry",
+    "9876"
+   ],
+   [
+    "移民中介",
+    "proficient English 有分数要求",
+    "2345"
+   ],
+   [
+    "吐槽大师",
+    "吐槽才是最高境界",
+    "3456"
+   ]
+  ]
+ },
+ {
+  "w": "recidivist",
+  "title": "recidivist：一再“掉回去”的人",
+  "line": "屡教不改",
+  "stk": "🔄",
+  "body": "re-（回）+ cadere（落下）= 又落回去 → 惯犯、累犯。名词 recidivism（再犯、累犯现象），recidivism rate（再犯率）。\ncadere 家族：decadent（颓废的，“往下掉”）、cadence（语调的降落、节奏）、incident（落到身上的事）。\n犯罪学和社会政策常讨论：教育、职业培训、心理辅导能否降低 recidivism。\n生活版：说好不熬夜，又熬到两点，我就是熬夜界的 recidivist。",
+  "ex": "Researchers are examining whether education programmes in prison can reduce rates of recidivism among young offenders.",
+  "exCn": "研究人员正在研究监狱中的教育项目能否降低青少年罪犯的再犯率。",
+  "pte": "名词 recidivism。词根 cadere（落）：decadent / cadence。",
+  "tags": "#犯罪学 #熬夜惯犯",
+  "cm": [
+   [
+    "熬夜惯犯",
+    "我就是 recidivist 本人",
+    "7654"
+   ],
+   [
+    "犯罪学",
+    "recidivism rate 是核心指标",
+    "2345"
+   ],
+   [
+    "词根控",
+    "cadence 也是落下，懂了",
+    "1234"
+   ]
+  ]
+ }
+]
